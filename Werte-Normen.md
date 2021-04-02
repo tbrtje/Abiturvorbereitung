@@ -206,7 +206,7 @@ Deduktion -> Empirie (Einzelfall) -> Induktion -> Theorie(Regel) -> Deduktion
 
 ### Platon
 #### Höhlengleichnis
-![Hoehlengleichnis](assets/Hoehlengleichnis.svg)
+![Hoehlengleichnis](assets/Hoehlengleichnis.svg) von Leif Czerny
 Menschen sind in einer Höhle angekettet, sie haben vorher nichts von der äußeren Welt gesehen und können nur die Schatten von Gegenständen, welche Menschen an der Höhle vorbeitragen, erkennen.
 Nun bricht einer der Gefesselten aus und sieht die wahre Welt. Kommt er zurück um zu berichten, glauben ihm die Anderen nicht, sie können es sich nicht vorstellen.
 
@@ -217,7 +217,7 @@ Der Aufstieg ans Tageslicht kann als Aufstieg der Seele zur "geistigen Stätte" 
 
 #### Liniengleichnis
 
-![Liniengleichnis](assets/Liniengleichnis.svg)
+![Liniengleichnis](assets/Liniengleichnis.svg) von Leif Czerny
 Nach dem Liniengleichnis steht die Erkenntnis über der Meinung. Die Erkenntnis ist aufgeteilt in Ideen und mathematischen Gegenständen. Ideen stehen dabei oben.
 Die Meinung unterteilt sich zwischen sinnlich wahrnehmbaren Dingen und Abbildern. Abbilder stehen dabei under den sinnlich wahrnehmbaren Dingen.
 ### Descartes - Der methodische Zweifel
