@@ -65,7 +65,8 @@ Die Induktivität beschreibt den Grad dieser Selbstinduktion.
 ### harmonische Schwingungen
 Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
 ### Wellen
-Wellen entstehen als Teil 
+Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
+Diese Schwingungen z
 #### harmonische Wellen
 #### Interferenz
 ##### Interferometer
