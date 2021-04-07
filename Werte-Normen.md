@@ -206,7 +206,7 @@ Deduktion -> Empirie (Einzelfall) -> Induktion -> Theorie(Regel) -> Deduktion
 
 ### Platon
 #### Höhlengleichnis
-![Hoehlengleichnis](assets/Hoehlengleichnis.svg) von Leif Czerny
+![Hoehlengleichnis](assets/Hoehlengleichnis.svg)
 Menschen sind in einer Höhle angekettet, sie haben vorher nichts von der äußeren Welt gesehen und können nur die Schatten von Gegenständen, welche Menschen an der Höhle vorbeitragen, erkennen.
 Nun bricht einer der Gefesselten aus und sieht die wahre Welt. Kommt er zurück um zu berichten, glauben ihm die Anderen nicht, sie können es sich nicht vorstellen.
 
@@ -217,7 +217,7 @@ Der Aufstieg ans Tageslicht kann als Aufstieg der Seele zur "geistigen Stätte" 
 
 #### Liniengleichnis
 
-![Liniengleichnis](assets/Liniengleichnis.svg) von Leif Czerny
+![Liniengleichnis](assets/Liniengleichnis.svg)
 Nach dem Liniengleichnis steht die Erkenntnis über der Meinung. Die Erkenntnis ist aufgeteilt in Ideen und mathematischen Gegenständen. Ideen stehen dabei oben.
 Die Meinung unterteilt sich zwischen sinnlich wahrnehmbaren Dingen und Abbildern. Abbilder stehen dabei under den sinnlich wahrnehmbaren Dingen.
 ### Descartes - Der methodische Zweifel
@@ -279,3 +279,32 @@ Ein solcher Zustand wird durch Distanzierung von schmerzlichen und beunruhigende
 Glück wird durch Opferbereitschaft und dem Streben nach Pflichterfüllung (eudaimonia) erreicht.
 Im Gegensatz zu Epikur macht also nicht die Distanzierung von Problemen glücklich, sondern die aktive Bewältigung von Schmerz und Angst.
 Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
+
+## Naturethik
+
+Die Naturethik befasst sich damit, wie Rechte für Tiere zu begründen sind.
+In der Naturethik überwiegen zwei Ansichten, zum einen das physiozentrische Weltbild, das heißt die Welt an sich steht im Mittelpunkt,
+die Menschen sind also Teil der Natur und stehen nicht über ihr, und zum Anderen das antropozentrische Weltbild,
+dass heißt der Mensch steht über den anderen Lebewesen und der Natur.
+
+Argumente für die physiozentrische Perspektive sind:
+- Das Leidensargument: Moralische Entscheidungen gelten nicht nur für den Menschen, sondern auch für die Natur, d.h. der Respekt
+  für das gute Leben endet nicht beim Menschen, sondern bezieht sich auch auf Tiere. -> Menschen sollen Tiere also schützen, wie
+  andere Menschen.
+  Ein Beispiel für dieses Argument wäre der Verzicht auf Tierversuche, da man nicht möchte, dass Tiere leiden.
+- Das Teleologische Argument: Der Zweck steht im Vordergrund. Unterschieden wird hierbei zwischen dem funktionalen und dem praktischem
+  Zweck, das heißt mit Absicht.
+  - funktionaler Zweck -> Tiere und Pflanzen
+  - praktischer Zweck  -> Menschen
+- Das holistische Argument: Der Mensch ist ein Teil der Natur, die Natur bekommt daher einen Eigenwert. Dagegen steht das dualistische
+  Argument, nachdem Menschen und Natur zwar von einander abhängen, jedoch nicht als Einheit zu sehen sind.
+Argumente für die antropozentrische Perspektive sind:
+- Das Grundbedürfnisargument: Die Natur wird instrumentalisiert für unsere Grundbedürfnisse. Wir benötigen sie, deshalb müssen wir sie
+  schützen.
+- Das Heimatsargument: Die Natur, genauer die Landschaft um uns herum ist identitätsstiftend, daher ist sie schützenswert.
+- Das ästhetische Argument: Die Natur ist ein wichtiger Bestandteil des täglichen Erlebens. Landschaften können ästhetisch sein
+  und sollten daher erhalten werden. 
+- Sinn des Lebens-Argument: Der Mensch steht im Zentrum. Die religiöse Ordnung zwischen Mensch und Tier muss erhalten bleiben.
+  Sinn des Menschen ist es, das Abbild Gottes auf Erden, also der Gott der Natur zu sein.
+
+
