@@ -63,8 +63,9 @@ Dadurch wächst der Strom beim anschalten der Spule wie beim begrenzten Wachstum
 Die Induktivität beschreibt den Grad dieser Selbstinduktion.
 ## Schwingungen und Wellen
 ### harmonische Schwingungen
-Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abh
+Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
 ### Wellen
+Wellen entstehen als Teil 
 #### harmonische Wellen
 #### Interferenz
 ##### Interferometer
