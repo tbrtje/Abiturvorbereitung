@@ -54,7 +54,7 @@ Berechnung der Spannung: F_Lorentz=F_EFeld
 Allgemeines Induktionsgesetz: U=-Wicklungszahl x Ableitung des elektrischen Flusses
 
 #### Lenzsche Regel
-******Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
+Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
 #### Selbstinduktion
 Stromänderung ruft Magnetfeldänderung in einer Spule hervor. Diese Änderung ruft wiederum eine Induktionsspannung hervor.
 Dies passiert beim Ein- und Ausschalten einer Spule. Beim Einschalten ist die Selbstinduktionsspannung negativ, beim ausschalten positiv.
@@ -63,6 +63,7 @@ Dadurch wächst der Strom beim anschalten der Spule wie beim begrenzten Wachstum
 Die Induktivität beschreibt den Grad dieser Selbstinduktion.
 ## Schwingungen und Wellen
 ### harmonische Schwingungen
+Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abh
 ### Wellen
 #### harmonische Wellen
 #### Interferenz

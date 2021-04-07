@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe.md",
+            "file": "Physik.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe.md",
+                "file": "Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "0f9d37e0ea1af971",
   "lastOpenFiles": [
-    "Mathe.md",
     "Physik.md",
+    "Mathe.md",
     "Englisch.md"
   ]
 }
