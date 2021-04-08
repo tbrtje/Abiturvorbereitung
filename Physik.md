@@ -50,9 +50,9 @@ eine Änderung der durchflossenen Fläche oder durch Änderung der magnetischen 
 Eine Induktionsspannung entsteht z.B., wenn ein Leiter senkrecht zur Richtung des magnetischen Feldes bewegt wird. Dadurch wirkt auf
 die freien Elektronen im Leiter eine Lorentzkraft, welche die Elektronen im Leiter bewegt. Dadurch wird die Ladung getrennt und es
 entsteht ein Potential, also eine Spannung.
-Berechnung der Spannung: $$F_{Lorentz}=F_{EFeld}$$
-Allgemeines Induktionsgesetz: $$U=-n$$
-Wicklungszahl x Ableitung des elektrischen Flusses
+Berechnung der Spannung: $F_{Lorentz}=F_{EFeld}$
+Allgemeines Induktionsgesetz: $U=-n\times{\dot{\Phi}}$
+$Wicklungszahl x Ableitung des elektrischen Flusses$
 #### Lenzsche Regel
 Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
 #### Selbstinduktion
