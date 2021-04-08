@@ -50,9 +50,9 @@ eine Änderung der durchflossenen Fläche oder durch Änderung der magnetischen 
 Eine Induktionsspannung entsteht z.B., wenn ein Leiter senkrecht zur Richtung des magnetischen Feldes bewegt wird. Dadurch wirkt auf
 die freien Elektronen im Leiter eine Lorentzkraft, welche die Elektronen im Leiter bewegt. Dadurch wird die Ladung getrennt und es
 entsteht ein Potential, also eine Spannung.
-Berechnung der Spannung: F_Lorentz=F_EFeld
-Allgemeines Induktionsgesetz: U=-Wicklungszahl x Ableitung des elektrischen Flusses
-
+Berechnung der Spannung: $$F_{Lorentz}=F_{EFeld}$$
+Allgemeines Induktionsgesetz: $$U=-n$$
+Wicklungszahl x Ableitung des elektrischen Flusses
 #### Lenzsche Regel
 Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
 #### Selbstinduktion
@@ -83,8 +83,7 @@ Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, wel
 ### Elektronenbeugungsröhre
 ### Wellenlänge bei Quantenobjekten mit der de-Broglie-Gleichung
 $$E=h\times{f}=\frac{hc}{\lambda}$$
-p=\frac{E}{c}
-$$
+$$p=\frac{E}{c}$$
 ### Mach-Zehnder Interferometer
 ### Nichtlokalität und Komplementarität
 ### Doppelspaltexperimente
