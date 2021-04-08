@@ -77,7 +77,7 @@ Wellen sind harmonisch, wenn die Schwingung der Oszillatoren in Abhaengigkeit vo
 Zwei Wellen beeinflussen sich nicht gegenseitig, sondern ueberlagern sich. Dieses Verhalten wird Interferenz genannt. An einem Punkt kann sie konstruktiv sein, wenn Wellenberg und Wellenberg, bzw. Wellental und Wellental aufeinander liegen. Die messbare Energie an diesem Punkt vergroessert sich.
 Treffen Wellenberg und Wellental aufeinander, liegt destruktive Interferenz vor, es ist dort keine Energie messbar.
 Bei Wellen gleicher Frequenz muss fuer konstruktive Interferenz ein Gangunterschied von $n\times{\lambda}$ vorliegen.
-Fuer destruktive Interferenz muss ein Gangunterschied von $\$
+Fuer destruktive Interferenz muss ein Gangunterschied von $(n-1)\times{\frac{\lambda}{2}}$ vorliegen.
 ##### Interferometer
 ##### Doppelspalt
 ##### stehende Wellen
