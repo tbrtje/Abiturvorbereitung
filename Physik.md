@@ -49,6 +49,12 @@ Dieses Prinzip nutzt auch der Röhrenfernseher.
 Sind die Finger so wie abgebildet gespreizt, steht der Daumen für die Bewegungsrichtung von Elektronen, der Zeigefinger für die Richtung des elektrischen Feldes und der Mittelfinger für die wirkende Lorentzkraft.
 
 Bei einem stromdurchflossenen Leiter steht der Daumen für die Stromrichtung, die den Leiter umfassenden Finger für die Richtung des Magnetfeldes.
+
+#### Lorentzkraft
+Die Lorentzkraft beschreibt die Kraft auf bewegte Ladungsträger in einem Magnetfeld. Für ein geladenes Teilchen ist sie $F_{Lorentz}=B\times v\times q$.
+Für einen stromdurchflossenen Leiter ist sie: $F_{Lorentz}=B\times I\times s$, wobei s die Strecke des Leiters ist, welche sich im Magnetfeld befindet.
+#### Hall-Effekt
+![/assets/]()
 #### Magnetfeld einer langen Spule
 Wenn angenommen wird, dass das magnetische Feld im inneren einer Spule konstant und außerhalb der Spule nicht vorhanden ist, dann lässt sich annehmen, dass die Stromstärke durch folgende Gleichung beschrieben werden kann:
 $$\frac{B\bullet{L}}{\mu_0\bullet{\mu_r}}=I\bullet{n}$$
