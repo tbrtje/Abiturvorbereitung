@@ -50,6 +50,7 @@ Richtung: Von Nord nach Süd
 Es gibt Permanentmagneten (Hufeisen- und Stabmagnete), Elektromagnete (Spulen oder Leiter)
 Besondere Magnetfelder:
 Hufeisenmagnet: Homogenes Feld im inneren des Magneten
+Magnetfelder beeinflussen sich nicht, sondern überlagern sich nur. Gegenseitige Magnetfelder können sich wie elektrische Felder ausgleichen, diese Stellen sind dann Feldfrei.
 #### Linke-Hand-Regel
 Sind die Finger so wie abgebildet gespreizt, steht der Daumen für die Bewegungsrichtung von Elektronen, der Zeigefinger für die Richtung des elektrischen Feldes und der Mittelfinger für die wirkende Lorentzkraft.
 
