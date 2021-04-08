@@ -10,7 +10,7 @@ Q ist die Ladung, also eine bestimmte Anzahl an Elektronen.
 E ist die elektrische Feldstärke.
 U ist die Spannung, also die Energie pro Ladungsträger.
 C ist die Kapazität eines Kondensators, also die Ladung pro Spannung
-
+L ist die Induktivität einer Spule.
 ### Elektrische Felder
 Elektrische Felder entstehen zwischen zwei Potentialen, also wenn Ladung getrennt wird.
 Das Feld eines Kondensators ist homogen, die Feldlinien (von plus nach minus) in diesem Feld verlaufen also parallel, eine Probeladung wird überall
@@ -27,7 +27,7 @@ Zu Beginn des Ladevorgangs ist die Stromstärke sehr groß und klingt dann expon
 Hier kann die Stromstärke ebenfalls durch eine exponentielle Abnahme beschrieben werden.
 Die Spannungskurve verläuft hierbei ähnlich.
 ##### Dielektrikum
-Ein nichtleitendes Material wird zwischen die Kondensatorplatten gelegt. In den Atomen des Dielektrikums bilden sich aufgrund des elektrischen Feldes des Kondensators Dipole, die Atome verformen sich also. Dadurch ist die Seite des Dielektrikums, welche der negativ geladenen Platte nahe ist eher positiv geladen, während die andere Seite des Dielektrikums eher negativ geladen ist. Dadurch entsteht ein dem Feld des Kondensators entgegenwirkendes elektrisches Feld. Dadurch wird das elektrische Feld des Kondensators schwächer und die Kapazität des Kondensators
+Ein nichtleitendes Material wird zwischen die Kondensatorplatten gelegt. In den Atomen des Dielektrikums bilden sich aufgrund des elektrischen Feldes des Kondensators Dipole, die Atome verformen sich also. Dadurch ist die Seite des Dielektrikums, welche der negativ geladenen Platte nahe ist eher positiv geladen, während die andere Seite des Dielektrikums eher negativ geladen ist. Dadurch entsteht ein dem Feld des Kondensators entgegenwirkendes elektrisches Feld. Dadurch wird das elektrische Feld des Kondensators schwächer und die Kapazität des Kondensators erhöht sich. Dadurch kann der Kondensator mehr Ladung aufnehmen.
 #### Elektronenkanone
 Die Eigenschaften von elektrischen Feldern können genutzt werden, um Elektronen gezielt zu beschleunigen.
 Ein möglicher Aufbau ist der folgende.
@@ -45,6 +45,7 @@ Mithilfe dieses Aufbaus lässt sich der entstehende Punkt auf dem Schirm gezielt
 geregelt wird.
 Dieses Prinzip nutzt auch der Röhrenfernseher.
 ### Magnetische Felder
+#### Energie des magnetischen Feldes
 
 #### Elektromagneten
 Um jeden stromdurchflossenen Leiter entsteht ein magnetisches Feld. Wickelt man den Leiter zu einer Spule, so verstärkt sich der Effekt.
