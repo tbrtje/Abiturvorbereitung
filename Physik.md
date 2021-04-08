@@ -46,6 +46,10 @@ Mithilfe dieses Aufbaus lässt sich der entstehende Punkt auf dem Schirm gezielt
 geregelt wird.
 Dieses Prinzip nutzt auch der Röhrenfernseher.
 ### Magnetische Felder
+Richtung: Von Nord nach Süd
+Es gibt Permanentmagneten (Hufeisen- und Stabmagnete), Elektromagnete (Spulen oder Leiter)
+Besondere Magnetfelder:
+Hufeisenmagnet: Homogenes Feld im inneren des Magneten
 #### Linke-Hand-Regel
 Sind die Finger so wie abgebildet gespreizt, steht der Daumen für die Bewegungsrichtung von Elektronen, der Zeigefinger für die Richtung des elektrischen Feldes und der Mittelfinger für die wirkende Lorentzkraft.
 
@@ -103,7 +107,7 @@ Die Induktivität beschreibt den Grad dieser Selbstinduktion.
 #### Transformatoren
 An eine Primärspule mit hoher Windungszahl wird eine hohe Wechselpannung angeschlossen. In einer Senkundärspule mit geringerer Windungszahl wird nun durch das entstehende Magnetfeld und die ständige Änderung dieses Magnetfeldes eine geringerere Spannung und ein höherer Strom induziert. Kombiniere ich eine Primärspannung mit kleiner Windungszahl der Primärspule und grosser Windungszahl der Sekundärspule, so ist die induzierte Sekundärspannung größer und der Strom geringer.
 Verwendet man einen Eisenkern, um die Spulen zu verbinden, so lässt sich eine höhere Effizienz erreichen. Bei verlustfreier Umwandlung würde sich folgendes Verhältnis ergeben:
-$$\frac{U_{Primär}}{U_{Sekundär}=\frac{}{}=\frac{}{}$$
+$$\frac{U_{Primär}}{U_{Sekundär}}=\frac{n_{Primär}}{n_{Sekundär}}=\frac{I_{Sekundär}}{I_{Primär}}$$
 ## Schwingungen und Wellen
 ### harmonische Schwingungen
 Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
