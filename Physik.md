@@ -52,13 +52,15 @@ die freien Elektronen im Leiter eine Lorentzkraft, welche die Elektronen im Leit
 entsteht ein Potential, also eine Spannung.
 Berechnung der Spannung: $F_{Lorentz}=F_{EFeld}$
 Allgemeines Induktionsgesetz: $U=-n\times{\dot{\Phi}}$
-$Wicklungszahl x Ableitung des elektrischen Flusses$
+$n: Wicklungszahl$
+$\Phi : Ableitung des elektrischen Flusses$
 #### Lenzsche Regel
 Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
 #### Selbstinduktion
 Stromänderung ruft Magnetfeldänderung in einer Spule hervor. Diese Änderung ruft wiederum eine Induktionsspannung hervor.
 Dies passiert beim Ein- und Ausschalten einer Spule. Beim Einschalten ist die Selbstinduktionsspannung negativ, beim ausschalten positiv.
 Dadurch wächst der Strom beim anschalten der Spule wie beim begrenzten Wachstum an und fällt beim Ausschalten auch so ähnlich.
+Gl
 
 Die Induktivität beschreibt den Grad dieser Selbstinduktion.
 ## Schwingungen und Wellen
