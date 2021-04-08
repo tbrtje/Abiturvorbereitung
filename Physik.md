@@ -54,7 +54,8 @@ Bei einem stromdurchflossenen Leiter steht der Daumen für die Stromrichtung, di
 Die Lorentzkraft beschreibt die Kraft auf bewegte Ladungsträger in einem Magnetfeld. Für ein geladenes Teilchen ist sie $F_{Lorentz}=B\times v\times q$.
 Für einen stromdurchflossenen Leiter ist sie: $F_{Lorentz}=B\times I\times s$, wobei s die Strecke des Leiters ist, welche sich im Magnetfeld befindet.
 #### Hall-Effekt
-![/assets/]()
+![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Hall_effect_A.png) [Peo (modification by Church of emacs)](https://commons.wikimedia.org/wiki/File:Hall_effect_A.png "via Wikimedia Commons")[CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/))
+Durch eine Metallplatte fliesst ein Strom. Wird diese Metallplatte in ein Magnetfeld gehalten, dann werden die durch die Platte fliessenden Elektronen in der Metallplatte durch die auf sie wirkende Lorentzkraft abgelenkt. Dadurch entsteht eine Ladungsverschiebung in dieser Platte, welche als Spannung quer über der Platte messbar ist, di
 #### Magnetfeld einer langen Spule
 Wenn angenommen wird, dass das magnetische Feld im inneren einer Spule konstant und außerhalb der Spule nicht vorhanden ist, dann lässt sich annehmen, dass die Stromstärke durch folgende Gleichung beschrieben werden kann:
 $$\frac{B\bullet{L}}{\mu_0\bullet{\mu_r}}=I\bullet{n}$$
