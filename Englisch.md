@@ -85,4 +85,6 @@ The prosperity caused by globalisation and the decreasing prices of products cau
 ## Never Let Me Go
 ## Crash
 ## The Child
+### Content:
+Karen (17) is a black, pregnant teen 
 ## 

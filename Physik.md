@@ -111,6 +111,14 @@ An eine Primärspule mit hoher Windungszahl wird eine hohe Wechselpannung angesc
 Verwendet man einen Eisenkern, um die Spulen zu verbinden, so lässt sich eine höhere Effizienz erreichen. Bei verlustfreier Umwandlung würde sich folgendes Verhältnis ergeben:
 $$\frac{U_{Primär}}{U_{Sekundär}}=\frac{n_{Primär}}{n_{Sekundär}}=\frac{I_{Sekundär}}{I_{Primär}}$$
 ## Schwingungen und Wellen
+Eine Schwingung ist eine periodische Bewegung. Das schwingende Objekt befindet sich also nach bestimmten Zeitabständen wieder am selben Ort.
+Vorraussetzung hierfür ist:
+1. Das Objekt hat eine Ruhelage zu der es zurückkehren kann
+2. Die periodische Bewegung muss die Ruhelage durchqueren.
+Eigenschaften einer Schwingung:
+$T$: Periodendauer
+$f=\frac{1}{T}$: Frequenz der Schwingung
+
 ### harmonische Schwingungen
 Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
 ### Wellen
