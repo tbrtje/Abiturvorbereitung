@@ -64,7 +64,10 @@ $$E=B\times v$$
 $$\frac{U}{d}=B\times v$$
 $$U=B\times v\times d$$
 #### Wien-Filter
-Durch ein Magnetfeld und einem senkrecht dazu stehenden elektrischem Feld kann ein Geschwindigkeitsfilter für Elektronen gebaut werden. Durch das el
+Durch ein Magnetfeld und einem senkrecht dazu stehenden elektrischem Feld kann ein Geschwindigkeitsfilter für Elektronen gebaut werden. Durch die Kraft des elektrischen Feldes werden Elektronen in die eine Richtung abgelenkt.
+In die andere Richtung werden die Elektronen aufgrund der auf sie wirkenden Lorentzkraft abgelenkt. Hierbei ist der Betrag dieser Kraft abhängig von der magnetischen Flussdichte und der Geschwindigkeit der Elektronen. Nur wenn der Betrag der Lorentzkraft gleich dem der elektrischen Feldkraft ist, passieren die Elektronen den Filter gradlinig. Wird nun auf der der Elektronenkanone gegenüberliegenden Seite des Filters eine Lochblende installiert, so passieren nur Elektronen strahlförmig mit einheitlicher Geschwindigkeit den Filter.
+
+
 #### Magnetfeld einer langen Spule
 Wenn angenommen wird, dass das magnetische Feld im inneren einer Spule konstant und außerhalb der Spule nicht vorhanden ist, dann lässt sich annehmen, dass die Stromstärke durch folgende Gleichung beschrieben werden kann:
 $$\frac{B\bullet{L}}{\mu_0\bullet{\mu_r}}=I\bullet{n}$$
@@ -82,6 +85,7 @@ Berechnung der Spannung: $F_{Lorentz}=F_{EFeld}$
 Allgemeines Induktionsgesetz: $U=-n\times{\dot{\Phi}}$
 $n: Wicklungszahl$
 $\Phi : Ableitung des elektrischen Flusses$
+$$U=-n\times A\times \mu_0 \times \mu_r \times\frac$$
 #### Lenzsche Regel
 Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
 #### Selbstinduktion
