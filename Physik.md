@@ -45,8 +45,11 @@ Mithilfe dieses Aufbaus lässt sich der entstehende Punkt auf dem Schirm gezielt
 geregelt wird.
 Dieses Prinzip nutzt auch der Röhrenfernseher.
 ### Magnetische Felder
-#### Energie des magnetischen Feldes
-
+#### Magnetfeld einer langen Spule
+Wenn angenommen wird, dass das magnetische Feld im inneren einer Spule konstant und außerhalb der Spule nicht vorhanden ist, dann lässt sich annehmen, dass die Stromstärke durch folgende Gleichung beschrieben werden kann:
+$$\frac{B\bullet{L}}{\mu_0\bullet{\mu_r}}=I\bullet{n}$$
+Daraus folgt:
+$$B=\mu_0\bullet{\mu_r}\bullet{\frac{n\bullet{I}}{L}}$$
 #### Elektromagneten
 Um jeden stromdurchflossenen Leiter entsteht ein magnetisches Feld. Wickelt man den Leiter zu einer Spule, so verstärkt sich der Effekt.
 ### Induktion
