@@ -10,7 +10,8 @@ Q ist die Ladung, also eine bestimmte Anzahl an Elektronen.
 E ist die elektrische Feldstärke.
 U ist die Spannung, also die Energie pro Ladungsträger.
 C ist die Kapazität eines Kondensators, also die Ladung pro Spannung
-L ist die Induktivität einer Spule.
+L ist die Induktivität einer Spule. Sie beschreibt alle materiellen und geometrischen Eigenschaften der Spule.
+
 ### Elektrische Felder
 Elektrische Felder entstehen zwischen zwei Potentialen, also wenn Ladung getrennt wird.
 Das Feld eines Kondensators ist homogen, die Feldlinien (von plus nach minus) in diesem Feld verlaufen also parallel, eine Probeladung wird überall
@@ -85,15 +86,22 @@ Berechnung der Spannung: $F_{Lorentz}=F_{EFeld}$
 Allgemeines Induktionsgesetz: $U=-n\times{\dot{\Phi}}$
 $n: Wicklungszahl$
 $\Phi : Ableitung des elektrischen Flusses$
-$$U=-n\times A\times \mu_0 \times \mu_r \times\frac$$
+In einer Spule:
+$$U=-n\times A\times \mu_0 \times \mu_r \times\frac{n\times\dot{I}}{l}$$
+$$U=-n²\times A\times \mu_0 \times \mu_r \times\frac{1}{l}\times\dot{I}$$
+Zusammenfassung der geometrischen und materiellen Eigenschaften einer Spule zur Induktivität
+$$L=-n²\times A\times \mu_0 \times \mu_r \times\frac{1}{l}$$
+$$U=-L\times\dot I$$
+Umgeschrieben ergibt sich
 #### Lenzsche Regel
 Der entstehende Induktionsstrom wirkt seiner Ursache immer entgegen.
 #### Selbstinduktion
 Stromänderung ruft Magnetfeldänderung in einer Spule hervor. Diese Änderung ruft wiederum eine Induktionsspannung hervor.
 Dies passiert beim Ein- und Ausschalten einer Spule. Beim Einschalten ist die Selbstinduktionsspannung negativ, beim ausschalten positiv.
 Dadurch wächst der Strom beim anschalten der Spule wie beim begrenzten Wachstum an und fällt beim Ausschalten auch so ähnlich.
-
 Die Induktivität beschreibt den Grad dieser Selbstinduktion.
+#### Transformatoren
+An eine Primärspule mit geringer Windungszahl wird eine hohe Spannung angeschlossen.
 ## Schwingungen und Wellen
 ### harmonische Schwingungen
 Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
