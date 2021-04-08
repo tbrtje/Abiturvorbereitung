@@ -80,6 +80,8 @@ Bei Wellen gleicher Frequenz muss fuer konstruktive Interferenz ein Ganguntersch
 Fuer destruktive Interferenz muss ein Gangunterschied von $\frac{(n-1)}{2}\times{\frac{\lambda}{2}}$ vorliegen.
 ##### Interferometer
 Bei einem Interferometer werden Wellen zwei Wege langgeschickt, welche am Ende aufeinandertreffen. Dort ist ein Schirm befestigt, auf den die Wellen auftreffen koennen. Hierbei entstehen Interferenzmuster, je nachdem wie gross der Gangunterschied ist.
+Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
+1. Das Michaelson-Interferometer: Eine 
 ##### Doppelspalt
 ##### stehende Wellen
 ##### Schwebungen
