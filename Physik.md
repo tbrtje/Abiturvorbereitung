@@ -84,7 +84,8 @@ Um jeden stromdurchflossenen Leiter entsteht ein magnetisches Feld. Wickelt man 
 ### Induktion
 Ein elektrisches Feld entsteht durch Änderung des magnetischen Flusses. Die Änderung des magnetischen Flusses kann entweder durch
 eine Änderung der durchflossenen Fläche oder durch Änderung der magnetischen Feldstärke hervorgerufen werden.
-Eine Induktionsspannung entsteht z.B., wenn ein Leiter senkrecht zur Richtung des magnetischen Feldes bewegt wird. Dadurch wirkt auf
+Die durchflossene Fläche lässt sich beispielsweise ändern, indem eine Leiterschlaufe in einem Magnetfeld gedreht wird. Dadurch ist eine Induktionsspannung an dieser Schlaufe messbar. Eine Implementation dieses Verfahrens ist z.B. ein Dynamo.
+Eine Induktionsspannung entsteht aber auch, wenn z.B. ein Leiter senkrecht zur Richtung des magnetischen Feldes bewegt wird. Dadurch wirkt auf
 die freien Elektronen im Leiter eine Lorentzkraft, welche die Elektronen im Leiter bewegt. Dadurch wird die Ladung getrennt und es
 entsteht ein Potential, also eine Spannung.
 Berechnung der Spannung: $F_{Lorentz}=F_{EFeld}$
