@@ -82,10 +82,9 @@ Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, wel
 ## Quantenobjekte
 ### Elektronenbeugungsröhre
 ### Wellenlänge bei Quantenobjekten mit der de-Broglie-Gleichung
-$$\begin
-\\[E=h\times{f}=\frac{hc}{\lambda}]\\
-\\[p=\frac{E}{c}]\\
-\end$$
+$$E=h\times{f}=\frac{hc}{\lambda}$$
+p=\frac{E}{c}
+$$
 ### Mach-Zehnder Interferometer
 ### Nichtlokalität und Komplementarität
 ### Doppelspaltexperimente
