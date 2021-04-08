@@ -9,6 +9,8 @@ I beschreibt die Stärke eines Stroms. Definiert ist diese Größe als Ladung pr
 Q ist die Ladung, also eine bestimmte Anzahl an Elektronen.
 E ist die elektrische Feldstärke.
 U ist die Spannung, also die Energie pro Ladungsträger.
+C ist die Kapazität eines Kondensators, also die Ladung pro Spannung
+
 ### Elektrische Felder
 Elektrische Felder entstehen zwischen zwei Potentialen, also wenn Ladung getrennt wird.
 Das Feld eines Kondensators ist homogen, die Feldlinien (von plus nach minus) in diesem Feld verlaufen also parallel, eine Probeladung wird überall
