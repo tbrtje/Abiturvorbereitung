@@ -26,6 +26,8 @@ Die Ladekurve eines Kondensators kann durch eine exponentielle Funktion beschrie
 Zu Beginn des Ladevorgangs ist die Stromstärke sehr groß und klingt dann exponentiell ab. Beim Entladen ist der Vorgang derselbe.
 Hier kann die Stromstärke ebenfalls durch eine exponentielle Abnahme beschrieben werden.
 Die Spannungskurve verläuft hierbei ähnlich.
+##### Dielektrikum
+Ein nichtleitendes Material wird zwischen die Kondensatorplatten gelegt. In den Atomen des Dielektrikums bilden sich aufgrund des elektrischen Feldes des Kondensators Dipole, die Atome verformen sich also. Dadurch ist die Seite des Dielektrikums, welche der negativ geladenen Platte nahe ist eher positiv geladen, während die andere Seite des Dielektrikums eher negativ geladen ist. Dadurch entsteht ein dem Feld des Kondensators entgegenwirkendes elektrisches Feld. Dadurch wird das elektrische Feld des Kondensators schwächer und die Kapazität des Kondensators
 #### Elektronenkanone
 Die Eigenschaften von elektrischen Feldern können genutzt werden, um Elektronen gezielt zu beschleunigen.
 Ein möglicher Aufbau ist der folgende.
