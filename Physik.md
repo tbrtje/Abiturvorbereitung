@@ -90,7 +90,7 @@ In einer Spule:
 $$U=-n\times A\times \mu_0 \times \mu_r \times\frac{n\times\dot{I}}{l}$$
 $$U=-n²\times A\times \mu_0 \times \mu_r \times\frac{1}{l}\times\dot{I}$$
 Zusammenfassung der geometrischen und materiellen Eigenschaften einer Spule zur Induktivität
-$$L=-n²\times A\times \mu_0 \times \mu_r \times\frac{1}{l}$$
+$$L=n²\times A\times \mu_0 \times \mu_r \times\frac{1}{l}$$
 $$U=-L\times\dot I$$
 Umgeschrieben ergibt sich
 #### Lenzsche Regel
@@ -101,7 +101,9 @@ Dies passiert beim Ein- und Ausschalten einer Spule. Beim Einschalten ist die Se
 Dadurch wächst der Strom beim anschalten der Spule wie beim begrenzten Wachstum an und fällt beim Ausschalten auch so ähnlich.
 Die Induktivität beschreibt den Grad dieser Selbstinduktion.
 #### Transformatoren
-An eine Primärspule mit geringer Windungszahl wird eine hohe Spannung angeschlossen.
+An eine Primärspule mit hoher Windungszahl wird eine hohe Wechselpannung angeschlossen. In einer Senkundärspule mit geringerer Windungszahl wird nun durch das entstehende Magnetfeld und die ständige Änderung dieses Magnetfeldes eine geringerere Spannung und ein höherer Strom induziert. Kombiniere ich eine Primärspannung mit kleiner Windungszahl der Primärspule und grosser Windungszahl der Sekundärspule, so ist die induzierte Sekundärspannung größer und der Strom geringer.
+Verwendet man einen Eisenkern, um die Spulen zu verbinden, so lässt sich eine höhere Effizienz erreichen. Bei verlustfreier Umwandlung würde sich folgendes Verhältnis ergeben:
+$$\frac{U_{Primär}}{U_{Sekundär}=\frac{}{}=\frac{}{}$$
 ## Schwingungen und Wellen
 ### harmonische Schwingungen
 Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
