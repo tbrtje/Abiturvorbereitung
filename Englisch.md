@@ -86,5 +86,11 @@ The prosperity caused by globalisation and the decreasing prices of products cau
 ## Crash
 ## The Child
 ### Content:
-Karen (17) is a black, pregnant teen 
+Karen (17) is a black, pregnant teen sitting at a dirty subway station.
+She feels like she serves no function and has no destination, she feels unnoticed.
+She notices a drunk man.
+Her mother is angry at her for becoming pregnant so early.
+When the train comes, she feels afraid, like someone is going to hurt her.
+She remembers the childs dad made her feel like she matters, but when he finds out she is pregnant, he leaves like most black dads do.
+She notices a white girl minding her own business and Karen hates her, because she is white and has to be someone because of that.
 ## 
