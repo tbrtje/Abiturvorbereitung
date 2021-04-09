@@ -197,7 +197,10 @@ Max Planck hat durch die berühmte Formel $E=h\times f$ erstmals eine Verbindung
 #### LED
 #### Vakuum-Fotozelle
 ### Röntgenstrahlung
-Besteht aus zwei Spektren. Die Röntgenbremsst
+Eine Röntgenröhre besteht aus einer beheizten Kathode und einer angeschrägten Anode. Zwischen diesen Bauteilen wird eine hohe Beschleunigungsspannung angelegt, welche die Elektronen zur Anode hin beschleunigen.
+Die Röntgenbremsstrahlung entsteht in einer Röntgenröhre durch das extrem starke Abbremsen von Elektronen an der Anode. Dieser Strahlung kann keine eindeutige Wellenlänge zugeordnet werden, es lässt sich allerdings über die deBroglie-Gleichung eine Minimalenergie berechnen, welche abhängig von der Beschleunigungsspannung ist. Das Spektrum dieser Strahlung ist kontinuierlich, da die Energie der einzelnen Elektronen durch die unterschiedlichen Geschwindigkeiten unterschiedlich gross ist und somit als Strahlung mit unterschiedlich hoher Energie abgestrahlt wird.
+
+Das charakteristische Röntgenspektrum ist dagegen unabhängig von der angelegten Beschleunigungsspannung. 
 #### Entstehung des Röntgenbremsspektrums
 ## Atomhülle
 ### Quantenhafte Emissionen
