@@ -158,6 +158,10 @@ Zwei Wellen beeinflussen sich nicht gegenseitig, sondern ueberlagern sich. Diese
 Treffen Wellenberg und Wellental aufeinander, liegt destruktive Interferenz vor, es ist dort keine Energie messbar.
 Bei Wellen gleicher Frequenz muss fuer konstruktive Interferenz ein Gangunterschied von $n\times{\lambda}$ vorliegen.
 Fuer destruktive Interferenz muss ein Gangunterschied von $(n+\frac{1}{2})\times\lambda$ vorliegen.
+##### Huygensches Prinzip
+Jeder Punkt einer Welle kann als Ausgangspunkt neuer Elementarwellen gesehen werden. Die Überlagerung dieser Elementarwellen bildet die neue Wellenfront.
+##### Am Einzelspalt
+Ein Interferenzmuster ist zu Beobachten. Nach dem Huygenschen 
 ##### Interferometer
 Bei einem Interferometer werden Wellen zwei Wege langgeschickt, welche am Ende aufeinandertreffen. Dort ist ein Schirm befestigt, auf den die Wellen auftreffen koennen. Hierbei entstehen Interferenzmuster, je nachdem wie gross der Gangunterschied ist.
 Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
