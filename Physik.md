@@ -132,6 +132,7 @@ Schwingungen sind im Alltag immer durch Reibungsvorgänge gedämpft. Durch versc
 2. Durch Verstärkung des Luftwidestandes, uvm.
 ### Resonanz
 Ein System kann mit seiner Resonanzfrequenz angeregt werden.
+Wird in System eine Schwingung dieser Frequenz erzwungen, kann es zur Resonanzkatastrophe k
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
