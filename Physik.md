@@ -183,6 +183,8 @@ Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
 ### Elektronenbeugungsröhre
 ### Wellenlänge bei Quantenobjekten mit der de-Broglie-Gleichung
 $$E=h\times{f}=\frac{hc}{\lambda}$$
+$$E=m\times{c}²$$
+$$\frac{h}{\lambda}=m\times{c}$$
 $$p=\frac{E}{c}$$
 ### Mach-Zehnder Interferometer
 ### Nichtlokalität und Komplementarität
