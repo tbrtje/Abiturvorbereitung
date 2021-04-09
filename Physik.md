@@ -131,7 +131,7 @@ Schwingungen sind im Alltag immer durch Reibungsvorgänge gedämpft. Durch versc
 1. Durch eine Lorentzkraft. Ist die an einem Federpendel angehängte Masse metallisch, so kann ihre Schwingung gedämpft werden, indem sie in ein Magnetfeld gehängt wird.
 2. Durch Verstärkung des Luftwidestandes, uvm.
 ### Resonanz
-Durch Erregen eines Systems mit seiner
+Durch Erregen eines Systems mit seiner Resonanzfrequenz führt es zu
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
