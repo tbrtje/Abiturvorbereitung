@@ -130,6 +130,8 @@ s beschreibt die momentane Auslenkung des Pendels. Die Rückstellkraft ist also 
 Schwingungen sind im Alltag immer durch Reibungsvorgänge gedämpft. Durch verschiedene Methoden lassen sich Schwingungen darüber hinaus weiter abdämpfen.
 1. Durch eine Lorentzkraft. Ist die an einem Federpendel angehängte Masse metallisch, so kann ihre Schwingung gedämpft werden, indem sie in ein Magnetfeld gehängt wird.
 2. Durch Verstärkung des Luftwidestandes, uvm.
+### Resonanz
+Durch Erregen eines Systems mit seiner
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
