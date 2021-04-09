@@ -120,7 +120,12 @@ $T$: Periodendauer
 $f=\frac{1}{T}$: Frequenz der Schwingung
 
 ### harmonische Schwingungen
-Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt.
+Eine Schwingung ist harmonisch, wenn ihre Auslenkung in Abhängigkeit der Zeit durch eine Sinuskurve beschrieben werden kann. Dies ist z. B. der Fall, wenn eine Masse an einem einfachen Federpendel schwingt. Ebenfalls ist dies für kleine Winkel beim Fadenpendel der Fall, da wir hier die Annäherung $sin(\alpha)=\alpha$ machen können, da für betra
+#### Hooksches Gesetz: 
+Bei einer harmonischen Schwingung gilt folgende Formel für die Rückstellkraft:
+$$F=-D\times s$$
+-D ist hierbei die Federkonstante, welche in $\frac{[N]}{[m]}$ angegeben wird. Sie bestimmt, wie stark eine Feder bei einer Schwingung ausgelenkt wird.
+s beschreibt die momentane Auslenkung des Pendels. Die Rückstellkraft ist also abhängig von der aktuellen Auslenkung.
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
