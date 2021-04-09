@@ -206,12 +206,15 @@ Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode
 ## Atomhülle
 ### Quantenhafte Emissionen
 ### Franck-Hertz-Versuch
+Der Franck-Hertz-Versuch beschreibt ein Versuch zum nachweisen diskreter Energieniveaus von Elektronen eines Atoms.
+
 ### Resonanzabsorption
+Atome können nur solche Photonen absorbieren oder emmitieren, deren Energie genau dem Unterschied zwischen zwei Energieniveaus entspricht.
 ### Spektrallinien und Energieniveauschemata
 #### charakteristisches Röntenspektrum
 ### Floureszenz
 Floureszenz beschreibt das Anheben von Elektronen in einen höheren Zustand, welche beim Rückfallen in den energetisch niedrigeren Zustand Photonen mit Energie des sichtbaren Spektrums abgeben. Unterscheiden wird hierbei zwischen
-1. Floureszenz: Aus dem angeregten Zustand fällt das Elek
+1. Floureszenz: Aus dem angeregten Zustand fällt das Elektron in niedrigere Zustände. Diese müssen jedoch nicht dem Grundzustand entsprechen.
 2. Resonanzfloureszenz: Aus dem angeregten Zustand fällt das Elektron direkt wieder zurück in den Grundzustand
 3. Phosphoreszenz: Das Elektron verharrt in einem metastabilen Zustand, von dem es nach einiger Zeit in den Grundzustand fällt, bsp. Nachtlichter, die nachts grün leuchten
 ## (Atomkern)
