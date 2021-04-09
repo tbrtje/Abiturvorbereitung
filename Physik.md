@@ -163,7 +163,9 @@ Jeder Punkt einer Welle kann als Ausgangspunkt neuer Elementarwellen gesehen wer
 ##### Am Einzelspalt
 Ein Interferenzmuster ist zu Beobachten. Nach dem Huygenschen Prinzip entstehen am Spalt neue, sich überlagernde Elementarwellen, welche Am Schirm aufeinandertreffen. Da die Lichtbündel als parallel angesehen werden können, beträgt der Gangunterschied genau die Strecke, welche das eine Lichtbündel länger als das andere ist. Diese Strecke $\triangle s$ kann mithilfe der trigonometrischen Beziehungen berechnet werden und muss für konstruktive Interferenz $\triangle s=n\times\lambda$ und für destruktive Interferenz $\triangle s=\frac{(2n+1)}{2}\times\lambda$ sein.
 ##### Am Doppelspalt
-Hier bestehen die selben Regeln wie beim Einzelspalt. Hier findet allerdings durch 
+Hier bestehen die selben Regeln wie beim Einzelspalt. Hier findet allerdings durch beide Spalte Interferenz statt und nicht nur an den Spaltkanten. Dadurch entsteht ein klares Interferenzbild mit mehreren voneinander abgrenzbaren Maxima und Minima. Diese Maxima werden nummeriert.
+##### Transmissionsgitter
+Durch das hinzufügen mehrerer Spalte präzisiert sich das Interferenzbild. Die Maxima werden intensiver und schärfer. Hiermit kann präzise die Wellenlänge eines monochromatischen Lichtes bestimmt werden. Weisses Licht kann hiermit in seine Grundfarben aufgeteilt werden, da Wellen unterschiedlicher Länge unterschiedlich stark gebeugt werden.
 ##### Interferometer
 Bei einem Interferometer werden Wellen zwei Wege langgeschickt, welche am Ende aufeinandertreffen. Dort ist ein Schirm befestigt, auf den die Wellen auftreffen koennen. Hierbei entstehen Interferenzmuster, je nachdem wie gross der Gangunterschied ist.
 Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
