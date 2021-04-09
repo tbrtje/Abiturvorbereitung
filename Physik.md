@@ -145,6 +145,12 @@ Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, wel
 Dabei wird zwischen zwei Arten von Wellen unterschieden:
 1. Longitudinalwellen: Die Oszillatoren schwingen in Ausbreitungsrichtung
 2. Transversalwellen: Die Oszillatoren schwingen orthogonal zur Ausbreitungsrichtung
+
+Eigenschaften von Wellen:
+$\lambda$: Wellenlänge
+$f$: Frequenz
+$T$: Periodendauer
+$c$: Ausbreitungsgeschwindigkeit mit $c=\lambda\times f=\frac{lambda}{T}$
 #### harmonische Wellen
 Wellen sind harmonisch, wenn die Schwingung der Oszillatoren in Abhaengigkeit von Ort und Zeit als Sinuskurve dargestellt werden kann.
 #### Interferenz
@@ -157,7 +163,6 @@ Bei einem Interferometer werden Wellen zwei Wege langgeschickt, welche am Ende a
 Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
 1. Das Michaelson-Interferometer: In der Mitte wird ein halbdurchlässiger Spiegel um 45° gedreht in den Lichtweg gesetzt. Gegenüber des Senders und orthogonal zu ihm werden Spiegel in die entstehenden Lichtwege gestellt und auf der freien Seite ein Schirm platziert. So erhält man zwei Interferometerarme. Ein Spiegel kann nun verschoben werden, sodass sich der Gangunterschied der beiden Wellenzüge verändert.
 2. Das Mach-Zehnder-Interferometer: Vor dem Sender wird ein halbdurchlässiger Spiegel gestellt. Er stellt eine Ecke eines Rechtecks dar. In der diagonal gegenüberliegenden Ecke befindet sich ebenfalls ein halbdurchlässiger Spiegel, in den zwei anderen Ecken normale. Hierdurch entstehen ebenfalls zwei Wellenzüge.
-3.  
 ##### Doppelspalt
 ##### stehende Wellen
 ##### Schwebungen
