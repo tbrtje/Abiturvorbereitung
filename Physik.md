@@ -132,7 +132,7 @@ Schwingungen sind im Alltag immer durch Reibungsvorgänge gedämpft. Durch versc
 2. Durch Verstärkung des Luftwidestandes, uvm.
 ### Resonanz
 Ein System kann mit seiner Resonanzfrequenz angeregt werden.
-Wird in System eine Schwingung dieser Frequenz erzwungen, kann es zur Resonanzkatastrophe k
+Wird in System eine Schwingung dieser Frequenz erzwungen, kann es zur Resonanzkatastrophe kommen, wenn die Schwingungsenergie steigt. Hierbei wächst die Amplitude der Schwingung immer weiter an.
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
@@ -145,7 +145,7 @@ Wellen sind harmonisch, wenn die Schwingung der Oszillatoren in Abhaengigkeit vo
 Zwei Wellen beeinflussen sich nicht gegenseitig, sondern ueberlagern sich. Dieses Verhalten wird Interferenz genannt. An einem Punkt kann sie konstruktiv sein, wenn Wellenberg und Wellenberg, bzw. Wellental und Wellental aufeinander liegen. Die messbare Energie an diesem Punkt vergroessert sich.
 Treffen Wellenberg und Wellental aufeinander, liegt destruktive Interferenz vor, es ist dort keine Energie messbar.
 Bei Wellen gleicher Frequenz muss fuer konstruktive Interferenz ein Gangunterschied von $n\times{\lambda}$ vorliegen.
-Fuer destruktive Interferenz muss ein Gangunterschied von $\frac{(n-1)}{2}\times{\frac{\lambda}{2}}$ vorliegen.
+Fuer destruktive Interferenz muss ein Gangunterschied von $(n+\frac{1}{2})\times\lambda$ vorliegen.
 ##### Interferometer
 Bei einem Interferometer werden Wellen zwei Wege langgeschickt, welche am Ende aufeinandertreffen. Dort ist ein Schirm befestigt, auf den die Wellen auftreffen koennen. Hierbei entstehen Interferenzmuster, je nachdem wie gross der Gangunterschied ist.
 Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
