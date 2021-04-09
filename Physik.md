@@ -200,8 +200,9 @@ Max Planck hat durch die berühmte Formel $E=h\times f$ erstmals eine Verbindung
 Eine Röntgenröhre besteht aus einer beheizten Kathode und einer angeschrägten Anode. Zwischen diesen Bauteilen wird eine hohe Beschleunigungsspannung angelegt, welche die Elektronen zur Anode hin beschleunigen.
 Die Röntgenbremsstrahlung entsteht in einer Röntgenröhre durch das extrem starke Abbremsen von Elektronen an der Anode. Dieser Strahlung kann keine eindeutige Wellenlänge zugeordnet werden, es lässt sich allerdings über die deBroglie-Gleichung eine Minimalenergie berechnen, welche abhängig von der Beschleunigungsspannung ist. Das Spektrum dieser Strahlung ist kontinuierlich, da die Energie der einzelnen Elektronen durch die unterschiedlichen Geschwindigkeiten unterschiedlich gross ist und somit als Strahlung mit unterschiedlich hoher Energie abgestrahlt wird.
 
-Das charakteristische Röntgenspektrum ist dagegen unabhängig von der angelegten Beschleunigungsspannung. 
-#### Entstehung des Röntgenbremsspektrums
+Das charakteristische Röntgenspektrum ist dagegen unabhängig von der angelegten Beschleunigungsspannung. Es ist ein Linienspektrum, welches durch Anregung der Elektronen des Anodenmaterials entsteht. Bei dieser Anregung wird das Elektron des Anodenmaterial in ein energetisch höheres Niveau gehoben, da dieser Zustand instabil ist fällt es allerdings wieder zurück. Hierbei wird die Differenz der Energie derEnergieniveaus als Photon abgestrahlt.
+#### Messmethoden
+Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode. Hierbei wird ein drehbarer Kristall und ein Geiger-Müller-Zählrohr so vor die Röntgenröhre platziert, dass eine Drehung des Kristalls um $\alpha$ eine Drehung des GMZ um $2\alpha$ verursacht. Dadurch lassen sich die Zählraten für bestimmte Winkel abbilden, welchen eine De-Broglie-Wellenlänge und somit auch eine Energie zugeordnet werden kann.
 ## Atomhülle
 ### Quantenhafte Emissionen
 ### Franck-Hertz-Versuch
