@@ -202,7 +202,7 @@ Die Röntgenbremsstrahlung entsteht in einer Röntgenröhre durch das extrem sta
 
 Das charakteristische Röntgenspektrum ist dagegen unabhängig von der angelegten Beschleunigungsspannung. Es ist ein Linienspektrum, welches durch Anregung der Elektronen des Anodenmaterials entsteht. Bei dieser Anregung wird das Elektron des Anodenmaterial in ein energetisch höheres Niveau gehoben, da dieser Zustand instabil ist fällt es allerdings wieder zurück. Hierbei wird die Differenz der Energie derEnergieniveaus als Photon abgestrahlt.
 #### Messmethoden
-Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode. Hierbei wird ein drehbarer Kristall und ein Geiger-Müller-Zählrohr so vor die Röntgenröhre platziert, dass eine Drehung des Kristalls um $\alpha$ eine Drehung des GMZ um $2\alpha$ verursacht. Dadurch lassen sich die Zählraten für bestimmte Winkel abbilden, welchen eine De-Broglie-Wellenlänge und somit auch eine Energie zugeordnet werden kann.
+Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode. Hierbei wird ein drehbarer Kristall und ein Geiger-Müller-Zählrohr so vor die Röntgenröhre platziert, dass eine Drehung des Kristalls um $\alpha$ eine Drehung des GMZ um $2\alpha$ verursacht. Dadurch lassen sich die Zählraten für bestimmte Winkel abbilden, welchen mithilfe der Bragg-Reflexion eine De-Broglie-Wellenlänge und somit auch eine Energie zugeordnet werden kann.
 ## Atomhülle
 ### Quantenhafte Emissionen
 ### Franck-Hertz-Versuch
@@ -210,4 +210,8 @@ Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode
 ### Spektrallinien und Energieniveauschemata
 #### charakteristisches Röntenspektrum
 ### Floureszenz
+Floureszenz beschreibt das Anheben von Elektronen in einen höheren Zustand, welche beim Rückfallen in den energetisch niedrigeren Zustand Photonen mit Energie des sichtbaren Spektrums abgeben. Unterscheiden wird hierbei zwischen
+1. Floureszenz: Aus dem angeregten Zustand fällt das Elek
+2. Resonanzfloureszenz: Aus dem angeregten Zustand fällt das Elektron direkt wieder zurück in den Grundzustand
+3. Phosphoreszenz: Das Elektron verharrt in einem metastabilen Zustand, von dem es nach einiger Zeit in den Grundzustand fällt, bsp. Nachtlichter, die nachts grün leuchten
 ## (Atomkern)
