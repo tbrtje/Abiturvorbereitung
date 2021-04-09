@@ -161,13 +161,14 @@ Fuer destruktive Interferenz muss ein Gangunterschied von $(n+\frac{1}{2})\times
 ##### Huygensches Prinzip
 Jeder Punkt einer Welle kann als Ausgangspunkt neuer Elementarwellen gesehen werden. Die Überlagerung dieser Elementarwellen bildet die neue Wellenfront.
 ##### Am Einzelspalt
-Ein Interferenzmuster ist zu Beobachten. Nach dem Huygenschen Prinzip entstehen am Spalt neue, sich überlagernde Elementarwellen, welche 
+Ein Interferenzmuster ist zu Beobachten. Nach dem Huygenschen Prinzip entstehen am Spalt neue, sich überlagernde Elementarwellen, welche Am Schirm aufeinandertreffen. Da die Lichtbündel als parallel angesehen werden können, beträgt der Gangunterschied genau die Strecke, welche das eine Lichtbündel länger als das andere ist. Diese Strecke $\triangle s$ kann mithilfe der trigonometrischen Beziehungen berechnet werden und muss für konstruktive Interferenz $\triangle s=n\times\lambda$ und für destruktive Interferenz $\triangle s=\frac{(2n+1)}{2}\times\lambda$ sein.
+##### Am Doppelspalt
+Hier bestehen die selben Regeln wie beim Einzelspalt. Hier findet allerdings durch 
 ##### Interferometer
 Bei einem Interferometer werden Wellen zwei Wege langgeschickt, welche am Ende aufeinandertreffen. Dort ist ein Schirm befestigt, auf den die Wellen auftreffen koennen. Hierbei entstehen Interferenzmuster, je nachdem wie gross der Gangunterschied ist.
 Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
 1. Das Michaelson-Interferometer: In der Mitte wird ein halbdurchlässiger Spiegel um 45° gedreht in den Lichtweg gesetzt. Gegenüber des Senders und orthogonal zu ihm werden Spiegel in die entstehenden Lichtwege gestellt und auf der freien Seite ein Schirm platziert. So erhält man zwei Interferometerarme. Ein Spiegel kann nun verschoben werden, sodass sich der Gangunterschied der beiden Wellenzüge verändert.
 2. Das Mach-Zehnder-Interferometer: Vor dem Sender wird ein halbdurchlässiger Spiegel gestellt. Er stellt eine Ecke eines Rechtecks dar. In der diagonal gegenüberliegenden Ecke befindet sich ebenfalls ein halbdurchlässiger Spiegel, in den zwei anderen Ecken normale. Hierdurch entstehen ebenfalls zwei Wellenzüge.
-##### Doppelspalt
 ##### stehende Wellen
 ##### Schwebungen
 #### Bestimmung der Wellenlänge bei
