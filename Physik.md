@@ -133,6 +133,11 @@ Schwingungen sind im Alltag immer durch Reibungsvorgänge gedämpft. Durch versc
 ### Resonanz
 Ein System kann mit seiner Resonanzfrequenz angeregt werden.
 Wird in System eine Schwingung dieser Frequenz erzwungen, kann es zur Resonanzkatastrophe kommen, wenn die Schwingungsenergie steigt. Hierbei wächst die Amplitude der Schwingung immer weiter an.
+### Reflexion
+Am festen Ende: Die Welle wird reflektiert. Eine Phasenumkehr findet statt, die Welle ist also um eine halbe Wellenlänge verschoben, da das Ende statisch ist und nicht mitschwingt.
+Am losen Ende: Die Welle wird reflektiert. Es findet keine Phasenumkehr statt, da das Ende der Welle mitschwingen kann.
+### Stehende Wellen
+Stehende Wellen entstehen, wenn sich zwei gegenläufige Wellen mit gleicher Frequenz und Amplitude überlagern
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
