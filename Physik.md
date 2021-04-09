@@ -180,12 +180,15 @@ Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
 ##### weißem und monochromatischem Licht mit einem Gitter (objektive und subjektive Methode)
 ##### Röntgenstrahlung mit Bragg-Reflexion
 ## Quantenobjekte
-### Elektronenbeugungsröhre
 ### Wellenlänge bei Quantenobjekten mit der de-Broglie-Gleichung
 $$E=h\times{f}=\frac{hc}{\lambda}$$
 $$E=m\times{c}²$$
 $$\frac{h}{\lambda}=m\times{c}$$
 $$p=\frac{E}{c}$$
+Einer Energie kann somit ein Impuls zugeordnet werden.
+### Planksche Wirkungsquantum
+Max Planck hat durch die berühmte Formel $E=h\times f$ erstmals eine Verbindung zwischen Teilchen und Wellen geschaffen. Das planksche Wirkungsquantum h ist hier der Proportionalitätsfaktor des Zusammhangs zwischen der Frequenz einer Welle und der Energie eines Photons dieser Welle.
+### Elektronenbeugungsröhre
 ### Mach-Zehnder Interferometer
 ### Nichtlokalität und Komplementarität
 ### Doppelspaltexperimente
@@ -194,6 +197,7 @@ $$p=\frac{E}{c}$$
 #### LED
 #### Vakuum-Fotozelle
 ### Röntgenstrahlung
+Besteht aus zwei Spektren. Die Röntgenbremsst
 #### Entstehung des Röntgenbremsspektrums
 ## Atomhülle
 ### Quantenhafte Emissionen
