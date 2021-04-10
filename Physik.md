@@ -206,8 +206,11 @@ Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode
 ### Quantenhafte Emissionen
 ### Franck-Hertz-Versuch
 Der Franck-Hertz-Versuch beschreibt einen Versuch zum nachweisen diskreter Energieniveaus von Elektronen eines Atoms.
-Hierzu wird die folgende Schaltung aufgebaut.
-
+Hierzu wird die folgende Schaltung in einem mit Hg-Dampf gefüllten Gefäß aufgebaut.
+Auf der einen Seite befindet sich eine beheizte Kathode, in der Mitte der Apperatur eine Gitteranode, welche die Elektronen beschleunigt. Dahinter befindet sich eine leicht negativ geladene Kollektoranode, damit nur Elektronen sie erreichen, welche eine gewisse Energie besitzen.
+Regelt man nun die Beschleunigungsspannung hoch, so lassen sich in Abständen von ca. 4,9V Peaks in der Stromstärke messen. Diese entstehen, da die Elektronen bis die Beschleunigungsspannung von 4,9V erreicht ist, nur elastische Stöße mit den Hg-Atomen durchführen.
+Daher verlieren sie nur wenig Energie und erreichen die Kollektorkathode. Bei 4,9V ist die Energie der Elektronen so groß, dass sie ein Quecksilberatom auf ein höheres Energieniveau heben können. Dadurch geben die Elektronen Energie ab, der Stoß ist inelastisch. Daher haben die Elektronen nicht mehr genügend Energie um zur Kollektorkathode zu gelangen.
+Danach steigt die Stromstärke wieder an, nach ca. 4,9
 ### Resonanzabsorption
 Atome können nur solche Photonen absorbieren oder emmitieren, deren Energie genau dem Unterschied zwischen zwei Energieniveaus entspricht.
 ### Spektrallinien und Energieniveauschemata
