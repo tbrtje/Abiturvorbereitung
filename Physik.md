@@ -136,9 +136,6 @@ Wird in System eine Schwingung dieser Frequenz erzwungen, kann es zur Resonanzka
 ### Reflexion
 Am festen Ende: Die Welle wird reflektiert. Eine Phasenumkehr findet statt, die Welle ist also um eine halbe Wellenlänge verschoben, da das Ende statisch ist und nicht mitschwingt.
 Am losen Ende: Die Welle wird reflektiert. Es findet keine Phasenumkehr statt, da das Ende der Welle mitschwingen kann.
-### Stehende Wellen
-Stehende Wellen entstehen, wenn sich zwei gegenläufige Wellen mit gleicher Frequenz und Amplitude überlagern. Dies kann z.B. durch Reflexion geschehen.
-Dabei entstehen Wellenbäuche, welche an ihrer Stelle hin- und herschwingen und Wellenknoten, an denen die Welle auf einem Punkt steht. Der Abstand zweier Knoten beträgt dabei eine halbe Wellenlänge.
 ### Wellen
 Wellen entstehen als Schwingung zusammenhängender Oszillatoren.
 Hierbei wird Energie vom Erregenden Osillator auf den nächsten Übertragen, welcher ebenfalls anfängt zu Schwingen. Die Energie dieser Schwingung wird auf den nächsten Oszillator übertragen, usw. Hierbei wird keine Masse bewegt, sondern lediglich Energie und Informationen.
@@ -172,7 +169,10 @@ Im Unterricht haben wir zwei Arten von Interferometern kennengelernt.
 1. Das Michaelson-Interferometer: In der Mitte wird ein halbdurchlässiger Spiegel um 45° gedreht in den Lichtweg gesetzt. Gegenüber des Senders und orthogonal zu ihm werden Spiegel in die entstehenden Lichtwege gestellt und auf der freien Seite ein Schirm platziert. So erhält man zwei Interferometerarme. Ein Spiegel kann nun verschoben werden, sodass sich der Gangunterschied der beiden Wellenzüge verändert.
 2. Das Mach-Zehnder-Interferometer: Vor dem Sender wird ein halbdurchlässiger Spiegel gestellt. Er stellt eine Ecke eines Rechtecks dar. In der diagonal gegenüberliegenden Ecke befindet sich ebenfalls ein halbdurchlässiger Spiegel, in den zwei anderen Ecken normale. Hierdurch entstehen ebenfalls zwei Wellenzüge.
 ##### stehende Wellen
+Stehende Wellen entstehen, wenn sich zwei gegenläufige Wellen mit gleicher Frequenz und Amplitude überlagern. Dies kann z.B. durch Reflexion geschehen.
+Dabei entstehen Wellenbäuche, welche an ihrer Stelle hin- und herschwingen und Wellenknoten, an denen die Welle auf einem Punkt steht. Der Abstand zweier Knoten beträgt dabei eine halbe Wellenlänge.
 ##### Schwebungen
+Als Schwebung wird das Phänomen bezeichnet, welches
 #### Bestimmung der Wellenlänge bei
 ##### Ultraschall bei stehenden Wellen
 ##### Schall mit zwei Sendern
