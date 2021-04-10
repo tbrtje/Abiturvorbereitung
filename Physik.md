@@ -206,7 +206,7 @@ Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode
 ### Quantenhafte Emissionen
 ### Franck-Hertz-Versuch
 Der Franck-Hertz-Versuch beschreibt einen Versuch zum nachweisen diskreter Energieniveaus von Elektronen eines Atoms.
-Hierzu wird ein 
+Hierzu wird die folgende Schaltung aufgebaut.
 
 ### Resonanzabsorption
 Atome können nur solche Photonen absorbieren oder emmitieren, deren Energie genau dem Unterschied zwischen zwei Energieniveaus entspricht.
