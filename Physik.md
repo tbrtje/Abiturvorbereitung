@@ -174,11 +174,8 @@ Dabei entstehen Wellenbäuche, welche an ihrer Stelle hin- und herschwingen und 
 ##### Schwebungen
 Als Schwebung wird das Phänomen bezeichnet, welches
 #### Bestimmung der Wellenlänge bei
-##### Ultraschall bei stehenden Wellen
-##### Schall mit zwei Sendern
 ##### Mikrowellen mit dem Michaelson-Interferometer
 ##### weißem und monochromatischem Licht mit einem Gitter (objektive und subjektive Methode)
-##### Röntgenstrahlung mit Bragg-Reflexion
 ## Quantenobjekte
 ### Wellenlänge bei Quantenobjekten mit der de-Broglie-Gleichung
 $$E=h\times{f}=\frac{hc}{\lambda}$$
@@ -189,6 +186,8 @@ Einer Energie kann somit ein Impuls zugeordnet werden.
 ### Planksche Wirkungsquantum
 Max Planck hat durch die berühmte Formel $E=h\times f$ erstmals eine Verbindung zwischen Teilchen und Wellen geschaffen. Das planksche Wirkungsquantum h ist hier der Proportionalitätsfaktor des Zusammhangs zwischen der Frequenz einer Welle und der Energie eines Photons dieser Welle.
 ### Elektronenbeugungsröhre
+Vor einer Elektronenkanone wird eine Graphitfolie so platziert, dass an dieser Folie, welche aus winzigen Kristallfragmenten besteht, eine Bragg-Reflexion stattfindet.
+Diese Reflexion sorgt an einem Floureszenzschirm für Interferenz. Dadurch lassen sich den Elektronen Welleneigenschaften zuordnen.
 ### Mach-Zehnder Interferometer
 ### Nichtlokalität und Komplementarität
 ### Doppelspaltexperimente
@@ -206,7 +205,8 @@ Eine Möglichkeit, ein Röntgenspektrum zu erstellen ist die Drehkristallmethode
 ## Atomhülle
 ### Quantenhafte Emissionen
 ### Franck-Hertz-Versuch
-Der Franck-Hertz-Versuch beschreibt ein Versuch zum nachweisen diskreter Energieniveaus von Elektronen eines Atoms.
+Der Franck-Hertz-Versuch beschreibt einen Versuch zum nachweisen diskreter Energieniveaus von Elektronen eines Atoms.
+Hierzu wird ein 
 
 ### Resonanzabsorption
 Atome können nur solche Photonen absorbieren oder emmitieren, deren Energie genau dem Unterschied zwischen zwei Energieniveaus entspricht.
