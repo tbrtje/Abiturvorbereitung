@@ -14,3 +14,4 @@ $S=A$
 $$A \to aA \to amA \to amyB \to amy.C \to amy.rC \to amy.roC \to amy.rotZ \to amy.rot@apps4you.eu$$
 $$A\to tA \to tiA\to timB\to tim.C\to tim.kC\to tim.kaC\to tim.kaiD\to tim.kai.E \to tim.kai.mE\to tim.kai.maE\to tim.kai.mayZ \to tim.kai.may@apps4you.eu$$
 
+c) Der dargestellte Benutzerbaum ist so 
