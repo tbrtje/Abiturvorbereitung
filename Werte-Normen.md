@@ -312,4 +312,3 @@ Argumente für die antropozentrische Perspektive sind:
 - Sinn des Lebens-Argument: Der Mensch steht im Zentrum. Die religiöse Ordnung zwischen Mensch und Tier muss erhalten bleiben.
   Sinn des Menschen ist es, das Abbild Gottes auf Erden, also der Gott der Natur zu sein.
 
-
