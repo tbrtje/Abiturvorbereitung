@@ -227,10 +227,15 @@ Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
 ### Ethik in Medizin und Wissenschaft
 ### Modul 2 - Ökologische Ethik
 #### Tierethik
-Wie man Rechte für Tiere begründet - Tom Regan
-- Alle Individuen haben einen inhärenten Wert
-- 
-Moraltheorie und Tiere - Bernard E. Rollin
+##### Wie man Rechte für Tiere begründet - Tom Regan
+- Alle Individuen haben einen inhärenten Wert -> Den besitzen alle gleichermaßen -> Dieser Wert ist unabhängig von der Nützlichkeit
+- Jede Handlung, die diesen Wert nicht respektiert, verletzt die Rechte dieses Individuums
+- Da dieser Ansatz keine Diskriminierung zulässt, ist er laut Regan der Beste.
+- Da Tiere, so wie Menschen empfindende Subjekte sind, muss der Rechteansatz auch für Tiere anwendbar sein -> Keine Diskriminierung aufgrund von Fähigkeiten
+- Wenn wir aufgrund von Fähigkeiten entscheiden, ob ein Individuum Rechte hat oder nicht, haben wir das Problem, dass z.B. für Behinderte keine Rechte begründet werden können
+##### Moraltheorie und Tiere - Bernard E. Rollin
+- Tiere haben Rechte -> Rechte fußen auf Interessen und Bedürfnissen
+- Wenn Tiere nun auch berechtigte Interessen, wie z.B. das Interesse am Leben zu sein oder das Bedürfnis nach Angstfreiheit
 ##### Warum Tiere keine Rechte haben - Carl Cohen
 - Tiere haben keine Vernunft -> Rechte können nur vernunftfähige Wesen haben, da nur sie in der Lage sind, so etwas zu begründen -> Keine Rechte für Tiere
 - Trotzdem hat der Mensch die Pflicht von Grausamkeit im Umgang mit Tieren abzusehen
