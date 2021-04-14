@@ -35,3 +35,10 @@ if(benutzerBaum.hasRight()==true) {
 return result;
 }
 ```
+
+d) ```
+public Queue fuelleDruckjob(BinTree benutzerBaum, Queue s) {
+if(benutzerBaum.isLeaf())
+	s.enqueue(benutzerBaum.getItem())
+}
+```
