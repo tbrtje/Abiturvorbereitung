@@ -312,3 +312,24 @@ Argumente für die antropozentrische Perspektive sind:
 - Sinn des Lebens-Argument: Der Mensch steht im Zentrum. Die religiöse Ordnung zwischen Mensch und Tier muss erhalten bleiben.
   Sinn des Menschen ist es, das Abbild Gottes auf Erden, also der Gott der Natur zu sein.
 
+## Individuum und Gesellschaft
+### Pflicht: Recht und Gerechtigkeit
+### Wahl: Pluralismus und Konsens
+### Wahl: Modelle staatlicher Gemeinschaft
+### Wahl: Utopien und Ideologien
+## Religion und Weltanschauungen
+### Pflicht: Bedeutung und Funktion von Religionen und Weltanschauungen
+### Wahl: Gesellschaftliche Aspekte von R und W
+### Wahl: Ethnologische Aspekte von R und W
+### Wahl: Ethische Aspekte von R und W
+## Anthropologie
+### Pflicht: 
+## Ethik
+### Modul 2 - Ökologische Ethik
+Wie man Rechte für Tiere begründet - Tom Regan
+Moraltheorie und Tiere - Bernard E. Rollin
+Warum Tiere keine Rechte haben - Carl Cohen
+## Wahrheit und Wirklichkeit
+### Wahrheitsansprüche
+## Lebensentwürfe
+### Modul 2: Identität im beschleunigten Zeitalter
