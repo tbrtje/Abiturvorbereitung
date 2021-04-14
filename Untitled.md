@@ -36,9 +36,35 @@ return result;
 }
 ```
 
-d) ```
+d) 
+```
 public Queue fuelleDruckjob(BinTree benutzerBaum, Queue s) {
-if(benutzerBaum.isLeaf())
-	s.enqueue(benutzerBaum.getItem())
+s.enqueue(benutzerBaum.getItem())
+if(benutzerBaum.hasLeft()) {
+	Queue temp = fuelleDruckjob(benutzerBaum.getLeft(),s);
+	while(!temp.isEmpty())
+		s.enqueue(temp.dequeue());
+	}
+if(benutzerBaum.hasRight()) {
+	Queue temp = fuelleDruckjob(benutzerBaum.getRight(),s);
+	while(!temp.isEmpty())
+		s.enqueue(temp.dequeue());
+	}
+return s
 }
 ```
+
+Preorder-Reihenfolge: Zuerst der Knoten selbst, dann seine Kinder von links nach rechts:
+hans.pohl
+cora.blau
+amy.rot
+ben.vogt
+dorit.krug
+cora.lang
+gero.genz
+nik.hut
+ida.hass
+hugo.stein
+tim.kay.may
+sara.klein
+tom.wolf
