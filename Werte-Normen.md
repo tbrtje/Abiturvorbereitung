@@ -1,4 +1,9 @@
 # Werte und Normen - Abitur
+## Ethische Positionen
+### Utilitarismus
+Handle so, dass deine Handlung das meiste Glueck und das wenigste Leid verursacht.
+### Kategorischer Imperativ
+Handle nach derjenigen Maxime, die auch gleich als allgemeines Gesetz gelten kann
 ## Lebensentwuerfe
 ### Identitaet im beschleunigten Zeitalter
 #### Hartmut Rosa - Muße braucht Zeit
