@@ -235,7 +235,7 @@ Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
 - Wenn wir aufgrund von Fähigkeiten entscheiden, ob ein Individuum Rechte hat oder nicht, haben wir das Problem, dass z.B. für Behinderte keine Rechte begründet werden können
 ##### Moraltheorie und Tiere - Bernard E. Rollin
 - Tiere haben Rechte -> Rechte fußen auf Interessen und Bedürfnissen
-- Wenn Tiere nun auch berechtigte Interessen, wie z.B. das Interesse am Leben zu sein oder das Bedürfnis nach Angstfreiheit
+- Wenn Tiere nun auch berechtigte Interessen, wie z.B. das Interesse am Leben zu sein oder das Bedürfnis nach Angstfreiheit haben, so müssen Tiere moralisch berücksichtigt werden. Dies geht nur, wenn sie Rechte haben
 ##### Warum Tiere keine Rechte haben - Carl Cohen
 - Tiere haben keine Vernunft -> Rechte können nur vernunftfähige Wesen haben, da nur sie in der Lage sind, so etwas zu begründen -> Keine Rechte für Tiere
 - Trotzdem hat der Mensch die Pflicht von Grausamkeit im Umgang mit Tieren abzusehen
