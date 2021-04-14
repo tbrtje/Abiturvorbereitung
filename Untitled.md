@@ -24,11 +24,11 @@ public boolean benutzerBaum(BinTree benutzerBaum, String benutzername) {
 if(benutzerBaum.getItem()==benutzername)
 	return true;
 boolean result = false;
-if(benutzerBaum.hasLeft()==true) {
+if(benutzerBaum.hasLeft()==true && benutzerBaum.getLeft().getItem().compareTo(benutzername)) <0) {
 	result = benutzerBaum(benutzerBaum.getLeft(),benutzername)
 	if(result == true)
 		return true;}
-if(benutzerBaum.hasRight()==true) {
+if(benutzerBaum.hasRight()==true && benutzerBaum.getRight.getItem().compareTo(benutzername)) >0 {
 	result = benutzerBaum(benutzerBaum.getRight(),benutzername)
 	if(result == true)
 		return true;}
