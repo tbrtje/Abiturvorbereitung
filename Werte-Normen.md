@@ -228,11 +228,24 @@ Nach Julia Fischer (Biologe und Verhaltensforscher):
 -> Der Mensch ist ein Tier, jedoch ist es einzigartig auf dieser Welt. Das ist jedoch jedes Tier
 
 Nach Dieter Sturma (Philosoph):
-- der Mensch ist sich seiner selbst bewusst
+- der Mensch ist sich seiner selbst bewussthat
 - er kann seine Gefühle sprachlich ausdrücken
 - er ist werdend, aktiv oder vergehend
-- er kann philosophieren
+- er kann philosophieren und sich fragen: "Was wäre wenn?"
+- er betrachtet seine Mitmenschen als würdevoll
+- er stellt Erwartungen an seine Mitmenschen
+- er hat Würde und Selbstachtung
+- er hat eine Vorstellungskraft
+- Er hat Autonomie, Rechte, Pflichten, Tugenden und kennt Fairness und Gerechtigkeit
+-> All das macht den Menschen zu etwas einzigartigem
 
+Gibt es menschliche Eigenschaften bei Tieren?
+Tiere benutzen keine Werkzeuge - Affen und Krähen knacken Nüsse mit Steinen
+Tiere haben keinen Humor - Affen ärgern andere Tiere
+Tiere begehen keinen Selbstmord -  Koboldmaki und Hamstern wird nachgesagt, dass sie tatsächlich Selbstmord begehen
+Tiere reflektieren sich nicht selbst - Delfine wägen ab, wenn ihnen Bestrafungen drohen
+Tiere sprechen nicht - Es gibt Tierarten, die über akustische, chemische oder visuelle Signale kommunizieren. Einige Affenarten beherrschen sogar eine Art Gebärdensprache.
+Tiere trauern nicht - Elefanten und Affen wachen häufig noch Tage über tote Tiere. Dies wird von einigen Wissenschaftlern als Trauerverhalten gedeutet.
 ### Wahl: Menschenbilder in Wissenschaften
 ### Wahl: Menschenbilder in R und W
 ### Wahl: Die philosophische Anthropologie der Moderne
