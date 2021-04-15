@@ -239,13 +239,18 @@ Nach Dieter Sturma (Philosoph):
 - Er hat Autonomie, Rechte, Pflichten, Tugenden und kennt Fairness und Gerechtigkeit
 -> All das macht den Menschen zu etwas einzigartigem
 
-Gibt es menschliche Eigenschaften bei Tieren?
+#### Gibt es menschliche Eigenschaften bei Tieren?
 Tiere benutzen keine Werkzeuge - Affen und Krähen knacken Nüsse mit Steinen
 Tiere haben keinen Humor - Affen ärgern andere Tiere
 Tiere begehen keinen Selbstmord -  Koboldmaki und Hamstern wird nachgesagt, dass sie tatsächlich Selbstmord begehen
 Tiere reflektieren sich nicht selbst - Delfine wägen ab, wenn ihnen Bestrafungen drohen
 Tiere sprechen nicht - Es gibt Tierarten, die über akustische, chemische oder visuelle Signale kommunizieren. Einige Affenarten beherrschen sogar eine Art Gebärdensprache.
 Tiere trauern nicht - Elefanten und Affen wachen häufig noch Tage über tote Tiere. Dies wird von einigen Wissenschaftlern als Trauerverhalten gedeutet.
+-> Tatsächlich lassen sich einige typisch menschliche Verhaltensmuster auch bei Tieren beobachten. Dort ist das Verhalten jedoch nicht so weit entwickelt, Werkzeuge und Tiersprache sind also sehr primitiv. Ebenfalls gibt es kein Tier, dass alle menschlichen Verhaltensmuster aufweist.
+
+#### Kritik an der Suche nach Alleinstellungsmerkmalen
+Stephen Budiansky (Wissenschaftsjournalist): Bewegliche Türpfosten
+Budiansky kritisiert das Vorgehen, die menschliche Einzigartigkeit als sich ständig erweiternde Liste von Eigenschaften zu klassifizieren. Er kritisiert damit auch den Fokus von einigen Wissenschaftler auf spezifische Merkmale dieser Liste. So hieß es lange Zeit, Menschen seien die einzigen Werkzeugbenutzer. Nachdem Tiere gefunden wurden, die Werkzeuge nutzten hieß es, der Mensch sei der einzige Werkzeughersteller. Nachdem Tiere gefunden wurden, die primitive Werkzeuge herstellen hieß es, der Mensch sei das einzige Wese
 ### Wahl: Menschenbilder in Wissenschaften
 ### Wahl: Menschenbilder in R und W
 ### Wahl: Die philosophische Anthropologie der Moderne
