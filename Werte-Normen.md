@@ -33,8 +33,7 @@ es gibt also keinen freien Willen. Auch Emotionen lassen sich immer ablesen.
 
 ### Der freie Wille nach Kant
 
-Nach Kant hat jeder Mensch einen freien Willen, dies unterscheidet und von Tieren, welche rein triebgesteuert sind.
-Dadurch hat er die Macht, im Sinne der Allgemeinheit zu handeln, was vernünftig wäre, jedoch kann er sich auch dagegen entscheiden.
+Nach Kant hat jeder Mensch einen freien Willen, dies unterscheidet und von Tieren, welche rein triebgesteuert sind. Der Mensch unterwirft sich freiwillig selbst gesetzten Regeln. Diese Unterwerfung führt zu einer
 Diese Theorie hängt mit dem kategorischen Imperativ zusammen, welcher als Handlungsvorschrift gesehen werden kann.
 Die Vorschrift lautet: "Handle stets so, dass die Maxime deines Handelns zugleich als Prinzip einer allgemeinen Gesetzgebung gelten kann."
 
