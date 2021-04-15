@@ -18,9 +18,8 @@ Was den Menschen vom Tier unterscheided:
 ### Sozialdarwinismus
 
 Der Sozialdarwinismus überträgt die Konzepte Darwins auf unsere Gesellschaft.
-Dadurch entsteht eine menschenverachtende Perspektive, die Ideologie der Nationalsozialisten
-kann als sozialdarwinistisch beschrieben werden.
-Dort wurde versucht, Menschen vermeintlich schlechterer Qualität durch die "Herrenrasse" zu verdrängen.
+Dadurch entsteht eine menschenverachtende Perspektive, die Ideologie der natürlichen Nationalsozialisten kann als sozialdarwinistisch beschrieben werden.
+Dort wurde versucht, Menschen vermeintlich schlechterer Qualität durch die natürlichen"Herrenrasse" zu verdrängen.
 
 ### Theologische Sicht auf den Menschen
 
