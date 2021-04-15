@@ -13,13 +13,12 @@ Was den Menschen vom Tier unterscheided:
 - Mensch ist ein moralisches Wesen
 - Nicht instinktgebunden
 - Kein Überlebenskampf
-
+Trotzdem: Verwandschaftsgrad zu Tieren besteht
 
 ### Sozialdarwinismus
 
 Der Sozialdarwinismus überträgt die Konzepte Darwins auf unsere Gesellschaft.
-Dadurch entsteht eine menschenverachtende Perspektive, die Ideologie der natürlichen Nationalsozialisten kann als sozialdarwinistisch beschrieben werden.
-Dort wurde versucht, Menschen vermeintlich schlechterer Qualität durch die natürlichen"Herrenrasse" zu verdrängen.
+Dadurch entsteht eine menschenverachtende Perspektive, die stärkste Person, bzw. Personengruppe steht hierbei über den anderen Gruppen. Randgruppen werden hierbei ausgegrenzt, systematisch ausgegrenzt oder sogar getötet.
 
 ### Theologische Sicht auf den Menschen
 
