@@ -203,9 +203,6 @@ Glück wird durch Opferbereitschaft und dem Streben nach Pflichterfüllung (euda
 Im Gegensatz zu Epikur macht also nicht die Distanzierung von Problemen glücklich, sondern die aktive Bewältigung von Schmerz und Angst.
 Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
 
-## Naturethik
-
-
 
 ## Individuum und Gesellschaft
 ### Pflicht: Recht und Gerechtigkeit
