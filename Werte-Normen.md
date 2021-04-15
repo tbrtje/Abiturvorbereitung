@@ -8,9 +8,12 @@ Handle nach derjenigen Maxime, die auch gleich als allgemeines Gesetz gelten kan
 ## Menschenbilder
 ### Die Evolutionstheorie
 Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
-Mutationen, welche in einer Umgebung einen Vorteil schaffen, setzen sich durch, da Tiere, welche diese Mutation haben,
-eine höhere reproduktive Fitness haben (survival of the fittest). Nachteilige Mutationen setzen sich nicht durch, da Tiere, welche diese Mutation haben,
-sich seltener fortpflanzen (natürliche Selektion). Über einen langen Zeitraum entstehen so neue Spezien.
+Mutationen, welche in einer Umgebung einen Vorteil schaffen, setzen sich durch, da Tiere, welche diese Mutation haben, eine höhere reproduktive Fitness haben (survival of the fittest). Nachteilige Mutationen setzen sich nicht durch, da Tiere, welche diese Mutation haben, sich seltener fortpflanzen können, da sie im Kampf um die lebenswichtigen Ressourcen gegen angepasstere Tiere verlieren (Struggle for Life - natürliche Selektion). Über einen langen Zeitraum entstehen so neue Spezien.
+Was den Menschen vom Tier unterscheided:
+- Mensch ist ein moralisches Wesen
+- Nicht instinktgebunden
+- Kein Überlebenskampf
+
 
 ### Sozialdarwinismus
 
@@ -250,7 +253,9 @@ Tiere trauern nicht - Elefanten und Affen wachen häufig noch Tage über tote Ti
 
 #### Kritik an der Suche nach Alleinstellungsmerkmalen
 Stephen Budiansky (Wissenschaftsjournalist): Bewegliche Türpfosten
-Budiansky kritisiert das Vorgehen, die menschliche Einzigartigkeit als sich ständig erweiternde Liste von Eigenschaften zu klassifizieren. Er kritisiert damit auch den Fokus von einigen Wissenschaftler auf spezifische Merkmale dieser Liste. So hieß es lange Zeit, Menschen seien die einzigen Werkzeugbenutzer. Nachdem Tiere gefunden wurden, die Werkzeuge nutzten hieß es, der Mensch sei der einzige Werkzeughersteller. Nachdem Tiere gefunden wurden, die primitive Werkzeuge herstellen hieß es, der Mensch sei das einzige Wese
+Budiansky kritisiert das Vorgehen, die menschliche Einzigartigkeit als sich ständig erweiternde Liste von Eigenschaften zu klassifizieren. Er kritisiert damit auch den Fokus von einigen Wissenschaftler auf spezifische Merkmale dieser Liste. So hieß es lange Zeit, Menschen seien die einzigen Werkzeugbenutzer. Nachdem Tiere gefunden wurden, die Werkzeuge nutzten hieß es, der Mensch sei der einzige Werkzeughersteller. Nachdem Tiere gefunden wurden, die primitive Werkzeuge herstellen hieß es, der Mensch sei das einzige Wesen, welches Werkzeuge herstellt um Werkzeuge herzustellen. Budiansky argumentiert, dass nicht bestimmte Eigenschaften den Menschen von Tieren abheben, sondern die Summe dieser Eigenschaften und vor allem die Qualität dieser Eigenschaften. Es besteht also ein quantitativer und qualitativer Unterschied zwischen Mensch und Tier.
+
+Budiansky trifft mit seiner Aussage den Nagel auf den Kopf. Es gibt kein Tier auf dieser Welt, welches alle Eigenschaften aufweist, die den Menschen so besonders machen. Ebenfalls erfüllt kein Tier auch nur eine einzelne Eigenschaft des Menschseins in der selben Qualität.
 ### Wahl: Menschenbilder in Wissenschaften
 ### Wahl: Menschenbilder in R und W
 ### Wahl: Die philosophische Anthropologie der Moderne
