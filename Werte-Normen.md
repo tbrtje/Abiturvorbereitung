@@ -216,6 +216,23 @@ Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
 ### Wahl: Ethische Aspekte von R und W
 ## Anthropologie
 ### Pflicht: Spezifische Dimensionen des Menschseins
+Nach Julia Fischer (Biologe und Verhaltensforscher):
+- ein eigenartiges Tier
+- wie andere Affen ein Gruppentier
+- kausales Tier mit Ansprücken - sucht Gründe, aber auch Illusion
+- neugierig:
+	- Entdeckergeist "Tier mit Anspruch"
+	- Wissenschaft, Kultur, Sport
+	- denkt über sich, seinen Ursprung und seine Zukunft nach -> "mentale Zeitreisen"
+- hat Sprache
+-> Der Mensch ist ein Tier, jedoch ist es einzigartig auf dieser Welt. Das ist jedoch jedes Tier
+
+Nach Dieter Sturma (Philosoph):
+- der Mensch ist sich seiner selbst bewusst
+- er kann seine Gefühle sprachlich ausdrücken
+- er ist werdend, aktiv oder vergehend
+- er kann philosophieren
+
 ### Wahl: Menschenbilder in Wissenschaften
 ### Wahl: Menschenbilder in R und W
 ### Wahl: Die philosophische Anthropologie der Moderne
