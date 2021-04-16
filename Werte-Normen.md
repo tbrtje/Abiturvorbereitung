@@ -21,9 +21,9 @@ Dadurch entsteht eine menschenverachtende Perspektive, die stärkste Person, bzw
 
 ### Theologische Sicht auf den Menschen
 
-In der christlichen Religion ist der Mensch ein Abbild Gottes, welches in der Schöpfungsgeschichte als letztes erschaffen wurde,
-um über die Welt zu herrschen.
-Menschen werden jedoch auch als Sünder gesehen, da sie sich von Gott abgewandt haben, daher sind sie auf Gottes Vergebung angewiesen.
+In der christlichen Religion ist der Mensch ein Abbild Gottes, welches in der Schöpfungsgeschichte als letztes erschaffen wurde, um über die Welt zu herrschen, er stellt den krönenden Abschluss dar.
+Wenn der Mensch Gottes Abbild ist, wieso gibt es Grausamkeit?
+Der Mensch als Gottes Ebenbild will selber Gott und seine eigenen Regeln aufstellen. Daher verfällt er der Sünde. -> Die Welt als Bestrafung ist die Abgrenzung zum Paradies. -> Menschen sind auf Gottes Vergebung angewiesen.
 
 ### Neurowissenschaften
 
@@ -39,8 +39,9 @@ Nach Kant ist jeder Mensch der Vernunft mächtig, dies unterscheidet und von Tie
 Nach der soziologischen Perspektive muss jeder Mensch verschiedene Rollen erfüllen. Diese Rollen sind beispielsweise:
 - Ein Familienvater, der die Rolle des Vaters, Ehemanns, des Arbeiters erfüllt,
 - Ein Kind, welches Schüler, Kind und Freund von anderen Kindern ist.
-Jede Rolle stellt andere Anforderungen an eine Person. Sie wird durch Beobachtung erlernt und das Verhalten wird angepasst,
-um nicht aus der Masse herauszustechen. Menschen verhalten sich also nicht individuell und verschreiben sich der Konformität.
+Jede Rolle stellt andere Anforderungen an eine Person. Sie wird durch Beobachtung erlernt und das Verhalten wird angepasst, um nicht aus der Masse herauszustechen. Menschen verhalten sich also nicht individuell und verschreiben sich der Konformität.
+Wie kann ein Mensch hier authentisch sein?
+Authentizität entsteht, wenn der eigene Lebensentwurf mit der Realität übereintimmt.
 ### Der Mensch als Triebwesen
 
 Nach Freud ist der Mensch aufgeteilt in Es, Ich und Über-Ich.
