@@ -4,50 +4,6 @@
 Handle so, dass deine Handlung das meiste Glueck und das wenigste Leid verursacht.
 ### Kategorischer Imperativ
 Handle nach derjenigen Maxime, die auch gleich als allgemeines Gesetz gelten kann. Ist d
-## Menschenbilder
-### Die Evolutionstheorie
-Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
-Mutationen, welche in einer Umgebung einen Vorteil schaffen, setzen sich durch, da Tiere, welche diese Mutation haben, eine höhere reproduktive Fitness haben (survival of the fittest). Nachteilige Mutationen setzen sich nicht durch, da Tiere, welche diese Mutation haben, sich seltener fortpflanzen können, da sie im Kampf um die lebenswichtigen Ressourcen gegen angepasstere Tiere verlieren (Struggle for Life - natürliche Selektion). Über einen langen Zeitraum entstehen so neue Spezien.
-Was den Menschen vom Tier unterscheided:
-- Mensch ist ein moralisches Wesen
-- Nicht instinktgebunden
-- Kein Überlebenskampf
-Trotzdem: Verwandschaftsgrad zu Tieren besteht
-
-### Sozialdarwinismus
-
-Der Sozialdarwinismus überträgt die Konzepte Darwins auf unsere Gesellschaft.
-Dadurch entsteht eine menschenverachtende Perspektive, die stärkste Person, bzw. Personengruppe steht hierbei über den anderen Gruppen. Randgruppen werden hierbei ausgegrenzt, systematisch ausgegrenzt oder sogar getötet.
-
-### Theologische Sicht auf den Menschen
-
-In der christlichen Religion ist der Mensch ein Abbild Gottes, welches in der Schöpfungsgeschichte als letztes erschaffen wurde, um über die Welt zu herrschen, er stellt den krönenden Abschluss dar.
-Wenn der Mensch Gottes Abbild ist, wieso gibt es Grausamkeit?
-Der Mensch als Gottes Ebenbild will selber Gott und seine eigenen Regeln aufstellen. Daher verfällt er der Sünde. -> Die Welt als Bestrafung ist die Abgrenzung zum Paradies. -> Menschen sind auf Gottes Vergebung angewiesen.
-
-### Neurowissenschaften
-
-Nach den Neurowissenschaften lassen sich alle Entscheidungen und somit das gesamte Verhalten vorraussagen,
-es gibt also keinen freien Willen. Auch Emotionen lassen sich immer ablesen.
-
-### Der freie Wille nach Kant
-
-Nach Kant ist jeder Mensch der Vernunft mächtig, dies unterscheidet und von Tieren, welche rein triebgesteuert sind. Der Mensch löst sich von seiner absoluten Freiheit und unterwirft sich freiwillig selbst gesetzten Regeln. Das Befolgen dieser Regeln kann als sittliches Handeln bezeichnet werden, der Mensch entwickelt ein Pflichtbewusstsein den Regeln gegenüber.
-
-### Soziologische Perspektive
-
-Nach der soziologischen Perspektive muss jeder Mensch verschiedene Rollen erfüllen. Diese Rollen sind beispielsweise:
-- Ein Familienvater, der die Rolle des Vaters, Ehemanns, des Arbeiters erfüllt,
-- Ein Kind, welches Schüler, Kind und Freund von anderen Kindern ist.
-Jede Rolle stellt andere Anforderungen an eine Person. Sie wird durch Beobachtung erlernt und das Verhalten wird angepasst, um nicht aus der Masse herauszustechen. Menschen verhalten sich also nicht individuell und verschreiben sich der Konformität.
-Wie kann ein Mensch hier authentisch sein?
-Authentizität entsteht, wenn der eigene Lebensentwurf mit der Realität übereintimmt.
-### Der Mensch als Triebwesen
-
-Nach Freud ist der Mensch aufgeteilt in Es, Ich und Über-Ich.
-Das Es (Triebe, Instinkte) steht dabei dem Über-Ich (Moralvorstellungen) gegenüber. Das Ich erkennt die Realität,
-und vermittelt die Reize des Es und die Forderungen des Über-Ichs.
-Korrekt ist eine Handlung dann, wenn sie den Anforderungen des Es, Ichs, und Über-Ichs genügen und mit der Realität konform ist.
 
 ## Erkenntnistheorie
 ### Meinen - Glauben - Wissen nach Immanuel Kant
@@ -207,8 +163,7 @@ Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
 ### Wahl: Pluralismus und Konsens
 ### Wahl: Modelle staatlicher Gemeinschaft
 ### Wahl: Utopien und Ideologien
-## Religion u
-ungen
+## Religion und Weltanschauungen
 ### Pflicht: Bedeutung und Funktion von Religionen und Weltanschauungen
 ### Wahl: Gesellschaftliche Aspekte von R und W
 ### Wahl: Ethnologische Aspekte von R und W
@@ -252,8 +207,50 @@ Stephen Budiansky (Wissenschaftsjournalist): Bewegliche Türpfosten
 Budiansky kritisiert das Vorgehen, die menschliche Einzigartigkeit als sich ständig erweiternde Liste von Eigenschaften zu klassifizieren. Er kritisiert damit auch den Fokus von einigen Wissenschaftler auf spezifische Merkmale dieser Liste. So hieß es lange Zeit, Menschen seien die einzigen Werkzeugbenutzer. Nachdem Tiere gefunden wurden, die Werkzeuge nutzten hieß es, der Mensch sei der einzige Werkzeughersteller. Nachdem Tiere gefunden wurden, die primitive Werkzeuge herstellen hieß es, der Mensch sei das einzige Wesen, welches Werkzeuge herstellt um Werkzeuge herzustellen. Budiansky argumentiert, dass nicht bestimmte Eigenschaften den Menschen von Tieren abheben, sondern die Summe dieser Eigenschaften und vor allem die Qualität dieser Eigenschaften. Es besteht also ein quantitativer und qualitativer Unterschied zwischen Mensch und Tier.
 
 Budiansky trifft mit seiner Aussage den Nagel auf den Kopf. Es gibt kein Tier auf dieser Welt, welches alle Eigenschaften aufweist, die den Menschen so besonders machen. Ebenfalls erfüllt kein Tier auch nur eine einzelne Eigenschaft des Menschseins in der selben Qualität.
-### Wahl: Menschenbilder in Wissenschaften
-### Wahl: Menschenbilder in R und W
+### Wahltmodul 1+2: Menschenbilder in Wissenschaften, Religionen und Weltanschauungen
+#### Die Evolutionstheorie
+Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
+Mutationen, welche in einer Umgebung einen Vorteil schaffen, setzen sich durch, da Tiere, welche diese Mutation haben, eine höhere reproduktive Fitness haben (survival of the fittest). Nachteilige Mutationen setzen sich nicht durch, da Tiere, welche diese Mutation haben, sich seltener fortpflanzen können, da sie im Kampf um die lebenswichtigen Ressourcen gegen angepasstere Tiere verlieren (Struggle for Life - natürliche Selektion). Über einen langen Zeitraum entstehen so neue Spezien.
+Was den Menschen vom Tier unterscheided:
+- Mensch ist ein moralisches Wesen
+- Nicht instinktgebunden
+- Kein Überlebenskampf
+Trotzdem: Verwandschaftsgrad zu Tieren besteht
+
+#### Sozialdarwinismus
+
+Der Sozialdarwinismus überträgt die Konzepte Darwins auf unsere Gesellschaft.
+Dadurch entsteht eine menschenverachtende Perspektive, die stärkste Person, bzw. Personengruppe steht hierbei über den anderen Gruppen. Randgruppen werden hierbei ausgegrenzt, systematisch ausgegrenzt oder sogar getötet.
+
+#### Theologische Sicht auf den Menschen
+
+In der christlichen Religion ist der Mensch ein Abbild Gottes, welches in der Schöpfungsgeschichte als letztes erschaffen wurde, um über die Welt zu herrschen, er stellt den krönenden Abschluss dar.
+Wenn der Mensch Gottes Abbild ist, wieso gibt es Grausamkeit?
+Der Mensch als Gottes Ebenbild will selber Gott und seine eigenen Regeln aufstellen. Daher verfällt er der Sünde. -> Die Welt als Bestrafung ist die Abgrenzung zum Paradies. -> Menschen sind auf Gottes Vergebung angewiesen.
+
+#### Neurowissenschaften
+
+Nach den Neurowissenschaften sind alle Eigenschaften des Menschen messbar, Entscheidungen und somit das gesamte Verhalten vorraussagbar, es gibt also keinen freien Willen. Auch Emotionen lassen sich immer ablesen.
+
+#### Der freie Wille nach Kant
+
+Nach Kant ist jeder Mensch der Vernunft mächtig, dies unterscheidet und von Tieren, welche rein triebgesteuert sind. Der Mensch löst sich von seiner absoluten Freiheit und unterwirft sich freiwillig selbst gesetzten Regeln. Das Befolgen dieser Regeln kann als sittliches Handeln bezeichnet werden, der Mensch entwickelt ein Pflichtbewusstsein den Regeln gegenüber.
+
+#### Soziologische Perspektive
+
+Nach der soziologischen Perspektive muss jeder Mensch verschiedene Rollen erfüllen. Diese Rollen sind beispielsweise:
+- Ein Familienvater, der die Rolle des Vaters, Ehemanns, des Arbeiters erfüllt,
+- Ein Kind, welches Schüler, Kind und Freund von anderen Kindern ist.
+Jede Rolle stellt andere Anforderungen an eine Person. Sie wird durch Beobachtung erlernt und das Verhalten wird angepasst, um nicht aus der Masse herauszustechen. Menschen verhalten sich also nicht individuell und verschreiben sich der Konformität.
+Wie kann ein Mensch hier authentisch sein?
+Authentizität entsteht, wenn der eigene Lebensentwurf mit der Realität übereintimmt. Dafür muss ein Abgleich stattfinden. Vorraussetzung für Authentizität ist also, dass der Lebensentwurf realistisch erreichbar ist.
+#### Der Mensch als Triebwesen
+
+Nach Freud ist der Mensch aufgeteilt in Es, Ich und Über-Ich.
+Das Es (Triebe, Instinkte) steht dabei dem Über-Ich (Moralvorstellungen) gegenüber. Das Ich erkennt die Realität,
+und vermittelt die Reize des Es und die Forderungen des Über-Ichs.
+Korrekt ist eine Handlung dann, wenn sie den Anforderungen des Es, Ichs, und Über-Ichs genügen und mit der Realität konform ist.
+
 ### Wahl: Die philosophische Anthropologie der Moderne
 ## Ethik
 ### Pflicht: Normative Ethik
