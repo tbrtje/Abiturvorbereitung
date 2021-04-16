@@ -209,7 +209,8 @@ Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
 ### Wahl: Pluralismus und Konsens
 ### Wahl: Modelle staatlicher Gemeinschaft
 ### Wahl: Utopien und Ideologien
-## Religion und Weltanschauungen
+## Religion u
+ungen
 ### Pflicht: Bedeutung und Funktion von Religionen und Weltanschauungen
 ### Wahl: Gesellschaftliche Aspekte von R und W
 ### Wahl: Ethnologische Aspekte von R und W
