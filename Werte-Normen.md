@@ -3,8 +3,7 @@
 ### Utilitarismus
 Handle so, dass deine Handlung das meiste Glueck und das wenigste Leid verursacht.
 ### Kategorischer Imperativ
-Handle nach derjenigen Maxime, die auch gleich als allgemeines Gesetz gelten kann
-
+Handle nach derjenigen Maxime, die auch gleich als allgemeines Gesetz gelten kann. Ist d
 ## Menschenbilder
 ### Die Evolutionstheorie
 Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
@@ -33,7 +32,7 @@ es gibt also keinen freien Willen. Auch Emotionen lassen sich immer ablesen.
 
 ### Der freie Wille nach Kant
 
-Nach Kant hat jeder Mensch einen freien Willen, dies unterscheidet und von Tieren, welche rein triebgesteuert sind. Der Mensch unterwirft sich freiwillig selbst gesetzten Regeln. Diese Unterwerfung führt zu einer
+Nach Kant ist jeder Mensch der Vernunft mächtig, dies unterscheidet und von Tieren, welche rein triebgesteuert sind. Der Mensch löst sich von seiner absoluten Freiheit und unterwirft sich freiwillig selbst gesetzten Regeln. Das Befolgen dieser Regeln kann als sittliches Handeln bezeichnet werden, der Mensch entwickelt ein Pflichtbewusstsein den Regeln gegenüber.
 Diese Theorie hängt mit dem kategorischen Imperativ zusammen, welcher als Handlungsvorschrift gesehen werden kann.
 Die Vorschrift lautet: "Handle stets so, dass die Maxime deines Handelns zugleich als Prinzip einer allgemeinen Gesetzgebung gelten kann."
 
