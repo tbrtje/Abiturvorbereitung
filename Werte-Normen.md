@@ -247,9 +247,12 @@ Authentizität entsteht, wenn der eigene Lebensentwurf mit der Realität überei
 #### Der Mensch als Triebwesen
 
 Nach Freud ist der Mensch aufgeteilt in Es, Ich und Über-Ich.
-Das Es (Triebe, Instinkte) steht dabei dem Über-Ich (Moralvorstellungen) gegenüber. Das Ich erkennt die Realität,
-und vermittelt die Reize des Es und die Forderungen des Über-Ichs.
+Das Es (Triebe, Instinkte) steht dabei dem Über-Ich (Moralvorstellungen, Ethischer Kompass) gegenüber. Das Ich erkennt die Realität und vermittelt die Reize des Es und die Forderungen des Über-Ichs.
 Korrekt ist eine Handlung dann, wenn sie den Anforderungen des Es, Ichs, und Über-Ichs genügen und mit der Realität konform ist.
+
+#### Der Mensch als Mängelwesen
+Der Mensch ist nicht die Krone der Evolution. Wir sind nicht perfekt in allen Aspekten, haben schlechte Sicht, können weder fliegen noch schnell rennen, haben keine Reißzähne, können unsere Organe nicht regenerieren und nicht besonders gut riechen und hören. In allen Aspekten gibt es Tiere, die uns überlegen sind.
+Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, seine natürlich gegebenen Nachteile durch Entwicklungen in Medizin, Technik usw. auszugleichen und die Tiere sogar übertreffen.
 
 ### Wahl: Die philosophische Anthropologie der Moderne
 ## Ethik
