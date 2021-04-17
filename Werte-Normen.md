@@ -273,6 +273,7 @@ Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, sein
 - Tiere haben keine Vernunft -> Rechte können nur vernunftfähige Wesen haben, da nur sie in der Lage sind, so etwas zu begründen -> Keine Rechte für Tiere
 - Trotzdem hat der Mensch die Pflicht von Grausamkeit im Umgang mit Tieren abzusehen
 
+##### Naturethik allgemein
 Die Naturethik befasst sich damit, wie Rechte für Tiere zu begründen sind.
 In der Naturethik überwiegen zwei Ansichten, zum einen das physiozentrische Weltbild, das heißt die Welt an sich steht im Mittelpunkt,
 die Menschen sind also Teil der Natur und stehen nicht über ihr, und zum Anderen das antropozentrische Weltbild,
