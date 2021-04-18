@@ -208,8 +208,13 @@ Budiansky kritisiert das Vorgehen, die menschliche Einzigartigkeit als sich stä
 
 Budiansky trifft mit seiner Aussage den Nagel auf den Kopf. Es gibt kein Tier auf dieser Welt, welches alle Eigenschaften aufweist, die den Menschen so besonders machen. Ebenfalls erfüllt kein Tier auch nur eine einzelne Eigenschaft des Menschseins in der selben Qualität.
 #### Determinismus
-Determinismus beschreibt die Position, nach der die menschlichen Handlungen vorbestimmt sind, der Mensch also dem Schicksal, Gottes Plan oder ähnlichem unterliegt. Vertretende Menschenbilder sind die 
-### Wahltmodul 1+2: Menschenbilder in Wissenschaften, Religionen und Weltanschauungen
+Determinismus beschreibt die Position, nach der die menschlichen Handlungen vorbestimmt sind, der Mensch also dem Schicksal, Gottes Plan oder ähnlichem unterliegt. Vertretende Menschenbilder sind häufig religiöser Natur, die neurowissenschaftliche Position ist ebenfalls deterministisch.
+Indeterminismus beschreibt die Gegenposition: Die Menschliche Handlung ist nicht im Vorraus festgelegt. Ein passendes Menschenbild ist hier der Freie Wille nach Kant.
+#### Leib-Seele-Dualismus
+Der Leib-Seele-Dualismus nach René Descartes:
+- Es gibt eine denkende Substanz (res cognita)
+- Es gibt eine ree
+### Wahlmodul 1+2: Menschenbilder in Wissenschaften, Religionen und Weltanschauungen
 #### Die Evolutionstheorie
 Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
 Mutationen, welche in einer Umgebung einen Vorteil schaffen, setzen sich durch, da Tiere, welche diese Mutation haben, eine höhere reproduktive Fitness haben (survival of the fittest). Nachteilige Mutationen setzen sich nicht durch, da Tiere, welche diese Mutation haben, sich seltener fortpflanzen können, da sie im Kampf um die lebenswichtigen Ressourcen gegen angepasstere Tiere verlieren (Struggle for Life - natürliche Selektion). Über einen langen Zeitraum entstehen so neue Spezien.
