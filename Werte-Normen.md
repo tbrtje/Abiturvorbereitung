@@ -217,6 +217,7 @@ Der Leib-Seele-Dualismus nach René Descartes:
 - Die beiden Substanzen können miteinander interagieren.
 Da die Seele unabhängig vom Körper existiert, kann die Seele z.B. an andere, auch fiktive Orte wandern oder z.B. nach dem Tod in den Himmel aufsteigen.
 Da der Körper unabhängig von der Seele existiert, hört die Welt nach dem Tod einer Person nicht auf zu existieren.
+Monismus beschreibt die Gegenposition: Körper und Geist sind nicht trennbar. Hört der Geist auf zu existieren, existiert der Körper ebenfalls nicht.
 ### Wahlmodul 1+2: Menschenbilder in Wissenschaften, Religionen und Weltanschauungen
 #### Die Evolutionstheorie
 Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
@@ -267,6 +268,10 @@ Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, sein
 ### Wahl: Die philosophische Anthropologie der Moderne
 ## Ethik
 ### Pflicht: Normative Ethik
+#### Deontologie
+Nach Immanuel Kant beschreibt die Deontologie die Pflichtethik, also die Anwendung des kategorischen Imperatives von vernunftbegabten Wesen.
+Nach der deontologischen Ethik ist eine Handlung ethisch vertretbar, wenn sie durch eine verallgemeinerte Handlungsmaxime wie ein Naturgesetz für alle Menschen der Welt gelten kann.
+Man nehme folgendes Beispiel: Eine Person lügt bezüglich ihrer Kreditwürdigkeit, um ein Eigenheim zu finanzieren.
 ### Ethik in Medizin und Wissenschaft
 ### Modul 2 - Ökologische Ethik
 #### Tierethik
