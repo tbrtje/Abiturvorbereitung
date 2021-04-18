@@ -330,24 +330,22 @@ Glauben: objektiv unzureichend, subjektiv zureichendes Fürwahrhalten - Überzeu
 Wissen: objektiv und subjektiv zureichendes Fürwahrhalten - Gewissheit
 #### Wahrheitstheorien
 ##### Kohärenztheorie
-Es existiert ein System kohärenter Aussagen. Wenn eine Aussage war ist, muss sie zu dem bestehenden System passen. Ist dies der Fall,
-erweitert diese Aussage das bestehende System.
+Es existiert ein System kohärenter Aussagen. Wenn eine Aussage war ist, muss sie zu dem bestehenden System passen. Ist dies der Fall, erweitert diese Aussage das bestehende System.
 
-Nach dieser Theorie wären revolutionäre Erkenntnisse nicht wahr. Die Erkenntnis, dass die Erde um die Sonne kreist,
-und nicht im Mittelpunkt des Universums steht, hätte nicht zu dem bestehenden System gepasst, wäre also falsch gewesen.
+Nach dieser Theorie wären revolutionäre Erkenntnisse nicht wahr. Die Erkenntnis, dass die Erde um die Sonne kreist, und nicht im Mittelpunkt des Universums steht, hätte nicht zu dem bestehenden System gepasst, wäre also falsch gewesen.
 
 ##### Konsenstheorie
-
-Wahr ist eine Aussage, wenn sie durch Argumente zwangfrei, d.h. ohne Einschränkungen, belegt werden kann.
-Dies ist der Fall, wenn sich z.B. die wissenschaftliche Gemeinde auf eine Position einigt.
+Wahr ist eine Aussage, wenn sie durch Argumente zwangfrei, d.h. ohne Einschränkungen, belegt werden kann. Dies ist der Fall, wenn sich z.B. die wissenschaftliche Gemeinde auf eine Position einigt.
 
 ##### Korrespondenztheorie
-
 Subjektiv getroffene Aussagen müssen mit den objektiven Tatsachen übereinstimmen, also mit ihnen korrespondieren.
 Nur wenn dies der Fall ist, ist eine Aussage wahr.
 
-#### Verifikationsverfahren - Induktion und Deduktion
-
+#### Verifikationsverfahren
+##### Falsifikation
+Durch das Aufstellen einer Gegenthese kann geprüft werden, ob die Ausgangsthese tatsächlich Bestand hat. Ist die Gegenthese nicht widerlegbar, so ist die Ausgangsthese möglicherweise falsch.
+Ebenfalls lassen sich durch Falsifikationen nicht eindeutige oder unpräzise Aussagen als vorläufig akzeptabel einordnen. Ist die Gegenthese widerlegbar, so ist die Ausgangsthese vorläufig hinnehmbar.
+##### Induktion und Deduktion
 Bei der Induktion wird von einer Beobachtung auf eine Regel geschlossen, die wahre Aussage wird induziert.
 Bei der Deduktion wird von einer bestehenden Prämisse auf den Einzelfall geschlossen, also eine Vorraussage getätigt.
 In der Wissenschaft besteht der folgende Kreislauf:
