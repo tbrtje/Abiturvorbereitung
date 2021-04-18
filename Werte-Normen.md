@@ -269,13 +269,13 @@ Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, sein
 ## Ethik
 ### Pflicht: Normative Ethik
 #### Tugendethik
-Nach Aristoteles ist eine Handlung moralisch gut, wenn sie im guten Maße tugendhaft ist.
+Nach Aristoteles ist eine Handlung moralisch gut, wenn sie im guten Maße tugendhaft ist. Die Tugend wird von anderen tugendhaften Menschen erlernt und verinnerlicht, sodass sie als eigener moralischer Kompass gilt.
 Wichtige Tugenden sind:
 - Weisheit!!
 - Klugheit
 - Gerechtigkeit
 - Tapferkeit
-- Mäßigung
+- Selbstbeherrschung
 - Freigebigkeit
 - Hilfsbereitschaft
 - Seelengröße
@@ -283,10 +283,10 @@ Wichtige Tugenden sind:
 - Wahrhaftigkeit
 - Höflichkeit
 - Einfülsamkeit
-Wichtig ist hierbei, das gewisse Maß zu finden. Ich kann in Situationen zu höflich oder zu unhöflich sein, genau wie ich zu Hilfsbereit (Aufopferung) oder zu wenig Hilfsbereit sein kann.
+Wichtig ist hierbei, das gewisse Maß zu finden. Ich kann in Situationen zu tapfer (tollkühn) oder zu wenig tapfer (feige) sein, genau wie ich zu Hilfsbereit (Aufopferung) oder zu wenig Hilfsbereit sein kann.
 Darüber hinaus gibt es jedoch nach Aristoteles auch Handlungen die intrinsisch schlecht sind und zwar solche, die gegen die menschliche Natur sind, bspw. Mord.
 #### Deontologie
-Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontologie basiert die Vorstellung von Richtig und Falsch auf vorgegebenen Normen und Pflichten.
+Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontologie basiert die Vorstellung von Richtig und Falsch auf vorgegebenen Normen und Pflichten, ist somit nicht mehr situationsbedingt.
 Der wichtigste Vertreter dieser Ethik ist Immanuel Kant mit seinem Guten Willen.
 ##### christliche und jüdische Pflichtethik
 Moralisch falsch ist eine Handlung, wenn sie gegen die 10. Gebote verstößt. Diese Gebote dienen als Richtweiser. Sünden sind im christlichen Glauben vergebbar, es sei denn die Sünde bestand aus einer der sieben Todsünden, welche nicht zu entschuldigen sind.
@@ -311,6 +311,11 @@ Wie ist das Glück und Leid erfassbar. Auf einer Skala von 1-5? Als Summe aller 
 Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus auf die Bedürfnisse und Interessen (egal ob rational oder emotional) eingegangen. Abgewogen wird hierbei, wieviele Bedürfnisse und Interessen erfüllt und wie viele verletzt werden. Diese beziehen sich nicht nur auf die aktuelle Situation, sondern auch auf die Zukunft und die Vergangenheit.
 
 ### Ethik in Medizin und Wissenschaft
+#### Wann beginnt ein Leben und wann endet es?
+
+##### Sterbehilfe
+#### Opferung von Kranken zur Organspende
+####
 ### Modul 2 - Ökologische Ethik
 #### Tierethik
 ##### Wie man Rechte für Tiere begründet - Tom Regan
@@ -326,12 +331,10 @@ Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus
 - Tiere haben keine Vernunft -> Rechte können nur vernunftfähige Wesen haben, da nur sie in der Lage sind, so etwas zu begründen -> Keine Rechte für Tiere
 - Trotzdem hat der Mensch die Pflicht von Grausamkeit im Umgang mit Tieren abzusehen
 
-##### Naturethik allgemein
-Die Naturethik befasst sich damit, wie Rechte für Tiere zu begründen sind.
-In der Naturethik überwiegen zwei Ansichten, zum einen das physiozentrische Weltbild, das heißt die Welt an sich steht im Mittelpunkt,
-die Menschen sind also Teil der Natur und stehen nicht über ihr, und zum Anderen das antropozentrische Weltbild,
-dass heißt der Mensch steht über den anderen Lebewesen und der Natur.
-
+#### Verantwortung für die Umwelt
+Begründet werden kann unsere Verantwortung für die Umwelt durch zwei Perspektiven:
+1. Die Physiozentrische Perspektive: Der Mensch ist Teil der Natur und steht nicht über ihr.
+2. Die Antropozentrische Perspektive: Der Mensch steht im Mittelpunkt und ist Herr der Natur.
 Argumente für die physiozentrische Perspektive sind:
 - Das Leidensargument: Moralische Entscheidungen gelten nicht nur für den Menschen, sondern auch für die Natur, d.h. der Respekt
   für das gute Leben endet nicht beim Menschen, sondern bezieht sich auch auf Tiere. -> Menschen sollen Tiere also schützen, wie
@@ -351,7 +354,6 @@ Argumente für die antropozentrische Perspektive sind:
   und sollten daher erhalten werden. 
 - Sinn des Lebens-Argument: Der Mensch steht im Zentrum. Die religiöse Ordnung zwischen Mensch und Tier muss erhalten bleiben.
   Sinn des Menschen ist es, das Abbild Gottes auf Erden, also der Gott der Natur zu sein.
-#### Verantwortung für die Umwelt
 ### Wahl: Wirtschaftsethik
 ## Wahrheit und Wirklichkeit
 ### Wahrheitsansprüche
