@@ -270,13 +270,18 @@ Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, sein
 ### Pflicht: Normative Ethik
 #### Deontologie
 Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontologie basiert die Vorstellung von Richtig und Falsch auf vorgegebenen Normen und Pflichten.
-Der Wichtigste Vert
-Nach Immanuel Kant beschreibt die Deontologie die Pflichtethik, also die Anwendung des kategorischen Imperatives von vernunftbegabten Wesen.
-Nach der deontologischen Ethik ist eine Handlung ethisch vertretbar, wenn sie durch eine verallgemeinerte Handlungsmaxime wie ein Naturgesetz für alle Menschen der Welt gelten kann.
+Der wichtigste Vertreter dieser Ethik ist Immanuel Kant mit seinem Guten Willen.
+##### christliche und jüdische Pflichtethik
+Moralisch falsch ist eine Handlung, wenn sie gegen die 10. Gebote verstößt. Diese Gebote dienen als Richtweiser. Sünden sind im christlichen Glauben vergebbar, es sei denn die Sünde bestand aus einer der sieben Todsünden, welche nicht zu entschuldigen sind.
+##### Guter Wille nach Kant
+Nach Kant ist eine Handlung gut, wenn sie mit einem guten Willen durchgeführt wird.
+Somit kann eine tugendhafte Handlung, wenn sie mit negativer Amit dem kategorischem Imperativ übereinstimmt. Sie ist also vertretbar, wenn sie durch eine verallgemeinerte Handlungsmaxime wie ein Naturgesetz für alle Menschen der Welt gelten kann.
 Man nehme folgendes Beispiel: Eine Person bittet einen Freund um Geld und verspricht es zurückzuzahlen, weiß aber sie kann es nicht zurückgeben. Die Handlungsmaxime würde hier lauten: Jedes Mal, wenn es für mich von Vorteil ist, darf ich Versprechen eingehen, die ich nicht halten kann.
 Verallgemeinert würde das bedeuten, dass jeder Versprechen eingehen würde, die er nicht hält. Dadurch wäre das Vertrauen in das Versprechen als Institution erschüttert und in jeden, der Versprechen eingehen würde, da ein Versprechen so keinen Wert mehr hat.
 Da dieses Szenario undenkbar ist, ist die Handlung falsch. Die Person darf also nicht ihren Freund belügen.
 #### Utilitarismus
+##### Handlungsutilitarismus
+
 ### Ethik in Medizin und Wissenschaft
 ### Modul 2 - Ökologische Ethik
 #### Tierethik
