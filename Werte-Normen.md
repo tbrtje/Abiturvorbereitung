@@ -280,13 +280,19 @@ Zur Bestimmung des Willens einer Handlung lässt sich der kategorische Imperativ
 Man nehme folgendes Beispiel: Eine Person bittet einen Freund um Geld und verspricht es zurückzuzahlen, weiß aber sie kann es nicht zurückgeben. Die Handlungsmaxime würde hier lauten: Jedes Mal, wenn es für mich von Vorteil ist, darf ich Versprechen eingehen, die ich nicht halten kann.
 Verallgemeinert würde das bedeuten, dass jeder Versprechen eingehen würde, die er nicht hält. Dadurch wäre das Vertrauen in das Versprechen als Institution erschüttert und in jeden, der Versprechen eingehen würde, da ein Versprechen so keinen Wert mehr hat.
 Da dieses Szenario undenkbar ist, ist die Handlung falsch. Die Person darf also nicht ihren Freund belügen.
-#### Utilitarismus
+#### Teleologische Ethik
+Die teleologische Ethik richtet sich nicht nach bestehenden Pflichten sondern nach Zielen.
+##### Utilitarismus
 Im Utilitarismus wird immer das resultierende Leid gegen das resultierende Glück abgewogen. Passiert das bei einer Handlung und nicht einer Regel, spricht man vom Handlungsutilitarismus.
-##### Handlungsutilitarismus
-Eine Handlung ist gut, wenn sie für alle Betroffenen zu mehr Glück als Leid führt.
+##### Handlungsutilitarismus (Bentham)
+Nach Bentham ist eine Handlung ist gut, wenn sie für alle Betroffenen zu mehr Freude als Leid führt (hedonistische Position).
 Hierbei kommt man in jeder Situation zu einer Lösung.
 Problematisch hierbei ist z.B. dass Menschenleben gegeneinander abgewogen werden und Mord relativiert werden kann. Wenn z.B. eine kranke Person durch teure Maßnahmen am Leben erhalten wird, ihre Organe jedoch vielen Personen das Leben retten könne, wäre es utilitaristisch betrachtet richtig, die kranke Person zu töten, um die Organe zu spenden.
-Ebenfalls problematisch ist die Subjektivität der Abwägung von Leid und Glück außerordentlich subjektiv ist und von Person zu Person unterschiedliche Einschätzungen entstehen.
+Ebenfalls problematisch ist die Subjektivität der Abwägung von Leid und Freude, weshalb von Person zu Person unterschiedliche Einschätzungen entstehen.
+Wie ist das Glück und Leid erfassbar. Auf einer Skala von 1-5? Als Summe aller Betroffenen Personen?
+##### Präferenzutilitarismus (Singer)
+Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus auf die Bedürfnisse und Interessen (egal ob rational oder emotional) eingegangen. Abgewogen wird hierbei, wieviele Bedürfnisse und Interessen erfüllt und wie viele verletzt werden. Diese beziehen sich nicht nur auf die aktuelle Situation, sondern auch auf die Zukunft und die Vergangenheit.
+
 ### Ethik in Medizin und Wissenschaft
 ### Modul 2 - Ökologische Ethik
 #### Tierethik
