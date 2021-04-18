@@ -1,16 +1,4 @@
 # Werte und Normen - Abitur
-## Ethik
-### Utilitarismus
-Handle so, dass deine Handlung das meiste Glueck und das wenigste Leid verursacht.
-### Kategorischer Imperativ
-Handle nach derjenigen Maxime, die auch gleich als allgemeines Gesetz gelten kann. Ist d
-
-## Erkenntnistheorie
-### Meinen - Glauben - Wissen nach Immanuel Kant
-
-Meinen: subjektiv und objektiv unzureichendes Fürwahrhalten - Vermutung
-Glauben: objektiv unzureichend, subjektiv zureichendes Fürwahrhalten - Überzeugung
-Wissen: objektiv und subjektiv zureichendes Fürwahrhalten - Gewissheit
 
 ### Einordnung von Wissen
 
@@ -54,32 +42,6 @@ es lässt sich nicht überprüfen, ob die Wahrnehmungen verschiedener Personen �
 Menschen nehmen die reale Welt so wahr, wie sie wirklich ist, Wahrnehmung und Tatsache stimmen überein.
 Die reale Welt ist vollständig unabhängig von unserer Wahrnehmung, existiert also auch ohne diese weiter.
 Das bedeutet auch, dass es keine unterschiedlichen Wahrnehmungen geben kann.
-
-### Was ist Wahrheit
-
-#### Kohärenztheorie
-Es existiert ein System kohärenter Aussagen. Wenn eine Aussage war ist, muss sie zu dem bestehenden System passen. Ist dies der Fall,
-erweitert diese Aussage das bestehende System.
-
-Nach dieser Theorie wären revolutionäre Erkenntnisse nicht wahr. Die Erkenntnis, dass die Erde um die Sonne kreist,
-und nicht im Mittelpunkt des Universums steht, hätte nicht zu dem bestehenden System gepasst, wäre also falsch gewesen.
-
-#### Konsenstheorie
-
-Wahr ist eine Aussage, wenn sie durch Argumente zwangfrei, d.h. ohne Einschränkungen, belegt werden kann.
-Dies ist der Fall, wenn sich z.B. die wissenschaftliche Gemeinde auf eine Position einigt.
-
-#### Korrespondenztheorie
-
-Subjektiv getroffene Aussagen müssen mit den objektiven Tatsachen übereinstimmen, also mit ihnen korrespondieren.
-Nur wenn dies der Fall ist, ist eine Aussage wahr.
-
-#### Induktion und Deduktion
-
-Bei der Induktion wird von einer Beobachtung auf eine Regel geschlossen, die wahre Aussage wird induziert.
-Bei der Deduktion wird von einer bestehenden Prämisse auf den Einzelfall geschlossen, also eine Vorraussage getätigt.
-In der Wissenschaft besteht der folgende Kreislauf:
-Deduktion -> Empirie (Einzelfall) -> Induktion -> Theorie(Regel) -> Deduktion
 
 ### Platon
 #### Höhlengleichnis
@@ -312,10 +274,14 @@ Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus
 
 ### Ethik in Medizin und Wissenschaft
 #### Wann beginnt ein Leben und wann endet es?
-
+##### Schwangerschaftsabbrüche
+Pränataldiagnostik -> Mein Kind ist behindert -> Darf ich es töten
 ##### Sterbehilfe
+Darf ich jemanden von seinem Leid erlösen?
+Rechtlich: nicht aktiv, jedoch passiv durch auslassen von lebenserhaltenden Maßnahmen
+Moralisch: ?
 #### Opferung von Kranken zur Organspende
-####
+#### CRISPR - Designerbabys
 ### Modul 2 - Ökologische Ethik
 #### Tierethik
 ##### Wie man Rechte für Tiere begründet - Tom Regan
@@ -357,6 +323,35 @@ Argumente für die antropozentrische Perspektive sind:
 ### Wahl: Wirtschaftsethik
 ## Wahrheit und Wirklichkeit
 ### Wahrheitsansprüche
+#### Meinen - Glauben - Wissen
+##### Nach Immanuel Kant
+Meinen: subjektiv und objektiv unzureichendes Fürwahrhalten - Vermutung
+Glauben: objektiv unzureichend, subjektiv zureichendes Fürwahrhalten - Überzeugung
+Wissen: objektiv und subjektiv zureichendes Fürwahrhalten - Gewissheit
+#### Wahrheitstheorien
+##### Kohärenztheorie
+Es existiert ein System kohärenter Aussagen. Wenn eine Aussage war ist, muss sie zu dem bestehenden System passen. Ist dies der Fall,
+erweitert diese Aussage das bestehende System.
+
+Nach dieser Theorie wären revolutionäre Erkenntnisse nicht wahr. Die Erkenntnis, dass die Erde um die Sonne kreist,
+und nicht im Mittelpunkt des Universums steht, hätte nicht zu dem bestehenden System gepasst, wäre also falsch gewesen.
+
+##### Konsenstheorie
+
+Wahr ist eine Aussage, wenn sie durch Argumente zwangfrei, d.h. ohne Einschränkungen, belegt werden kann.
+Dies ist der Fall, wenn sich z.B. die wissenschaftliche Gemeinde auf eine Position einigt.
+
+##### Korrespondenztheorie
+
+Subjektiv getroffene Aussagen müssen mit den objektiven Tatsachen übereinstimmen, also mit ihnen korrespondieren.
+Nur wenn dies der Fall ist, ist eine Aussage wahr.
+
+#### Verifikationsverfahren - Induktion und Deduktion
+
+Bei der Induktion wird von einer Beobachtung auf eine Regel geschlossen, die wahre Aussage wird induziert.
+Bei der Deduktion wird von einer bestehenden Prämisse auf den Einzelfall geschlossen, also eine Vorraussage getätigt.
+In der Wissenschaft besteht der folgende Kreislauf:
+Deduktion -> Empirie (Einzelfall) -> Induktion -> Theorie(Regel) -> Deduktion
 ### Wahrheit und Wirklichkeit in den Medien
 ### Sprache, Wahrheit und Wirklichkeit
 ### Wahrheit und Wirklichkeit in der Kunst
