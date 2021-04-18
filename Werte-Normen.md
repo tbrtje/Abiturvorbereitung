@@ -268,6 +268,23 @@ Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, sein
 ### Wahl: Die philosophische Anthropologie der Moderne
 ## Ethik
 ### Pflicht: Normative Ethik
+#### Tugendethik
+Nach Aristoteles ist eine Handlung moralisch gut, wenn sie im guten Maße tugendhaft ist.
+Wichtige Tugenden sind:
+- Weisheit!!
+- Klugheit
+- Gerechtigkeit
+- Tapferkeit
+- Mäßigung
+- Freigebigkeit
+- Hilfsbereitschaft
+- Seelengröße
+- Sanftmut
+- Wahrhaftigkeit
+- Höflichkeit
+- Einfülsamkeit
+Wichtig ist hierbei, das gewisse Maß zu finden. Ich kann in Situationen zu höflich oder zu unhöflich sein, genau wie ich zu Hilfsbereit (Aufopferung) oder zu wenig Hilfsbereit sein kann.
+Darüber hinaus gibt es jedoch nach Aristoteles auch Handlungen die intrinsisch schlecht sind und zwar solche, die gegen die menschliche Natur sind, bspw. Mord.
 #### Deontologie
 Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontologie basiert die Vorstellung von Richtig und Falsch auf vorgegebenen Normen und Pflichten.
 Der wichtigste Vertreter dieser Ethik ist Immanuel Kant mit seinem Guten Willen.
