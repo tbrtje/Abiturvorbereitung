@@ -212,8 +212,11 @@ Determinismus beschreibt die Position, nach der die menschlichen Handlungen vorb
 Indeterminismus beschreibt die Gegenposition: Die Menschliche Handlung ist nicht im Vorraus festgelegt. Ein passendes Menschenbild ist hier der Freie Wille nach Kant.
 #### Leib-Seele-Dualismus
 Der Leib-Seele-Dualismus nach René Descartes:
-- Es gibt eine denkende Substanz (res cognita)
-- Es gibt eine ree
+- Es gibt eine denkende Substanz (substantia cognita), auch Seele genannt
+- Es gibt eine von der Seele unabhängige materielle Substanz (substantia corporea), auch Körper genannt
+- Die beiden Substanzen können miteinander interagieren.
+Da die denkende Substanz unabhängig von der existieren, kann die Seele z.B. an andere, auch fiktive Orte wandern oder z.B. nach dem Tod in den Himmel aufsteigen.
+Da die materielle Substanz unabhängig von der denkenden Substanz existiert, hört die Welt nach dem Tod einer Person nicht auf zu existieren.
 ### Wahlmodul 1+2: Menschenbilder in Wissenschaften, Religionen und Weltanschauungen
 #### Die Evolutionstheorie
 Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
