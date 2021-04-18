@@ -281,16 +281,16 @@ Man nehme folgendes Beispiel: Eine Person bittet einen Freund um Geld und verspr
 Verallgemeinert würde das bedeuten, dass jeder Versprechen eingehen würde, die er nicht hält. Dadurch wäre das Vertrauen in das Versprechen als Institution erschüttert und in jeden, der Versprechen eingehen würde, da ein Versprechen so keinen Wert mehr hat.
 Da dieses Szenario undenkbar ist, ist die Handlung falsch. Die Person darf also nicht ihren Freund belügen.
 #### Teleologische Ethik
-Die teleologische Ethik richtet sich nicht nach bestehenden Pflichten sondern nach Zielen.
+Die teleologische Ethik richtet sich nicht nach bestehenden Pflichten sondern rein nach Nutzen einer Handlung. Der größte Vertreter dieser Richtung ist Bentham mit seinem Handlungsutilitarismus.
 ##### Utilitarismus
 Im Utilitarismus wird immer das resultierende Leid gegen das resultierende Glück abgewogen. Passiert das bei einer Handlung und nicht einer Regel, spricht man vom Handlungsutilitarismus.
-##### Handlungsutilitarismus (Bentham)
+###### Handlungsutilitarismus (Bentham)
 Nach Bentham ist eine Handlung ist gut, wenn sie für alle Betroffenen zu mehr Freude als Leid führt (hedonistische Position).
 Hierbei kommt man in jeder Situation zu einer Lösung.
 Problematisch hierbei ist z.B. dass Menschenleben gegeneinander abgewogen werden und Mord relativiert werden kann. Wenn z.B. eine kranke Person durch teure Maßnahmen am Leben erhalten wird, ihre Organe jedoch vielen Personen das Leben retten könne, wäre es utilitaristisch betrachtet richtig, die kranke Person zu töten, um die Organe zu spenden.
 Ebenfalls problematisch ist die Subjektivität der Abwägung von Leid und Freude, weshalb von Person zu Person unterschiedliche Einschätzungen entstehen.
 Wie ist das Glück und Leid erfassbar. Auf einer Skala von 1-5? Als Summe aller Betroffenen Personen?
-##### Präferenzutilitarismus (Singer)
+###### Präferenzutilitarismus (Singer)
 Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus auf die Bedürfnisse und Interessen (egal ob rational oder emotional) eingegangen. Abgewogen wird hierbei, wieviele Bedürfnisse und Interessen erfüllt und wie viele verletzt werden. Diese beziehen sich nicht nur auf die aktuelle Situation, sondern auch auf die Zukunft und die Vergangenheit.
 
 ### Ethik in Medizin und Wissenschaft
