@@ -1,3 +1,7 @@
+---
+uid: d4913d1c3fcbd58c0011691edf9a243d
+---
+
 # Physik
 ## Grundlagen
 ### Energieerhaltungssatz

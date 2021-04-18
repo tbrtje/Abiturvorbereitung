@@ -1,3 +1,7 @@
+---
+uid: cc058ad67e08aa8cb71b045c45e14ece
+---
+
 $P = \lbrace$
 $A\to aA|bA|…zA|aB|bB|cB$
 $B \to .C$

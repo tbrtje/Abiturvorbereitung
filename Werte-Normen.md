@@ -1,3 +1,7 @@
+---
+uid: 7c320e7606c68a8fa3b81de33740ef5a
+---
+
 # Werte und Normen - Abitur
 ## Ethik
 ### Utilitarismus
