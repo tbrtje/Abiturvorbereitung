@@ -5,26 +5,24 @@ cards-deck: Default
 
 # Physik
 ## Grundlagen
-### Energieerhaltungssatz #card
+### Energieerhaltungssatz
 Energie geht nicht verloren, wird nicht produziert, sondern nur umgewandelt. In einem geschlossenen System bleibt die Energie also konstant.
-^1618738075111
+
 
 ## Elektrizität
-### Elektrizität - Grundlagen #card
+### Elektrizität - Grundlagen 
 I beschreibt die Stärke eines Stroms. Definiert ist diese Größe als Ladung pro Zeit.
 Q ist die Ladung, also eine bestimmte Anzahl an Elektronen.
 E ist die elektrische Feldstärke.
 U ist die Spannung, also die Energie pro Ladungsträger.
 C ist die Kapazität eines Kondensators, also die Ladung pro Spannung
 L ist die Induktivität einer Spule. Sie beschreibt alle materiellen und geometrischen Eigenschaften der Spule.
-^1618738193153
 
-### Elektrische Felder #card 
+### Elektrische Felder 
 Elektrische Felder entstehen zwischen zwei Potentialen, also wenn Ladung getrennt wird.
 Das Feld eines Kondensators ist homogen, die Feldlinien (von plus nach minus) in diesem Feld verlaufen also parallel, eine Probeladung wird überall
 gleichmässig und in die gleiche Richtung abgelenkt.
 Das Feld zwischen einer Kugel und einer Ringelektrode wird Radialfeld genannt.
-^1618738193167
 
 #### Plattenkondensator
 Besteht aus zwei Platten, welche räumlich voneinander getrennt sind. Schließt man nun eine Spannungsquelle an, so fließen Elektronen in
