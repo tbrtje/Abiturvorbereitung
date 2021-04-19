@@ -309,7 +309,7 @@ Wissen a posteriori: Tatsachenwahrheit, die aus Erfahrungen entsteht, eher eine 
 #### Postmoderne
 Die Postmoderne ist allgemein bekannt als Epoche nach der Moderne.
 In der Philosophie ist der größte Vertreter Jean François Lyotard mit seinem Bericht über *das postmoderne Wissen* und *das Ende der großen Erzählungen.*
-Allgemein werden in der Postmoderne Ziele der Geschichte geleugnet und das Konzept der absoluten Wahrheit abgelehnt.
+Allgemein werden in der Postmoderne Ziele der Geschichte geleugnet und das Konzept der absoluten Wahrheit abgelehnt. Werte wie Pluralität und Differenz sind hier vorherrschend.
 ##### Lyotard - Das postmoderne Wissen
 Fakten müssen
 - nachweisbar,
@@ -319,7 +319,8 @@ Fakten müssen
 - sie sind Zeit- und Sprachabhängig
 Es gibt keine universell richtige Lösung -> Situationsabhängigkeit. Es gibt jedoch situationsbedingt richtige und falsche Aussagen. Daher sind situationsbedingte Maxime nötig, da in unterschiedlichen Situationen unterschiedliche Regeln benötigt werden.
 ##### Indifferenz
-
+Das Ende der Postmoderne?
+Heutzutage sind die Unterschiede deutlich geringer als die Ähnlichkeiten. Dies ist merkbar in Politik (alle Parteien machen den selben Kram), Kleidung (jeder trägt das selbe), Musikgeschmack 
 #### Posthistoire
 Die Zeit nach dem Ende der Geschichte.
 ##### Fukuyama - Das Ende der Geschichte
