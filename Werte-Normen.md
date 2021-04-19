@@ -107,6 +107,9 @@ Der Mensch ist nicht die Krone der Evolution. Wir sind nicht perfekt in allen As
 Der Mensch ist jedoch im Vergleich zu anderen Tieren intelligent und weiß, seine natürlich gegebenen Nachteile durch Entwicklungen in Medizin, Technik usw. auszugleichen und die Tiere sogar übertreffen.
 
 ### Wahl: Die philosophische Anthropologie der Moderne
+#### Der Mensch als Vernunftwesen
+animal rationabile: Die Eigenschaften des Menschen werden durch ihn selber angepasst, da er vernunftbegabt ist.
+animal rationale: Der Mensch handelt vernünftig
 ## Ethik
 ### Pflicht: Normative Ethik
 #### Tugendethik
