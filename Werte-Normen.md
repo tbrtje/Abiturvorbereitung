@@ -321,7 +321,11 @@ Gefährdung - Indifferenz -> es werden keine Unterscheidungen vorgenommen. Alle 
 ##### Fukuyama - Das Ende der Geschichte
 Wenn man die Weltgeschichte als Einheit betrachtet, dann wurde in ihr beständig auf das Erreichen der Freiheit hingearbeitet und darum gekämpft. Diese Freiheit wurde in der westlichen Welt erreicht. Wir leben in einem gerechten politischen und sozialen System. Da keine grundlegend bessere Welt vorstellbar ist, müssen wir annehmen, dass wir am Ende der Geschichte angelangt sind.
 ##### Posthistoire
-
+Die Zeit nach dem Ende der Geschichte.
+###### Abgrenzung zur Postmoderne
+|Postmoderne|Posthistoire|
+|---|---|
+|- Grosse Erzaehlungen sind vorbei|- Geschichte ist vorbei|
 #### Glücksdefinitionen
 ##### Nach Aristoteles
 Nach Aristoteles gibt es drei Lebensformen aufsteigend erstrebenswert sortiert.
