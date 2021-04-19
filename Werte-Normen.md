@@ -252,43 +252,28 @@ a posteriori:
 ##### Skeptizismus
 Skeptizismus beschreibt eine philosophische Denkrichtung, die die uns bekannte Welt in Frage stellt. Hinterfragt werden hierbei als gegeben angesehene Sachverhalte.
 ###### Solipzismus
-Geht zurück auf René Descartes ("Ich denke, also bin ich"). Das einzige, was real ist, sind die eigenen Gedanken, denn wären sie es nicht,
-würden Sie sich nicht denken lassen. Alles andere kann nicht bewiesen werden.
-
+Geht zurück auf René Descartes ("Ich denke, also bin ich", "Cognito ergo sum"). Das einzige, was real ist, sind die eigenen Gedanken, denn wären sie es nicht, würden Sie sich nicht denken lassen. Alles andere kann nicht bewiesen werden.
 ##### kritischer Realismus
-
-Es existiert eine reale Welt, die durch die menschlichen Sinne wahrgenommen werden kann, jedoch lässt sich nicht sagen,
-inwiefern diese reale Welt mit den wahrgenommenen Erscheinungen übereinstimmt.
-
+Es existiert eine reale Welt, die durch die menschlichen Sinne wahrgenommen werden kann, jedoch lässt sich nicht sagen, inwiefern diese reale Welt mit den wahrgenommenen Erscheinungen übereinstimmt.
 Wichtige Thesen:
 - Metaphysik: Es gibt eine vom Menschen unabhängige Wirklichkeit.
 - Erkenntnistheorie: Diese Wirklichkeit ist für den Menschen zumindest in Teilen erkennbar.
-
 Objekte, die in der realen Welt existieren, 
 1. können durch Experimente nachgewiesen werden,
 2. werden mithilfe der Sinne wahrgenommen
-Diese Sinnesdaten und damit die Wahrnemungen sind jedoch von Mensch zu Mensch unterschiedlich,
-es lässt sich nicht überprüfen, ob die Wahrnehmungen verschiedener Personen übereinstimmen.
-
+Diese Sinnesdaten und damit die Wahrnemungen sind jedoch von Mensch zu Mensch unterschiedlich, es lässt sich nicht überprüfen, ob die Wahrnehmungen verschiedener Personen übereinstimmen.
 ##### naiver Realismus
-
-Menschen nehmen die reale Welt so wahr, wie sie wirklich ist, Wahrnehmung und Tatsache stimmen überein.
-Die reale Welt ist vollständig unabhängig von unserer Wahrnehmung, existiert also auch ohne diese weiter.
-Das bedeutet auch, dass es keine unterschiedlichen Wahrnehmungen geben kann.
-
+Menschen nehmen die reale Welt so wahr, wie sie wirklich ist, Wahrnehmung und Tatsache stimmen überein. Die reale Welt ist vollständig unabhängig von unserer Wahrnehmung, existiert also auch ohne diese weiter. Das bedeutet auch, dass es keine unterschiedlichen Wahrnehmungen geben kann.
 ##### Platon
 ###### Höhlengleichnis
 ![Hoehlengleichnis](assets/Hoehlengleichnis.svg)
 Menschen sind in einer Höhle angekettet, sie haben vorher nichts von der äußeren Welt gesehen und können nur die Schatten von Gegenständen, welche Menschen an der Höhle vorbeitragen, erkennen.
 Nun bricht einer der Gefesselten aus und sieht die wahre Welt. Kommt er zurück um zu berichten, glauben ihm die Anderen nicht, sie können es sich nicht vorstellen.
-
 Deutung:
 Die Höhle steht für die durch unsere Sinne wahrgenommene Abbildung der echten Welt.
 Das Äußere kann als das ausschließlich geistig Erfassbare angesehen werden.
 Der Aufstieg ans Tageslicht kann als Aufstieg der Seele zur "geistigen Stätte" gesehen werden.
-
 ###### Liniengleichnis
-
 ![Liniengleichnis](assets/Liniengleichnis.svg)
 Nach dem Liniengleichnis steht die Erkenntnis über der Meinung. Die Erkenntnis ist aufgeteilt in Ideen und mathematischen Gegenständen. Ideen stehen dabei oben.
 Die Meinung unterteilt sich zwischen sinnlich wahrnehmbaren Dingen und Abbildern. Abbilder stehen dabei under den sinnlich wahrnehmbaren Dingen.
@@ -312,16 +297,13 @@ Fakten müssen
 - auf Wissenschaft gestützt,
 - müssen überzeugend sein und
 - sind reine Konstruktionen - sie sind Zeit- und Sprachabhängig
-
 Es gibt keine universell richtige Lösung -> Situationsabhängigkeit
 Es gibt jedoch situationsbedingt richtige und falsche Aussagen.
-
 Daher sind situationsbedingte Maxime nötig, da in unterschiedlichen Situationen unterschiedliche Regeln benötigt werden.
-
 Vielfalt und Pluralität
-
 Gefährdung - Indifferenz -> es werden keine Unterscheidungen vorgenommen. Alle gelten als gleich.
 ##### Posthistoire
+
 #### Glücksdefinitionen
 ##### Nach Aristoteles
 Nach Aristoteles gibt es drei Lebensformen aufsteigend erstrebenswert sortiert.
