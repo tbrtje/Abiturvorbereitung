@@ -1,24 +1,10 @@
 # Werte und Normen - Abitur
 
-### Einordnung von Wissen
 
-a priori:
-- Wissen, welches vor der Erfahrung besteht
-- Wissen nach Verstand
-- immer wahr, kann nicht falsch sein
-a posteriori:
-- Wissen, welches nach der Erfahrung besteht
-- Wissen, welches durch Erfahrung erlangt wird.
-- gilt nicht in allen Fällen
-- Eher Regel als Gesetz und daher keine allgemeine Gültigkeit
 
 ### Skeptizismus
-
-Skeptizismus beschreibt eine philosophische Denkrichtung, die die uns bekannte Welt in Frage stellt.
-Hinterfragt werden hierbei als gegeben angesehene Sachverhalte.
-
+Skeptizismus beschreibt eine philosophische Denkrichtung, die die uns bekannte Welt in Frage stellt. Hinterfragt werden hierbei als gegeben angesehene Sachverhalte.
 #### Solipzismus
-
 Geht zurück auf René Descartes ("Ich denke, also bin ich"). Das einzige, was real ist, sind die eigenen Gedanken, denn wären sie es nicht,
 würden Sie sich nicht denken lassen. Alles andere kann nicht bewiesen werden.
 
@@ -350,6 +336,16 @@ Bei der Induktion wird von einer Beobachtung auf eine Regel geschlossen, die wah
 Bei der Deduktion wird von einer bestehenden Prämisse auf den Einzelfall geschlossen, also eine Vorraussage getätigt.
 In der Wissenschaft besteht der folgende Kreislauf:
 Deduktion -> Empirie (Einzelfall) -> Induktion -> Theorie(Regel) -> Deduktion
+#### Wie lässt sich Wissen einordnen?
+a priori:
+- Wissen, welches vor der Erfahrung besteht
+- Wissen nach Verstand
+- immer wahr, kann nicht falsch sein
+a posteriori:
+- Wissen, welches nach der Erfahrung besteht
+- Wissen, welches durch Erfahrung erlangt wird.
+- gilt nicht in allen Fällen
+- Eher Regel als Gesetz und daher keine allgemeine Gültigkeit
 ### Wahrheit und Wirklichkeit in den Medien
 ### Sprache, Wahrheit und Wirklichkeit
 ### Wahrheit und Wirklichkeit in der Kunst
