@@ -134,13 +134,17 @@ Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontolog
 Der wichtigste Vertreter dieser Ethik ist Immanuel Kant mit seinem Guten Willen.
 ##### christliche und jüdische Pflichtethik
 Moralisch falsch ist eine Handlung, wenn sie gegen die 10. Gebote verstößt. Diese Gebote dienen als Richtweiser. Sünden sind im christlichen Glauben vergebbar, es sei denn die Sünde bestand aus einer der sieben Todsünden, welche nicht zu entschuldigen sind.
-##### Guter Wille nach Kant
-Nach Kant ist eine Handlung gut, wenn sie mit einem guten Willen durchgeführt wird.
-Somit kann eine tugendhafte Handlung, wenn sie mit böser Absicht durchgeführt wird trotzdem schlecht sein.
-Zur Bestimmung des Willens einer Handlung lässt sich der kategorische Imperativ heranziehen. Eine Handlung unterliegt einem guten Willen, wenn sie durch eine verallgemeinerte Handlungsmaxime wie ein Naturgesetz für alle Menschen der Welt gelten kann.
-Man nehme folgendes Beispiel: Eine Person bittet einen Freund um Geld und verspricht es zurückzuzahlen, weiß aber sie kann es nicht zurückgeben. Die Handlungsmaxime würde hier lauten: Jedes Mal, wenn es für mich von Vorteil ist, darf ich Versprechen eingehen, die ich nicht halten kann.
-Verallgemeinert würde das bedeuten, dass jeder Versprechen eingehen würde, die er nicht hält. Dadurch wäre das Vertrauen in das Versprechen als Institution erschüttert und in jeden, der Versprechen eingehen würde, da ein Versprechen so keinen Wert mehr hat.
-Da dieses Szenario undenkbar ist, ist die Handlung falsch. Die Person darf also nicht ihren Freund belügen.
+##### Guter Wille, Moraltest und Kategorischer Imperativ nach Kant
+Nach Kant ist eine Handlung gut, wenn sie mit einem guten Willen durchgeführt wird. Somit kann eine tugendhafte Handlung, wenn sie mit böser Absicht durchgeführt wird trotzdem schlecht sein. Zur Bestimmung des Willens einer Handlung lässt sich der Moraltest heranziehen.
+Der Moraltest hat folgenden Algorithmus:
+1. Beschreibe das moralische Dilemma
+2. Formuliere eine zweckrationale Maxime
+3. Überprüfe diese Maxime im Verallgemeinerungstest
+4. Fazit: Ist die verallgemeinerte Maxime als Regelfall undenkbar, so ist die Handlung unmoralisch.
+Eine Handlung unterliegt einem guten Willen, wenn sie durch eine verallgemeinerte Handlungsmaxime wie ein Naturgesetz für alle Menschen der Welt gelten kann.
+Zusammenfassen lässt sich der Moraltest wie folgt:
+"Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie allgemeines Gesetz werde."
+Dieser Satz ist als Kants kategorischer Imperativ bekannt.
 #### Teleologische Ethik
 Die teleologische Ethik richtet sich nicht nach bestehenden Pflichten sondern rein nach Nutzen einer Handlung. Der größte Vertreter dieser Richtung ist Bentham mit seinem Handlungsutilitarismus.
 ##### Utilitarismus
