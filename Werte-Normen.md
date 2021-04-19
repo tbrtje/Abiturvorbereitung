@@ -127,6 +127,7 @@ Wichtige Tugenden sind:
 - Wahrhaftigkeit
 - Höflichkeit
 - Einfülsamkeit
+
 Wichtig ist hierbei, das gewisse Maß zu finden. Ich kann in Situationen zu tapfer (tollkühn) oder zu wenig tapfer (feige) sein, genau wie ich zu Hilfsbereit (Aufopferung) oder zu wenig Hilfsbereit sein kann.
 Darüber hinaus gibt es jedoch nach Aristoteles auch Handlungen die intrinsisch schlecht sind und zwar solche, die gegen die menschliche Natur sind, bspw. Mord.
 #### Deontologie
