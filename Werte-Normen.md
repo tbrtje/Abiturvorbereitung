@@ -1,24 +1,4 @@
 # Werte und Normen - Abitur
-
-
-
-
-
-
-### Susan Wolf - Ein sinnvolles Leben
-
-Wolf stellt in ihrem Text drei Paradigmen für ein sinnloses Leben dar, um über den Gegensatz ein sinnvolles Leben zu begründen.
-1. Blubb - Faulheit, vollständige Passivität, bspw. ein Leben nur mit Fernsehen, Schlafen und Essen
-2. Nutzlosigkeit - Ein Leben voller nutzlosen oder dekadenten Aktivitäten
-3. Bankrott - sein Leben vollständig auf ein Ziel ausrichten, welches sich dann als Illusion herausstellt,
-   bspw. die ständige Hingabe einem Partner gegenüber, welcher fremdgeht.
-
-Aus diesen Paradigmen lässt sich ein sinnvolles Leben als eines voller aktiver Beschäftigung mit erfüllenden Aktivitäten,
-also solche die merkbare Resultate erbringen, definieren.
-
-## 
-
-
 ## Individuum und Gesellschaft
 ### Pflicht: Recht und Gerechtigkeit
 ### Wahl: Pluralismus und Konsens
@@ -334,20 +314,26 @@ Vielfalt und Pluralität
 Gefährdung - Indifferenz -> es werden keine Unterscheidungen vorgenommen. Alle gelten als gleich.
 ##### Posthistoire
 #### Glücksdefinitionen
-##### Nach Aristoteles - Eudaimonismus
+##### Nach Aristoteles
 Nach Aristoteles gibt es drei Lebensformen aufsteigend erstrebenswert sortiert.
 1. Leben des Genusses -> Streben nach Triebbefriedigung, Befriedigung der Lust
 2. Politisches Leben -> Streben nach Ehre und Anerkennung, man will als gut angesehen werden
 3. Beobachtendes Leben (Autarkie) -> Streben nach geistiger Erfüllung, man erfährt Glück durch Beobachtung. Erkenntnis macht glücklich.
 Jeder Mensch empfindet eine Mischung aus diesen drei Lebensformen als Glück. Jedoch ist nur das beobachtende Leben besonders erstrebenswert und erfüllend, da man so autark ist und die Erfüllung des Glückes nur von einem selbst abhängt, also nicht wie bei dem politischen Leben von der Anerkennung anderer.
-##### Nach Epikur - Hedonismus
+##### Nach Epikur
 Glück gilt als Erfüllung der Lust. Wahre Lust wird dabei nicht im klassischen Sinne definiert, sondern als Zustand voller Ataraxie und Aponie. Ataraxie bedeutet Unerschütterlichkeit, Gleichmut und Seelenruhe und Aponie bedeutet Abwesenheit von körperlichen Schmezen. Ein solcher Zustand wird durch Distanzierung von schmerzlichen und beunruhigenden Situationen erreicht.
 
-##### Nach der Stoa - Eudaimonismus
-
+##### Nach der Stoa
 Glück wird durch Opferbereitschaft und dem Streben nach Pflichterfüllung (eudaimonia) erreicht.
 Im Gegensatz zu Epikur macht also nicht die Distanzierung von Problemen glücklich, sondern die aktive Bewältigung von Schmerz und Angst.
 Der Sinn des Lebens nach der Stoa ist individuell, muss jedoch verdient werden.
+#### Sinn des Lebens
+##### Susan Wolf - Ein sinnvolles Leben
+Wolf stellt in ihrem Text drei Paradigmen für ein sinnloses Leben dar, um über den Gegensatz ein sinnvolles Leben zu begründen.
+1. Blubb - Faulheit, vollständige Passivität, bspw. ein Leben nur mit Fernsehen, Schlafen und Essen
+2. Nutzlosigkeit - Ein Leben voller nutzlosen oder dekadenten Aktivitäten
+3. Bankrott - sein Leben vollständig auf ein Ziel ausrichten, welches sich dann als Illusion herausstellt, bspw. die ständige Hingabe einem Partner gegenüber, welcher fremdgeht.
+Aus diesen Paradigmen lässt sich ein sinnvolles Leben als eines voller aktiver Beschäftigung mit erfüllenden Aktivitäten, also solche die merkbare Resultate erbringen, definieren.
 ### Bildung, Arbeit und Beruf
 ### Identität im beschleunigten Zeitalter
 #### Hartmut Rosa - Muße braucht Zeit
