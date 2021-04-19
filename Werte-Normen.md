@@ -307,6 +307,7 @@ Wissen a posteriori: Tatsachenwahrheit, die aus Erfahrungen entsteht, eher eine 
 ## Lebensentwürfe
 ### Sinn, Glück und Krisenerfahrungen
 #### Postmoderne
+Die Postmoderne ist allgemein bekannt als Epoche nach der Moderne. Sie umfasst alle 
 ##### Fakten in der Postmoderne
 Fakten müssen
 - nachweisbar,
@@ -325,7 +326,8 @@ Die Zeit nach dem Ende der Geschichte.
 ###### Abgrenzung zur Postmoderne
 |Postmoderne|Posthistoire|
 |---|---|
-|- Grosse Erzaehlungen sind vorbei|- Geschichte ist vorbei|
+|- Grosse Erzaehlungen sind vorbei, Kritik am Sinn der Geschichte und der Sicht auf sie als linear fortschreitend|- Die Geschichte ist vorbei, das Ende der Geschichte erreicht|
+|- Allgemein: Aktuelle Epoche nach der Moderne||
 #### Glücksdefinitionen
 ##### Nach Aristoteles
 Nach Aristoteles gibt es drei Lebensformen aufsteigend erstrebenswert sortiert.
