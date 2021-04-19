@@ -58,7 +58,7 @@ Der Leib-Seele-Dualismus nach René Descartes:
 - Die beiden Substanzen können miteinander interagieren.
 Da die Seele unabhängig vom Körper existiert, kann die Seele z.B. an andere, auch fiktive Orte wandern oder z.B. nach dem Tod in den Himmel aufsteigen.
 Da der Körper unabhängig von der Seele existiert, hört die Welt nach dem Tod einer Person nicht auf zu existieren.
-Monismus beschreibt die Gegenposition: Körper und Geist sind nicht trennbar. Hört der Geist auf zu existieren, existiert der Körper ebenfalls nicht.
+Monismus beschreibt die Gegenposition: So etwas wie eine Seele gibt es nicht, das Denken und unser Bewusstsein entsteht allein durch Impulse im Gehirn. Mit dem Tod des Körpers hört auch das Bewusstsein auf zu existieren.
 ### Wahlmodul 1+2: Menschenbilder in Wissenschaften, Religionen und Weltanschauungen
 #### Die Evolutionstheorie
 Nach Charles Darwins Evolutionstheorie ist der Mensch das Produkt einer langen Evolutionsreihe genetischer Mutationen.
@@ -151,6 +151,8 @@ Hierbei kommt man in jeder Situation zu einer Lösung.
 Problematisch hierbei ist z.B. dass Menschenleben gegeneinander abgewogen werden und Mord relativiert werden kann. Wenn z.B. eine kranke Person durch teure Maßnahmen am Leben erhalten wird, ihre Organe jedoch vielen Personen das Leben retten könne, wäre es utilitaristisch betrachtet richtig, die kranke Person zu töten, um die Organe zu spenden.
 Ebenfalls problematisch ist die Subjektivität der Abwägung von Leid und Freude, weshalb von Person zu Person unterschiedliche Einschätzungen entstehen.
 Wie ist das Glück und Leid erfassbar. Auf einer Skala von 1-5? Als Summe aller Betroffenen Personen?
+###### Regelutilitarismus
+Es werden nicht mehr bestimmte Situationen, sondern die Einführung, Abänderung, Beibehaltung oder Annulierung von Regeln utilitaristisch abgewägt. Man schaut sich also an, ob eine Regel zu mehr Freude als Leid führt.
 ###### Präferenzutilitarismus (Singer)
 Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus auf die Bedürfnisse und Interessen (egal ob rational oder emotional) eingegangen. Abgewogen wird hierbei, wieviele Bedürfnisse und Interessen erfüllt und wie viele verletzt werden. Diese beziehen sich nicht nur auf die aktuelle Situation, sondern auch auf die Zukunft und die Vergangenheit.
 
