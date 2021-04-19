@@ -312,12 +312,14 @@ Fakten müssen
 - nachweisbar,
 - auf Wissenschaft gestützt,
 - müssen überzeugend sein und
-- sind reine Konstruktionen - sie sind Zeit- und Sprachabhängig
-Es gibt keine universell richtige Lösung -> Situationsabhängigkeit
-Es gibt jedoch situationsbedingt richtige und falsche Aussagen.
-Daher sind situationsbedingte Maxime nötig, da in unterschiedlichen Situationen unterschiedliche Regeln benötigt werden.
+- sind reine Konstruktionen
+- sie sind Zeit- und Sprachabhängig
+Es gibt keine universell richtige Lösung -> Situationsabhängigkeit. Es gibt jedoch situationsbedingt richtige und falsche Aussagen. Daher sind situationsbedingte Maxime nötig, da in unterschiedlichen Situationen unterschiedliche Regeln benötigt werden.
+
 Vielfalt und Pluralität
 Gefährdung - Indifferenz -> es werden keine Unterscheidungen vorgenommen. Alle gelten als gleich.
+##### Fukuyama - Das Ende der Geschichte
+Wenn man die Weltgeschichte als Einheit betrachtet, dann wurde in ihr beständig auf das Erreichen der Freiheit hingearbeitet und darum gekämpft. Diese Freiheit wurde in der westlichen Welt erreicht. Wir leben in einem gerechten politischen und sozialen System. Da keine grundlegend bessere Welt vorstellbar ist, müssen wir annehmen, dass wir am Ende der Geschichte angelangt sind.
 ##### Posthistoire
 
 #### Glücksdefinitionen
