@@ -307,8 +307,10 @@ Wissen a posteriori: Tatsachenwahrheit, die aus Erfahrungen entsteht, eher eine 
 ## Lebensentwürfe
 ### Sinn, Glück und Krisenerfahrungen
 #### Postmoderne
-Die Postmoderne ist allgemein bekannt als Epoche nach der Moderne. Sie umfasst alle 
-##### Fakten in der Postmoderne
+Die Postmoderne ist allgemein bekannt als Epoche nach der Moderne.
+In der Philosophie ist der größte Vertreter Jean François Lyotard mit seinem Bericht über *das postmoderne Wissen* und *das Ende der großen Erzählungen.*
+Allgemein werden in der Postmoderne Ziele der Geschichte geleugnet und das Konzept der absoluten Wahrheit abgelehnt.
+##### Lyotard - Das postmoderne Wissen
 Fakten müssen
 - nachweisbar,
 - auf Wissenschaft gestützt,
@@ -316,14 +318,13 @@ Fakten müssen
 - sind reine Konstruktionen
 - sie sind Zeit- und Sprachabhängig
 Es gibt keine universell richtige Lösung -> Situationsabhängigkeit. Es gibt jedoch situationsbedingt richtige und falsche Aussagen. Daher sind situationsbedingte Maxime nötig, da in unterschiedlichen Situationen unterschiedliche Regeln benötigt werden.
+##### Indifferenz
 
-Vielfalt und Pluralität
-Gefährdung - Indifferenz -> es werden keine Unterscheidungen vorgenommen. Alle gelten als gleich.
+#### Posthistoire
+Die Zeit nach dem Ende der Geschichte.
 ##### Fukuyama - Das Ende der Geschichte
 Wenn man die Weltgeschichte als Einheit betrachtet, dann wurde in ihr beständig auf das Erreichen der Freiheit hingearbeitet und darum gekämpft. Diese Freiheit wurde in der westlichen Welt erreicht. Wir leben in einem gerechten politischen und sozialen System. Da keine grundlegend bessere Welt vorstellbar ist, müssen wir annehmen, dass wir am Ende der Geschichte angelangt sind.
-##### Posthistoire
-Die Zeit nach dem Ende der Geschichte.
-###### Abgrenzung zur Postmoderne
+##### Abgrenzung zur Postmoderne
 |Postmoderne|Posthistoire|
 |---|---|
 |- Grosse Erzaehlungen sind vorbei, Kritik am Sinn der Geschichte und der Sicht auf sie als linear fortschreitend|- Die Geschichte ist vorbei, das Ende der Geschichte erreicht|
