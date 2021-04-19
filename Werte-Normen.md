@@ -284,6 +284,15 @@ Der methodische Zweifel besteht aus Zweifel an:
 - Bewusstsein, da dieses nicht vom Traum unterschieden werden kann.
 Der Zweifel existiert, um die Wahrheit (unbezweifelbare Annahmen) zu finden. Durch das Anwenden des methodischen Zweifels kann herausgefunden werden, was dieser Wahrheit entspricht: Ist es anzweifelbar, ist es nicht wahr.
 Das einzige, was hierbei nicht herausfällt, sind die eigenen Gedanken, selbst der eigene Körper könnte ein Trugschluss sein: siehe Solipzismus.
+### Vom Ursprung der Ideen
+#### Empirismus
+Wir starten mit einer "tabula rasa", einer unbeschriebenen Tafel. Alle Ideen kommen von unseren Sinnen (Induktion)
+#### Rationalismus
+- methodischer Zweifel:
+	- Sinne können täuschen, sicher sind nur die eigenen Gedanken
+	-> wahr ist das, was vernünftig ist
+Erkenntnis entsteht aus Schlussfolgerungen (Deduktion)
+-> Daher muss es angeborene Ideen geben (mathematische Konzepte, etc.)
 ### Wahrheit und Wirklichkeit in den Medien
 #### Alternative Fakten
 ### Sprache, Wahrheit und Wirklichkeit
