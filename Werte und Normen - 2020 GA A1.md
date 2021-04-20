@@ -16,6 +16,4 @@ Nehmen Sie zum Menschenbild des Transhumanismus Stellung. Berücksichtigen dabe
 
 Utilitaristisch betrachtet überwiegt ganz klar der Nutzen der Entwicklung. Krankheiten werden ausgerottet und das menschliche Leben verlängert oder verbesesert. Schwierige Arbeiten fallen weg, Leid wird aktiv vermieden, die resultierende Freude überwiegt also.
 
-Nach der Pflichtethik Immanuel Kants müssen wir uns die Frage stellen, ob ich den Menschen "Upgraden" kann. Verliert der Mensch nicht seine Menschlichkeit durch derartige Eingriffe? Was ist mit der Menschenwürde in diesem Fall?
-Nun führe ich also den Moraltest durch:
-Immer wenn ich einen natürlichen Nachteil habe, will ich 
+Nach der Pflichtethik Immanuel Kants müssen wir uns die Frage stellen, ob ich den Menschen "Upgraden" kann. Verliert der Mensch nicht seine Menschlichkeit durch derartige Eingriffe? Wird diese Technologie der ganzen Gesellschaft zur Verfügung stehen oder wird es so sein, dass nur die Oberschicht sich die nötigen Eingriffe leisten kann, um das Altern und Krankheiten mithilfe von Nanobots zu verhindern.
