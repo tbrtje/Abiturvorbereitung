@@ -5,4 +5,5 @@ Kurzweil behauptet ebenfalls, die Singularität, also der Zeitpunkt, an dem die 
 Es soll dann möglich sein, das menschliche Gehirn auf KI-gesteuerte Roboter zu übertragen, um den menschlichen Körper zu ersetzen.
 Der Autor unterstützt die Kredibilität von Kurzweils Aussagen, indem er seine umfassenden Patente, Ehrendoktorwürden und Prädiktionen im Bereich KI auflistet.
 Im nachfolgenden Absatz listet der Autor auf, wie sich die Ideen Kurzweils verbreitet haben und dass transhumanistische Parteien entstanden sind.
-Um den Menschen vollständig von 
+Durch einen Verbund von Medizin, Genetik, Biochemie, Nanotechnologie und Informatik soll die transhumanistische Zukunft ermöglicht werden. Dafür müssen die im Körper ablaufenden Prozesse jedoch weiter erforscht werden, damit sie später von menschenähnlichen Robotern simuliert werden können. Der Autor führt hierbei an, dass die EU mit einem eine Milliarde Euro teuren Projekt das menschliche Gehirn simulieren will, damit Abschnitte menschlicher Gehirne durch künstliche Teile ersetzt werden können um neural bedingte Krankheiten auszurotten.
+Als W
