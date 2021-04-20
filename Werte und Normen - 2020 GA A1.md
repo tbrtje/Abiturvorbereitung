@@ -16,4 +16,6 @@ Nehmen Sie zum Menschenbild des Transhumanismus Stellung. Berücksichtigen dabe
 
 Utilitaristisch betrachtet überwiegt ganz klar der Nutzen der Entwicklung. Krankheiten werden ausgerottet und das menschliche Leben verlängert oder verbesesert. Schwierige Arbeiten fallen weg, Leid wird aktiv vermieden, die resultierende Freude überwiegt also.
 
-Nach der Pflichtethik Immanuel Kants müssen wir uns die Frage stellen, ob ich den Menschen "Upgraden" kann. Verliert der Mensch nicht seine Menschlichkeit durch derartige Eingriffe? Wird diese Technologie der ganzen Gesellschaft zur Verfügung stehen oder wird es so sein, dass nur die Oberschicht sich die nötigen Eingriffe leisten kann, um das Altern und Krankheiten mithilfe von Nanobots zu verhindern.
+Nach der christlichen Ethik ist der Transhumanismus ganz klar negativ zu bewerten. Der Mensch stellt sich dem natürlichen Lebenslauf entgegen, er maßt es sich an, das Lebensende beliebig weit durch Technologie herauszuzögern. Er spielt Gott, indem er entscheiden kann, wann etwas lebt und wann etwas stirb
+
+Nach der Pflichtethik Immanuel Kants müssen wir uns die Frage stellen, ob ich den Menschen "Upgraden" darf. Verliert der Mensch nicht seine Menschlichkeit durch derartige Eingriffe? Wird diese Technologie der ganzen Gesellschaft zur Verfügung stehen oder wird es so sein, dass nur die Oberschicht sich die nötigen Eingriffe leisten kann, um das Altern und Krankheiten mithilfe von Nanobots zu verhindern.
