@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Werte und Normen - 2020 GA A1.md",
+            "file": "Werte-Normen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werte und Normen - 2020 GA A1.md",
+                "file": "Werte-Normen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "0f9d37e0ea1af971",
   "lastOpenFiles": [
+    "Werte-Normen.md",
     "Werte und Normen - 2020 GA A1.md",
     "Untitled.md",
-    "Werte-Normen.md",
     "Glücksdefinitionen.md",
     "Englisch.md",
     "Physik.md",
