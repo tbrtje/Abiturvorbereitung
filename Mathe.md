@@ -1,10 +1,8 @@
----
-uid: dc73a779b942f1b50d2426ba480c0532
----
-
 # Mathe
 ## Analysis
 ### Differential- und Integralrechnung
+Die Integration beschreibt die Umkehrung der Differenzierung einer Funktion. Daher gilt:
+$f(x)=F'(x)$
 ### Wachstum
 #### Lineares Wachstum
 #### Exponentielles Wachstum

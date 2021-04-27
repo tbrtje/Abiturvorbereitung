@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Werte-Normen.md",
-            "mode": "preview"
+            "file": "Mathe.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werte-Normen.md",
+                "file": "Mathe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0f9d37e0ea1af971",
   "lastOpenFiles": [
+    "Mathe.md",
     "Werte-Normen.md",
     "Werte und Normen - 2020 GA A1.md",
     "Untitled.md",
@@ -95,7 +96,6 @@
     "Englisch.md",
     "Physik.md",
     "assets/Liniengleichnis.svg",
-    "assets/Hoehlengleichnis.svg",
-    "Mathe.md"
+    "assets/Hoehlengleichnis.svg"
   ]
 }
