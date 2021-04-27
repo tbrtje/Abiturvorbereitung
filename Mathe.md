@@ -9,12 +9,16 @@ Integrale beschreiben die gerichtete Fläche zwischen Graphen und Abszisse in ei
 Summenregel:
 $f(x)=a(x)+b(x)$
 $f'(x)=a'(x)+b'(x)$
-Potenzenregel:
+Potenzen- und Faktorregel:
 $f(x)=a\bullet{x^n}$
 $f'(x)=a\bullet{n\bullet{x^{(n-1)}}}$
 Produktregel:
 $f(x)=a(x)\bullet{b(x)}$
 $f'(x)=a'(x)\bullet{b(x)}+a(x)\bullet{b'(x)}$
+Kettenregel:
+$f(x)=a(b(x))$
+$f'(x)=a'(b(x))\bullet{b'(x)}$
+#### Integrationsregeln
 ### Wachstum
 #### Lineares Wachstum
 #### Exponentielles Wachstum
