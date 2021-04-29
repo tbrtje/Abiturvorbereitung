@@ -41,11 +41,14 @@ In gleichen Zeitabständen wird der Bestand mit dem selben Faktor multipliziert.
 ### Lagebeziehungen
 ## Stochastik
 ### Vierfeldertafeln
-| |$P(A)$|$P(\overline{A})$| |
-|---| ---| ---| ---| ---|
-|$P(B)$|$P(A\cap B)$|$P(A\cap\overline B)$||
-|$P(\overline{B})$|$P(A\cap\overline B)$|$P(\overline A \cap \overline B)$||
+| |$A$|$\overline{A}$|
+|---| ---| ---| ---|
+|$B$|$P(A\cap B)$|$P(A\cap\overline B)$|$P(B)$
+|$\overline{B}$|$P(A\cap\overline B)$|$P(\overline A \cap \overline B)$|$P(\overline B)$
+||$P(A)$|$P(\overline A)$|1
+In Vierfeldertafeln werden keine bedingten Wahrscheinlichkeiten dargestellt.
 ### Baumdiagramme
+
 ### Bedingte Wahrscheinlichkeiten
 ### Wahrscheinlichkeitsverteilungen
 #### Binomialverteilung
