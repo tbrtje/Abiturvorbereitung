@@ -10,15 +10,18 @@ Summenregel:
 $f(x)=a(x)+b(x)$
 $f'(x)=a'(x)+b'(x)$
 Potenzen- und Faktorregel:
-$f(x)=a\bullet{x^n}$
-$f'(x)=a\bullet{n\bullet{x^{(n-1)}}}$
+$f(x)=a\cdot{x^n}$
+$f'(x)=a\cdot{n\cdot{x^{(n-1)}}}$
 Produktregel:
-$f(x)=a(x)\bullet{b(x)}$
-$f'(x)=a'(x)\bullet{b(x)}+a(x)\bullet{b'(x)}$
+$f(x)=a(x)\cdot{b(x)}$
+$f'(x)=a'(x)\cdot{b(x)}+a(x)\cdot{b'(x)}$
 Kettenregel:
 $f(x)=a(b(x))$
-$f'(x)=a'(b(x))\bullet{b'(x)}$
+$f'(x)=a'(b(x))\cdot{b'(x)}$
 #### Integrationsregeln
+$\int{x^n}\mathrm{d}x=\frac{1}{n+1}x^{n+1}+C$
+$\int c \cdot f(x) \mathrm{d} x =c \cdot \int f(x)\mathrm{d}x$
+
 ### Wachstum
 #### Lineares Wachstum
 #### Exponentielles Wachstum
