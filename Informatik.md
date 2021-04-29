@@ -24,8 +24,9 @@ Reguläre Grammatiken lassen sich als Vier-Tupel mit $G=(N,T,S,P)$ beschreiben. 
 	2. ein oder mehreren Terminalsymbolen gefolgt von einem Nichtterminalsymbol $r\in T^+N|T^+$ für eine rechtsreguläre Sprache.
 Das bedeutet, dass ein Wort einer regulären Sprache nur in eine Richtung wächst.
 ### Mealy-Automat
-Ein Mealy-Automat ist ein Transduktor (Übersetzer). Er wird als Sechs-Tupel mit $A=(\Sigma,\Omega,Q,\q_0,\delta,\lambda)$beschrieben. Dieser Automat besitzt keine Endzustände.
-Für jede Kombination aus Eingabe und Zustand wird 
+Ein Mealy-Automat ist ein Transduktor (Übersetzer). Er wird als Sechs-Tupel mit $A=(\Sigma,\Omega,Q,q_0,\delta,\lambda)$beschrieben. Dieser Automat besitzt keine Endzustände.
+Die Zustandsübergangsfunktion des Mealy-Automaten ist identisch zu der des DEA. Auch hier gilt: Eine Kombination aus Eingabesymbol und Zustand führt immer nur zu *einem* Nachfolgezustand. Hinzu kommt bei diesem Automaten eine Ausgabefunktion, die aus einer Kombination aus Zustand und Eingabezeichen zu einem Ausgabezeichen führt: $\delta: Q\times\Sigma\to\Omega$
+Für jede
 ## Codierung von Daten
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
