@@ -19,9 +19,11 @@ Kettenregel:
 $f(x)=a(b(x))$
 $f'(x)=a'(b(x))\cdot{b'(x)}$
 #### Integrationsregeln
-$\int{x^n}\mathrm{d}x=\frac{1}{n+1}x^{n+1}+C$
-$\int c \cdot f(x) \mathrm{d} x =c \cdot \int f(x)\mathrm{d}x$
-$\int\left(f(x)+g(x)\right)\mathrm{d}x = \\int \\! f(x) \\, \\mathrm{d}x + \\int \\! g(x) \\, \\mathrm{d}x$
+Potenzregel: $\int{x^n}\mathrm{d}x=\frac{1}{n+1}x^{n+1}+C$
+Faktorregel: $\int c \cdot f(x) \mathrm{d} x =c \cdot \int f(x)\mathrm{d}x$
+Summenregel: $\int\left(f(x)+g(x)\right)\mathrm{d}x =\int f(x) \mathrm{d}x+\int g(x)\mathrm{d}x$
+Partielle Integration: $\int f'(x)\cdot g(x)\mathrm{d}x=f(x)\cdot g(x)-\int f(x)\cdot g'(x)\mathrm{d}x$
+Substitutionsregel: $\int f(x)\mathrm{d}x=\int f(\varphi(u))\cdot\varphi'(u) \mathrm{d}u$
 ### Wachstum
 #### Lineares Wachstum
 #### Exponentielles Wachstum
