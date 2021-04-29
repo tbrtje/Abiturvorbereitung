@@ -29,8 +29,8 @@ Substitutionsregel: $\int f(x)\mathrm{d}x=\int f(\varphi(u))\cdot\varphi'(u) \ma
 Lineares Wachstum wird durch eine Funktion der Form $f(x)=m\cdot x+b$ beschrieben. In gleichen Stellenabständen wächst der Betrag der Funktion um den selben Wert. Das Wachstum ist also konstant.
 #### Exponentielles Wachstum
 Exponentielles Wachstum wird durch eine Funktion der Form $f(x)=f(0)\cdot e^{ln(a)\cdot x}$ oder $f(x)=f(0)\cdot a^x$ beschrieben. A gibt dabei die relative Veränderung pro Zeiteinheit an.
-Beispiel:
-Wachstum von $3\cent$In gleichen Zeitabständen wird der Bestand mit dem selben Faktor multipliziert.
+Beispiel: Wachstum von $3\%$ bedeutet $a=1,03$.
+In gleichen Zeitabständen wird der Bestand mit dem selben Faktor multipliziert.
 #### Logistisches Wachstum
 ## Geometrie
 ### Vektoren
@@ -41,6 +41,10 @@ Wachstum von $3\cent$In gleichen Zeitabständen wird der Bestand mit dem selben 
 ### Lagebeziehungen
 ## Stochastik
 ### Vierfeldertafeln
+| |$P(A)$|$P(\overline{A})$| |
+|---| ---| ---| ---| ---|
+|$P(B)$|$P(A\cap B)$|$P(A\cap\overline B)$||
+|$P(\overline{B})$|$P(A\cap\overline B)$|$P(\overline A \cap \overline B)$||
 ### Baumdiagramme
 ### Bedingte Wahrscheinlichkeiten
 ### Wahrscheinlichkeitsverteilungen
