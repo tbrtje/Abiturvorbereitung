@@ -26,7 +26,11 @@ Partielle Integration: $\int f'(x)\cdot g(x)\mathrm{d}x=f(x)\cdot g(x)-\int f(x)
 Substitutionsregel: $\int f(x)\mathrm{d}x=\int f(\varphi(u))\cdot\varphi'(u) \mathrm{d}u$
 ### Wachstum
 #### Lineares Wachstum
+Lineares Wachstum wird durch eine Funktion der Form $f(x)=m\cdot x+b$ beschrieben. In gleichen Stellenabständen wächst der Betrag der Funktion um den selben Wert. Das Wachstum ist also konstant.
 #### Exponentielles Wachstum
+Exponentielles Wachstum wird durch eine Funktion der Form $f(x)=f(0)\cdot e^{ln(a)\cdot x}$ oder $f(x)=f(0)\cdot a^x$ beschrieben. A gibt dabei die relative Veränderung pro Zeiteinheit an.
+Beispiel:
+Wachstum von $3\cent$In gleichen Zeitabständen wird der Bestand mit dem selben Faktor multipliziert.
 #### Logistisches Wachstum
 ## Geometrie
 ### Vektoren
