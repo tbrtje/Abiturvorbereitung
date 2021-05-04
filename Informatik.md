@@ -55,6 +55,11 @@ Sind die Bits also wie folgt gesetzt:
 P1 falsch, P2 richtig, P3 falsch, so wäre die Position des Fehlers 100, also 4.
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
+### Abstrakte Datentypen
+#### Schlange
+Eine Schlange hat einen Kopf und ein Ende. Sie besteht aus beliebig vielen Knoten, welche jeweils den nächsten Knoten verknüpfen. Hinten kann etwas an die Schlange angefügt werden (`void enqueue(Object x)`) und vorne ein Element entfernt werden (`Object dequeue()`), es besteht also das FIFO-Prinzip (First-In-First-Out). Einzelne Positionen sind nicht addressierbar.
+#### Stapel
+Auf einen Stapel kann oben beliebig viel gelegt werden (`void push(Object x)`). Eine Entnahme entfolgt ebenfalls von oben (`Object pull()`), es besteht also das FILO-Prinzip (First-In-Last-Out), ei. Einzelne Positionen sind auch hier nicht addressierbar. 
 ### Suchmethoden
 #### Binärsuche
 Aus einer sortierten Reihung wird das mittlere Element entnommen. Entspricht dieses Element nicht dem Gesuchten, wird geprüft, ob es größer als das Gesuchte ist.
