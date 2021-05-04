@@ -39,17 +39,20 @@ Die Produktionen $l \to r$ dieser Grammatik müssen folgende Eigenschaften aufwe
 ### Fehlerkorrektur
 #### Hammingcodes
 Hammingcodes sind fehlertolerante, optimale Codes.
-Beispiel: Der 7,4-Hammingcode besteht aus 4 Datenbits und 3 Paritybits.
+Beispiel: Der 7,4-Hammingcode besteht aus 4 Datenbits und 3 Paritybits. Er hat den Hammingabstand 3 und ist somit ein-Fehler-korrigierend.
 Die Paritybits befinden sich an Stelle 1,2 und 4.
 Paritybit 1 steht für alle Datenbits, deren Position binär codiert an der ersten Stelle (least significant bit) eine eins hat (3,5,7).
-Paritybit 2 steht für alle Datenbits, deren Position binär codiert an der zweiten Stelle (sencond least significant bit) eine eins hat (3,5,7).
+Paritybit 2 steht für alle Datenbits, deren Position binär codiert an der zweiten Stelle (sencond least significant bit) eine eins hat (2,6,7).
+Paritybit 3 steht für alle Datenbits, deren Position binär codiert an der dritten Stelle (third least significant bit) eine eins hat (5,6,7).
 | D | D | D | P | D | P | P |
 | - | - | - | - | - | -	| -	|
 | 7 | 6 | 5 | 4 | 3 | 2	| 1	|
 | D | / | D | / | D | / | P |
 | D | D | / | / | D | P | / |
 | D | D | D | P | / | / | / |
-
+Tritt ein Fehler auf, so geben die Paritybits binär codiert die Position des Fehlers an, wenn man einen Fehler als 1 und ein korrektes Bit als 0 wertet.
+Sind die Bits also wie folgt gesetzt:
+P1 falsch, P2 richtig, P3 falsch, so wäre die Position des Fehlers 100, also 4.
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
 ### Suchmethoden
