@@ -39,4 +39,7 @@ Die Produktionen $l \to r$ dieser Grammatik müssen folgende Eigenschaften aufwe
 
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
+### Suchmethoden
+#### Binärsuche
+Aus einer Reihung wird das mittlere Element entnommen. Entspricht dieses Element nicht dem Gesuchten, wird geprü
 ## Datenbanken
