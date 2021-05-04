@@ -27,8 +27,9 @@ Das bedeutet, dass ein Wort einer regulären Sprache nur in eine Richtung wächs
 Ein Mealy-Automat ist ein Transduktor (Übersetzer). Er wird als Sechs-Tupel mit $A=(\Sigma,\Omega,Q,q_0,\delta,\lambda)$beschrieben. Dieser Automat besitzt keine Endzustände.
 Die Zustandsübergangsfunktion des Mealy-Automaten ist identisch zu der des DEA. Auch hier gilt: Eine Kombination aus Eingabesymbol und Zustand führt immer nur zu *einem* Nachfolgezustand. Hinzu kommt bei diesem Automaten eine Ausgabefunktion, die aus einer Kombination aus Zustand und Eingabezeichen zu einem Ausgabezeichen führt: $\delta: Q\times\Sigma\to\Omega$
 ### Keller-Automat
-Ein Keller-Automat ist wie ein DEA ein Akzeptor und kann als 7-Tupel mit $A=( \Sigma,Q,q_0,K,\#,F,\delta)$ beschrieben werden.
-Die Übergangsfunktion ist definiert als: $\delta :Q\times\Sigma\times K \to \Q \times \Sigma$
+Ein Keller-Automat ist wie ein DEA ein Akzeptor und kann als 7-Tupel mit $A=( \Sigma,Q,q_0,K,\#,F,\delta)$ beschrieben werden. Der einzige Unterschied zum DEA ist die Erweiterung um einen Keller. In ihm können Symbole des Kelleralphabetes gespeichert werden und wieder entnommen werden. Zustandsübergänge werden durch Kombinationen aus Kellerzeichen und Eingabesymbol bestimmt. Es wird verbrauchend vom Keller gelesen.
+Die Sprachen, die durch den Kellerautomaten erkannt werden können gehören der Klasse der deterministischen kontextfreien Sprachen an. Sie sind eine echte Teilmenge der kontextfreien Sprachen. Kontextfreie Sprachen können nur durch nichtdeterministische Kellerautomaten vollständig erkannt werden.
+
 ## Codierung von Daten
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
