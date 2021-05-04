@@ -59,7 +59,16 @@ P1 falsch, P2 richtig, P3 falsch, so wäre die Position des Fehlers 100, also 4.
 #### Schlange
 Eine Schlange hat einen Kopf und ein Ende. Sie besteht aus beliebig vielen Knoten, welche jeweils den nächsten Knoten verknüpfen. Hinten kann etwas an die Schlange angefügt werden (`void enqueue(Object x)`) und vorne ein Element entfernt werden (`Object dequeue()`), es besteht also das FIFO-Prinzip (First-In-First-Out). Einzelne Positionen sind nicht addressierbar.
 #### Stapel
-Auf einen Stapel kann oben beliebig viel gelegt werden (`void push(Object x)`). Eine Entnahme entfolgt ebenfalls von oben (`Object pull()`), es besteht also das FILO-Prinzip (First-In-Last-Out), ei. Einzelne Positionen sind auch hier nicht addressierbar. 
+Auf einen Stapel kann oben beliebig viel gelegt werden (`void push(Object x)`). Eine Entnahme entfolgt ebenfalls von oben (`Object pull()`), es besteht also das FILO-Prinzip (First-In-Last-Out), eine Liste, dessen Elemente auf einen Stapel gelegt und wieder entnommen wird, liegt also am Ende in umgekehrter Reihenfolge vor. Einzelne Positionen sind auch hier nicht addressierbar.
+#### Dynamische Reihung
+Eine dynamische Reihung ähnelt der statischen Reihung, hat jedoch keine feste Länge. Es können Elemente von bestimmten Positionen geholt oder eingefügt werden, hinten angefügt werden oder von vorne, bzw. hinten entnommen werden.
+#### Binärbaum
+Ein Binärbaum besteht aus einem Knoten, der ein Objekt speichert und auf der linken und rechten Seite einen Teilbaum speichern kann. Er kann beliebig viele Ebenen haben, jedoch immer nur zwei "Kinderbäume".
+##### Traversierungen
+Traversierung beschreibt das systematische Absuchen eines Baumes. Es gibt drei Arten:
+Preorder: Ein Knoten wird vor seinen Kindern durchsucht.
+In-Order: Ein Knoten wird zwischen seinen Kindern durchsucht.
+Postorder: Ein Knoten wird nach seinen Kindern durchsucht.
 ### Suchmethoden
 #### Binärsuche
 Aus einer sortierten Reihung wird das mittlere Element entnommen. Entspricht dieses Element nicht dem Gesuchten, wird geprüft, ob es größer als das Gesuchte ist.
@@ -69,6 +78,8 @@ Für das Worst-Case-Szenario liegt die Zeitkomplexität bei $O(\log n)$
 #### Lineare Suche
 Eine Reihung wird von vorne bis hinten nach dem gesuchten Element durchsucht.
 Die Zeitkomplexität liegt bei $O(n)$
+### Sortieralgorithmen
+#### 
 ## Datenbanken
 ### SQL
 #### Wichtige Befehle
