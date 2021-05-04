@@ -9,7 +9,7 @@ $\Omega$: Endliches Ausgabealphabet
 $\delta$: Zustandsübergangsfunktion
 $\lambda$: Ausgabefunktion
 $K$: Kelleralphabet
-$#$: Vorbelegungszeichen des Kellers
+$\#$: Vorbelegungszeichen des Kellers
 $N$: Nichtterminalsymbole
 $T$: Terminalsymbole
 $S \in N$: Start-Nichtterminalsymbol
@@ -26,7 +26,9 @@ Das bedeutet, dass ein Wort einer regulären Sprache nur in eine Richtung wächs
 ### Mealy-Automat
 Ein Mealy-Automat ist ein Transduktor (Übersetzer). Er wird als Sechs-Tupel mit $A=(\Sigma,\Omega,Q,q_0,\delta,\lambda)$beschrieben. Dieser Automat besitzt keine Endzustände.
 Die Zustandsübergangsfunktion des Mealy-Automaten ist identisch zu der des DEA. Auch hier gilt: Eine Kombination aus Eingabesymbol und Zustand führt immer nur zu *einem* Nachfolgezustand. Hinzu kommt bei diesem Automaten eine Ausgabefunktion, die aus einer Kombination aus Zustand und Eingabezeichen zu einem Ausgabezeichen führt: $\delta: Q\times\Sigma\to\Omega$
-Für jede
+### Keller-Automat
+Ein Keller-Automat ist wie ein DEA ein Akzeptor und kann als 7-Tupel mit $A=( \Sigma,Q,q_0,K,\#,F,\delta)$ beschrieben werden.
+Die Übergangsfunktion ist definiert als: $\delta :Q\times\Sigma\times K \to \Q \times \Sigma$
 ## Codierung von Daten
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen

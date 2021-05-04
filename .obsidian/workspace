@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe.md",
-            "mode": "preview"
+            "file": "Informatik.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe.md",
+                "file": "Informatik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "736ce0a138d72149",
   "lastOpenFiles": [
-    "Mathe.md",
     "Informatik.md",
+    "Mathe.md",
     "Englisch.md",
     "Untitled.md",
     "Werte-Normen.md",
