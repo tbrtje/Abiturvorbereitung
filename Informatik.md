@@ -66,3 +66,30 @@ FROM tabelle1, tabelle2, ..., tabelle m
 
 [LIMIT anzahl]
 ````
+Rechenoperationen:
+```SQL
++, -, *, /
+```
+Vergleichsfunktionen:
+```SQL
+=
+!=
+>
+<
+>=
+<=
+NOT
+LIKE (mit den Platzhaltern _ und %)
+BETWEEN
+IN
+IS NULL
+```
+Aggregatfunktionen:
+```SQL
+AVG( ), COUNT( ), MAX( ), MIN( ), SUM( )
+```
+#### Normalformen
+NF1:
+- Daten sind atomar
+NF2:
+- Einfüge-, Lösch-, und Änderungsanomalien durch Vermeidung von Redundanzen verhindern
