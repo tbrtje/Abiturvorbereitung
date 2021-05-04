@@ -41,5 +41,11 @@ Die Produktionen $l \to r$ dieser Grammatik müssen folgende Eigenschaften aufwe
 ## Datenstrukturen und Sortieralgorithmen
 ### Suchmethoden
 #### Binärsuche
-Aus einer Reihung wird das mittlere Element entnommen. Entspricht dieses Element nicht dem Gesuchten, wird geprü
+Aus einer sortierten Reihung wird das mittlere Element entnommen. Entspricht dieses Element nicht dem Gesuchten, wird geprüft, ob es größer als das Gesuchte ist.
+1. Wenn ja, dann wird das Verfahren mit der größeren Hälfte der Reihung wiederholt.
+2. Wenn nein, dann wird das Verfahren mit der kleineren Hälfte wiederholt.
+Für das Worst-Case-Szenario liegt die Zeitkomplexität bei $O(\log n)$
+#### Lineare Suche
+Eine Reihung wird von vorne bis hinten nach dem gesuchten Element durchsucht.
+Die Zeitkomplexität liegt bei $O(n)$
 ## Datenbanken
