@@ -101,5 +101,11 @@ NF2:
 NF3:
 - Ein Datenbankschema ist in der 3. Normalform, wenn es in der 2NF ist und es zusätzlich kein Nichtschlüsselattribut gibt, das transitiv abhängig von einem Schlüsselattribut ist.
 
+#### ER-Modell
+Ein Entity-Relation-Modell stellt Entitäten und Relationen graphisch dar. In einem ER-Diagramm 
 ## Datenschutz
-Grundlegende Prinzipien:
+Grundlegende Prinzipien beim Sammeln von personenbezogenen Daten:
+- Prinzip der Verhältnismäßigkeit
+- Prinzip der Zweckbindung
+- Prinzip der Transparenz
+-> Verbotsprinzip: Ich darf Daten nicht ohne Erlaubnis oder gegen Widerspruch sammeln.
