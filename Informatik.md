@@ -36,7 +36,16 @@ Die Produktionen $l \to r$ dieser Grammatik müssen folgende Eigenschaften aufwe
 2. Für $r$ ist jede Kombination aus Terminalen und Nichtterminalen möglich.
 
 ## Codierung von Daten
-
+### Fehlerkorrektur
+#### Hammingcodes
+Hammingcodes sind fehlertolerante, optimale Codes.
+Beispiel: 7,4-Hammingcode
+|D|D|D|P|D|P|P
+|---|---|---|---|---|---|---|
+|7|6|5|4|3|2|1|
+|D|/|D|/|D|-|P|
+|D|D|/|/|D|P|/|
+|D|D|D|P|/|/|/|
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
 ### Suchmethoden
