@@ -39,13 +39,17 @@ Die Produktionen $l \to r$ dieser Grammatik müssen folgende Eigenschaften aufwe
 ### Fehlerkorrektur
 #### Hammingcodes
 Hammingcodes sind fehlertolerante, optimale Codes.
-Beispiel: 7,4-Hammingcode
-|D|D|D|P|D|P|P
-|---|---|---|---|---|---|---|
-|7|6|5|4|3|2|1|
-|D|/|D|/|D|-|P|
-|D|D|/|/|D|P|/|
-|D|D|D|P|/|/|/|
+Beispiel: Der 7,4-Hammingcode besteht aus 4 Datenbits und 3 Paritybits.
+Die Paritybits befinden sich an Stelle 1,2 und 4.
+Paritybit 1 steht für alle Datenbits, deren Position binär codiert an der ersten Stelle (least significant bit) eine eins hat (3,5,7).
+Paritybit 2 steht für alle Datenbits, deren Position binär codiert an der zweiten Stelle (sencond least significant bit) eine eins hat (3,5,7).
+| D | D | D | P | D | P | P |
+| - | - | - | - | - | -	| -	|
+| 7 | 6 | 5 | 4 | 3 | 2	| 1	|
+| D | / | D | / | D | / | P |
+| D | D | / | / | D | P | / |
+| D | D | D | P | / | / | / |
+
 ## Verschlüsselung von Daten
 ## Datenstrukturen und Sortieralgorithmen
 ### Suchmethoden
