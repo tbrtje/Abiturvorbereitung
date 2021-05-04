@@ -88,8 +88,18 @@ Aggregatfunktionen:
 ```SQL
 AVG( ), COUNT( ), MAX( ), MIN( ), SUM( )
 ```
-#### Normalformen
+#### Normalformen und Abhängigkeiten
+Abhängigkeiten:
+- Ein Merkmal A ist *funktional abhängig* von einem Merkmal S, wenn zu jedem möglichen Wert von S genau ein Wert aus A existiert. $S\to A$
+- Ein Attribut C ist von einem Attribut A *transitiv abhängig*, wenn es ein Attribut B gibt mit $A\to B\to C$. Dabei darf A nicht funktional abhängig von B sein.
 NF1:
 - Daten sind atomar
 NF2:
 - Einfüge-, Lösch-, und Änderungsanomalien durch Vermeidung von Redundanzen verhindern
+- Alle Attribute, die funktional abhängig von einem Teil des Primärschlüssels, aber nicht voll funktional abhängig vom gesamten Primärschlüssel sind, werden aus der Tabelle entfernt und in eine neue ausgelagert.
+- Besteht der Primärschlüssel nur aus einem Attribut, so liegt bei jeder Relation, die sich in 1NF befindet, zwangsläufig die 2NF vor.
+NF3:
+- Ein Datenbankschema ist in der 3. Normalform, wenn es in der 2NF ist und es zusätzlich kein Nichtschlüsselattribut gibt, das transitiv abhängig von einem Schlüsselattribut ist.
+
+## Datenschutz
+Grundlegende Prinzipien:
