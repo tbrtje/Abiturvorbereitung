@@ -49,3 +49,20 @@ Für das Worst-Case-Szenario liegt die Zeitkomplexität bei $O(\log n)$
 Eine Reihung wird von vorne bis hinten nach dem gesuchten Element durchsucht.
 Die Zeitkomplexität liegt bei $O(n)$
 ## Datenbanken
+### SQL
+#### Wichtige Befehle
+````SQL
+SELECT [DISTINCT | ALL] * | spalte1 [AS alias 1], spalte2 [AS alias 2], ..., spalten [AS alias n]
+
+FROM tabelle1, tabelle2, ..., tabelle m
+
+[WHERE bedingung1 (AND | OR) bedingung2 ... (AND|OR) bedingung k]
+
+[GROUP BY spalte1 , spalte2 , ... , spalte l]
+
+[HAVING gruppenBedingung1 (AND | OR) gruppenBedingung2 ... (AND | OR) gruppenBedingung s]
+
+[ORDER BY spalte1 [ASC | DESC], spalte2 [ASC | DESC], ..., spalte t [ASC | DESC]]
+
+[LIMIT anzahl]
+````
