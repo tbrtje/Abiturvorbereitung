@@ -69,9 +69,26 @@ Bei einem asymmetrischen Verfahren gibt es zwei Schlüssel, einen sogenannten ö
 Um die Nachteile beider Verfahren auszugleichen kann ein Hybridverfahren genutzt werden. Hierzu wird mithilfe eines Asymmetrischen Verfahrens ein Session-Key (Sitzungsschlüssel) übertragen, mit dem für die Dauer der Sitzung alle übertragenen Daten symmetrisch verschlüsselt werden.
 ### Monoalphabetisch
 Monoalphabetische Verfahren besitzen nur ein Geheimtextalphabet.
+Beispiel: Caesar, Vigenere, AES, DES
 ### Polyalphabetisch
-Polyalphabetisc
-###
+Polyalphabetische Verfahren besitzen mehrere Geheimtextalphabete.
+Beispiel: Vigenere
+### Transposition
+Ein Buchstabe bleibt was er ist, jedoch nicht an seinem ursprünglichen Ort.
+-> Tauschchiffren
+### Substitution
+Ein Buchstabe bleibt wo er ist, jedoch nicht was er ist.
+-> Caesar
+### Blockchiffren
+Blockchiffren verschlüsseln nicht einzelne Symbole, sondern Blöcke von Daten.
+Beispiele sind DES (56bit) oder AES.
+Bei Blockchiffren werden verschiedene Betriebsmodi unterschieden, also wie ein Block die Verschlüsselung des nächsten beeinflusst.
+### Kryptoanalyse
+In der Kryptoanalyse gibt es verschiedene Methoden:
+Brute-Force: Systematisches Durchprobieren von Schlüsseln
+Dictionary-Attack: Wörterbuchangriffe um schwache Passwörter herauszufinden
+Ist die Art der Verschlüsselung bekannt, so lassen sich weitere Methoden anwenden.
+Bei Caesar ist z.B. eine simple Häufigkeitsanalyse möglich, da jeder Klartextbuchs
 ## Datenstrukturen und Sortieralgorithmen
 ### Abstrakte Datentypen
 #### Schlange
