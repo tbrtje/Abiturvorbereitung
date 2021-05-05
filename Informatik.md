@@ -65,6 +65,8 @@ Bei einem asymmetrischen Verfahren gibt es zwei Schlüssel, einen sogenannten ö
 | Vorteile                       | Nachteile                                                                        |
 | ------------------------------ | -------------------------------------------------------------------------------- |
 | kein Schlüsseltausch notwendig | deutlich größere Schlüssellänge und Rechenaufwand für gleichbleibende Sicherheit |
+Asymmetrische Verfahren können auch zur Signatur und zur Authentifizierung verwendet werden.
+Bei der Signatur verläuft das Verfahren umgekehrt zur Verschlüsselung. Etwas wird mit einem privaten Schlüssel verschlüsselt, andere können dann durch entschlüsseln mit dem dazugehörigen öffentlichen Schlüssel, dass diese Nachricht tats
 ### Hybridverfahren
 Um die Nachteile beider Verfahren auszugleichen kann ein Hybridverfahren genutzt werden. Hierzu wird mithilfe eines Asymmetrischen Verfahrens ein Session-Key (Sitzungsschlüssel) übertragen, mit dem für die Dauer der Sitzung alle übertragenen Daten symmetrisch verschlüsselt werden.
 ### Monoalphabetisch
@@ -97,6 +99,8 @@ Die Sicherheit eines Systems darf nur vom Schlüssel, jedoch nicht von der Gehei
 "Eine gute Verschlüsselung ist die, dessen Algorithmus jedem bekannt ist."
 ## Datenstrukturen und Sortieralgorithmen
 ### Abstrakte Datentypen
+#### Zeichenketten
+Zeichenketten (Strings)
 #### Schlange
 Eine Schlange hat einen Kopf und ein Ende. Sie besteht aus beliebig vielen Knoten, welche jeweils den nächsten Knoten verknüpfen. Hinten kann etwas an die Schlange angefügt werden (`void enqueue(Object x)`) und vorne ein Element entfernt werden (`Object dequeue()`), es besteht also das FIFO-Prinzip (First-In-First-Out). Einzelne Positionen sind nicht addressierbar.
 #### Stapel
