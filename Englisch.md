@@ -27,12 +27,12 @@ Men:
 Examples: Gene Manipulation, Advancements in processing power, higher availability of broadband connections, artificial intelligence
 
 ### Chances and Risks
-| Topic     | Chances         | Risks |
-| ---------- |  --------------- |  ------ |
-| AI        | can automate things, that werent possible before, ie. Image  recognition, recognition of sicknesses, tumors and the like |the singularity scares people, they fear an almighty, general AI that is smarter than we are, which is impossible in the near future |
-| Gene Manipulation | Has the potential to eliminate genetic diseases and things like cancer | a service that produces desirable children could be dangerous |
-| Broadband Internet | Helps to diminuish the differences between poor and rich nations in terms of possibillities and chances, could lead to a fairer world | Could lead to a higher personal investment into netbased activities |
-| NeuroLinks | Could expand the longterm memory and knowledge, could help to make alzheimers a thing of the past | Increases the reliance on technology, could be desasterous if exploited |
+| Topic              | Chances                                                                                                                               | Risks                                                                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| AI                 | can automate things, that werent possible before, ie. Image  recognition, recognition of sicknesses, tumors and the like              | the singularity scares people, they fear an almighty, general AI that is smarter than we are, which is impossible in the near future |
+| Gene Manipulation  | Has the potential to eliminate genetic diseases and things like cancer                                                                | a service that produces desirable children could be dangerous                                                                        |
+| Broadband Internet | Helps to diminuish the differences between poor and rich nations in terms of possibillities and chances, could lead to a fairer world | Could lead to a higher personal investment into netbased activities                                                                  |
+| NeuroLinks         | Could expand the longterm memory and knowledge, could help to make alzheimers a thing of the past                                     | Increases the reliance on technology, could be desasterous if exploited                                                              |
 
 
 
