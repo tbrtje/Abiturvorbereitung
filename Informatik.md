@@ -54,6 +54,12 @@ Tritt ein Fehler auf, so geben die Paritybits binär codiert die Position des Fe
 Sind die Bits also wie folgt gesetzt:
 P1 falsch, P2 richtig, P3 falsch, so wäre die Position des Fehlers 100, also 4.
 ## Verschlüsselung von Daten
+### Symmetrische Verfahren
+Bei symmetrischen Verfahren wird der selbe Schlüssel zur Ver- und  Entschlüsselung verwendet. Daher muss dieser Schlüssel kommuniziert werden.
+### Asymmetrische Verfahren
+### Monoalphabetisch
+### Polyalphabetisch
+###
 ## Datenstrukturen und Sortieralgorithmen
 ### Abstrakte Datentypen
 #### Schlange
