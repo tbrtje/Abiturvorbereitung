@@ -56,6 +56,9 @@ P1 falsch, P2 richtig, P3 falsch, so wäre die Position des Fehlers 100, also 4.
 ## Verschlüsselung von Daten
 ### Symmetrische Verfahren
 Bei symmetrischen Verfahren wird der selbe Schlüssel zur Ver- und  Entschlüsselung verwendet. Daher muss dieser Schlüssel kommuniziert werden.
+| Vorteile | Nachteile |
+| -------- | --------- |
+| - schneller, weniger rechenintensiv, kleinere Schlüssellänge bei gleicher Sicherheit | - Schlüssel muss kommuniziert werden |
 ### Asymmetrische Verfahren
 ### Monoalphabetisch
 ### Polyalphabetisch
