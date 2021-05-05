@@ -66,7 +66,7 @@ Bei einem asymmetrischen Verfahren gibt es zwei Schlüssel, einen sogenannten ö
 | ------------------------------ | -------------------------------------------------------------------------------- |
 | kein Schlüsseltausch notwendig | deutlich größere Schlüssellänge und Rechenaufwand für gleichbleibende Sicherheit |
 Asymmetrische Verfahren können auch zur Signatur und zur Authentifizierung verwendet werden.
-Bei der Signatur verläuft das Verfahren umgekehrt zur Verschlüsselung. Etwas wird mit einem privaten Schlüssel verschlüsselt, andere können dann durch entschlüsseln mit dem dazugehörigen öffentlichen Schlüssel, dass diese Nachricht tats
+Bei der Signatur verläuft das Verfahren umgekehrt zur Verschlüsselung. Etwas wird mit einem privaten Schlüssel verschlüsselt, andere können dann durch entschlüsseln mit dem dazugehörigen öffentlichen Schlüssel, dass diese Nachricht tatsächlich mit dem privaten Schlüssel signiert wurde.
 ### Hybridverfahren
 Um die Nachteile beider Verfahren auszugleichen kann ein Hybridverfahren genutzt werden. Hierzu wird mithilfe eines Asymmetrischen Verfahrens ein Session-Key (Sitzungsschlüssel) übertragen, mit dem für die Dauer der Sitzung alle übertragenen Daten symmetrisch verschlüsselt werden.
 ### Monoalphabetisch
