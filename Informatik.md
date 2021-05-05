@@ -88,7 +88,13 @@ In der Kryptoanalyse gibt es verschiedene Methoden:
 Brute-Force: Systematisches Durchprobieren von Schlüsseln
 Dictionary-Attack: Wörterbuchangriffe um schwache Passwörter herauszufinden
 Ist die Art der Verschlüsselung bekannt, so lassen sich weitere Methoden anwenden.
-Bei Caesar ist z.B. eine simple Häufigkeitsanalyse möglich, da jeder Klartextbuchs
+Bei Caesar ist z.B. eine simple Häufigkeitsanalyse der Geheimtextbuchstaben möglich, da jeder Klartextbuchstabe einem Geheimtextbuchstaben eindeutig zugeordnet werden kann.
+Bei Vigenere ist dies nicht so einfach möglich, jedoch kann dieses Verfahren mit dem Kasiski-Test geknackt werden.
+Hierfür werden die Abstände von gleichen Buchstabenfolgen notiert.
+Diese können dann in Primzahlfaktoren zerlegt werden, welche dann die gültige Schlüssellänge beschreiben. Nun kann auch dieses Verfahren mit einer Häufigkeitsanalyse geknackt werden.
+### Kerckhoffs-Prinzip
+Die Sicherheit eines Systems darf nur vom Schlüssel, jedoch nicht von der Geheimhaltung der Funktionsweise abhängen.
+"Eine gute Verschlüsselung ist die, dessen Algorithmus jedem bekannt ist."
 ## Datenstrukturen und Sortieralgorithmen
 ### Abstrakte Datentypen
 #### Schlange
