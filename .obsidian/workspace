@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik.md",
+            "file": "Physik.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik.md",
+                "file": "Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "736ce0a138d72149",
   "lastOpenFiles": [
-    "Informatik.md",
+    "Physik.md",
     "Englisch.md",
+    "Informatik.md",
     "Mathe.md",
     "Untitled.md",
     "Werte-Normen.md",
     "Werte und Normen - 2020 GA A1.md",
     "Glücksdefinitionen.md",
-    "Physik.md",
     "assets/Liniengleichnis.svg",
     "assets/Hoehlengleichnis.svg"
   ]
